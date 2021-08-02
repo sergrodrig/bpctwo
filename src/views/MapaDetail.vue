@@ -30,12 +30,15 @@
         <p>{{ mapa.description }}</p>
       </div>
     </div>
-    <div v-if="mapa" class="min-w-full mx-auto my-8 space-y-4">
+    <div v-if="mapa" class="min-w-full mx-auto space-y-4">
       <!-- imagen del mapa -->
       <img v-if="mapa.imageUrlBig" :src="mapa.imageUrlBig" />
-
       <!-- imagen del layout -->
-      <img v-if="mapa.mapImageLayoutUrl" :src="mapa.mapImageLayoutUrl" />
+      <img
+        class="min-w-full"
+        v-if="mapa.mapImageLayoutUrl"
+        :src="mapa.mapImageLayoutUrl"
+      />
     </div>
   </div>
 </template>
@@ -62,14 +65,12 @@ export default {
   computed: {
     ...mapState(["mapas"]),
     mapa() {
-      // return findById(this.$store.state.mapas, this.mapaId);
       return findById(this.mapas, this.mapaId);
     },
   },
   async created() {
     await this.fetchMapa({ id: this.mapaId });
-    this.$emit("ready");
-    // this.asyncDataStatus_fetch();
+    this.asyncDataStatus_fetch();
   },
   methods: {
     ...mapActions(["fetchMapa"]),

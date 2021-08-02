@@ -1,14 +1,16 @@
 import { createRouter, createWebHistory } from "vue-router";
 import store from "@/store";
 
-import Home from "../views/Home.vue";
-import SignIn from "../views/SignIn.vue";
-import SignUp from "../views/SignUp.vue";
-import Liga from "../views/Liga.vue";
-import Equipos from "../views/Equipos.vue";
-import Mapas from "../views/Mapas.vue";
-import MapaDetail from "../views/MapaDetail.vue";
-import Resultados from "../views/Resultados.vue";
+// const UserDetails = () => import("./views/UserDetails");
+
+const Home = () => import("../views/Home.vue");
+const SignIn = () => import("../views/SignIn.vue");
+const SignUp = () => import("../views/SignUp.vue");
+const Liga = () => import("../views/Liga.vue");
+const Equipos = () => import("../views/Equipos.vue");
+const Mapas = () => import("../views/Mapas.vue");
+const MapaDetail = () => import("../views/MapaDetail.vue");
+const Resultados = () => import("../views/Resultados.vue");
 
 const routes = [
   {

@@ -182,9 +182,9 @@ export default {
   mixins: [asyncDataStatus],
   created() {
     this.asyncDataStatus_fetch();
+    this.fetchAllItems("clanes");
     this.fetchAllItems("facciones");
     this.fetchAllItems("soldados");
-    this.fetchAllItems("clanes");
     this.fetchAllItems("mapas");
   },
   methods: {
