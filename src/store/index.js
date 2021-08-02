@@ -4,7 +4,19 @@ import getters from "@/store/getters";
 import mutations from "@/store/mutations";
 
 export default createStore({
-  state: {},
+  state: {
+    clanes: [],
+    facciones: [],
+    fechas: [],
+    mapas: [],
+    soldados: [],
+    tablaResultados: [],
+    temporadas: [],
+    authId: null,
+    unsubscribes: [],
+    authUserUnsubscribe: null,
+    users: [],
+  },
   mutations,
   actions,
   getters,
