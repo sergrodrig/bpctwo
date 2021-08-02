@@ -23,8 +23,8 @@ module.exports = {
     extend: {
       backgroundColor: ["checked", "disabled"],
       cursor: ["disabled"],
-      borderColor: ["checked"],
-      ringWidth: ["hover", "active"],
+      borderColor: ["checked", "focus"],
+      ringWidth: ["hover", "active", "focus"],
       boxShadow: ["active"],
       opacity: ["disabled"],
     },
