@@ -173,11 +173,22 @@
 </template>
 
 <script>
+import asyncDataStatus from "@/mixins/asyncDataStatus";
+import { mapActions } from "vuex";
+
 export default {
   name: "Home",
   emits: ["ready"],
+  mixins: [asyncDataStatus],
   created() {
-    this.$emit("ready");
+    this.asyncDataStatus_fetch();
+    this.fetchAllItems("facciones");
+    this.fetchAllItems("soldados");
+    this.fetchAllItems("clanes");
+    this.fetchAllItems("mapas");
+  },
+  methods: {
+    ...mapActions(["fetchAllItems"]),
   },
 };
 </script>

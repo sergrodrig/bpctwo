@@ -7,6 +7,21 @@ export default {
   // ---------------------------------------
   // Authentication
   // ---------------------------------------
+  initAuthentication({ commit, state }) {
+    if (state.authObserverUnsubscribe) state.authObserverUnsubscribe();
+    return new Promise((resolve) => {
+      const unsubscribe = firebase.auth().onAuthStateChanged(async (user) => {
+        this.dispatch("unsubscribeAuthUserSnapshot");
+        if (user) {
+          await this.dispatch("fetchAuthUser");
+          resolve(user);
+        } else {
+          resolve(null);
+        }
+      });
+      commit("setAuthObserverUnsubscribe", unsubscribe);
+    });
+  },
   async registerUserWithEmailAndPassword(
     { dispatch },
     { email, nick, password, avatar = null }

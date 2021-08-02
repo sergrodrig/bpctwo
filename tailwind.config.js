@@ -23,11 +23,12 @@ module.exports = {
     extend: {
       backgroundColor: ["checked", "disabled"],
       cursor: ["disabled"],
-      borderColor: ["checked", "focus"],
-      ringWidth: ["hover", "active", "focus"],
+      borderColor: ["checked"],
+      ringWidth: ["hover", "active"],
+      ringColor: ["focus"],
       boxShadow: ["active"],
       opacity: ["disabled"],
     },
   },
-  plugins: [],
+  plugins: [require("@tailwindcss/forms")],
 };

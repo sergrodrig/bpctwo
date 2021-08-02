@@ -15,6 +15,7 @@ export default createStore({
     authId: null,
     unsubscribes: [],
     authUserUnsubscribe: null,
+    authObserverUnsubscribe: null,
     users: [],
   },
   mutations,

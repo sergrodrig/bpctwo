@@ -8,7 +8,9 @@
         </transition>
       </router-view>
     </div>
-    <AppSpinner v-show="!showPage" />
+    <transition name="fade">
+      <AppSpinner v-show="!showPage" />
+    </transition>
   </div>
   <TheFooter class="sticky top-0 z-50" />
 </template>

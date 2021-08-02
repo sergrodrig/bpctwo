@@ -11,12 +11,6 @@ import firebase from "firebase/app";
 import "firebase/firestore";
 import firebaseConfig from "@/config/firebase";
 firebase.initializeApp(firebaseConfig);
-firebase.auth().onAuthStateChanged((user) => {
-  store.dispatch("unsubscribeAuthUserSnapshot");
-  if (user) {
-    store.dispatch("fetchAuthUser");
-  }
-});
 
 // vue app instance
 const bpctwo = createApp(App);
