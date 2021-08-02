@@ -1,9 +1,23 @@
 <template>
-  <h1>Resultados</h1>
+  <div>
+    <!-- titulo pagina -->
+    <titulo-pagina texto="Resultados" />
+  </div>
 </template>
 
 <script>
-export default {};
-</script>
+import asyncDataStatus from "@/mixins/asyncDataStatus";
+import TituloPagina from "@/components/TituloPagina";
 
-<style></style>
+export default {
+  name: "Resultados",
+  components: {
+    TituloPagina,
+  },
+  mixins: [asyncDataStatus],
+  emits: ["ready"],
+  async created() {
+    this.asyncDataStatus_fetch();
+  },
+};
+</script>
