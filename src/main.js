@@ -2,18 +2,20 @@ import { createApp } from "vue";
 import App from "./App.vue";
 import router from "./router";
 import store from "./store";
+
+// tailwind
 import "@/index.css";
 
+// firebase config
 import firebase from "firebase/app";
 import "firebase/firestore";
 import firebaseConfig from "@/config/firebase";
-
 firebase.initializeApp(firebaseConfig);
 
+// vue app instance
 const bpctwo = createApp(App);
-bpctwo.use(store);
-bpctwo.use(router);
 
+// globally registered components
 const requireComponent = require.context(
   "./components",
   true,
@@ -28,4 +30,7 @@ requireComponent.keys().forEach(function (fileName) {
   bpctwo.component(baseComponentName, baseComponentConfig);
 });
 
+// config and mount
+bpctwo.use(store);
+bpctwo.use(router);
 bpctwo.mount("#app");
