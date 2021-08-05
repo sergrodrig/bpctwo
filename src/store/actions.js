@@ -149,8 +149,8 @@ export default {
   fetchItems: ({ dispatch }, { ids, resource }) =>
     Promise.all(ids.map((id) => dispatch("fetchItem", { id, resource }))),
 
-  fetchClanes: ({ dispatch }, { ids }) =>
-    dispatch("fetchItems", { resource: "clanes", ids }),
+  fetchRegimientos: ({ dispatch }, { ids }) =>
+    dispatch("fetchItems", { resource: "regimientos", ids }),
   fetchFacciones: ({ dispatch }, { ids }) =>
     dispatch("fetchItems", { resource: "facciones", ids }),
   fetchFechas: ({ dispatch }, { ids }) =>
@@ -161,6 +161,22 @@ export default {
     dispatch("fetchItems", { resource: "soldados", ids }),
   fetchResultadosTabla: ({ dispatch }, { ids }) =>
     dispatch("fetchItems", { resource: "tablaResultados", ids }),
+
+  // fetchFactionSoldiers: (context, clanes) => {
+  //   clanes.forEach(async (clan) => {
+  //     const soldadosRef = firebase.firestore().collection("soldados");
+  //     const queryRef = soldadosRef.where("clan", "==", clan.id);
+  //     const soldados = await queryRef.get();
+
+  //     if (soldados.empty) {
+  //       console.log("No matching documents.");
+  //       return;
+  //     }
+  //     soldados.forEach((doc) => {
+  //       console.log(doc.id, "=>", doc.data());
+  //     });
+  //   });
+  // },
 
   // ---------------------------------------
   // Firebase listener management

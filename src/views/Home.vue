@@ -8,51 +8,16 @@
             class="absolute top-0 left-0 z-10 w-full h-full bg-black opacity-30"
           />
           <div
-            class="
-              absolute
-              top-0
-              left-0
-              z-10
-              w-full
-              h-full
-              bg-indigo-500
-              opacity-10
-            "
+            class="absolute top-0 left-0 z-10 w-full h-full bg-indigo-500  opacity-10"
           />
           <div
-            class="
-              absolute
-              top-0
-              left-0
-              z-10
-              w-full
-              h-full
-              bg-green-500
-              opacity-10
-            "
+            class="absolute top-0 left-0 z-10 w-full h-full bg-green-500  opacity-10"
           />
           <div
-            class="
-              absolute
-              z-20
-              flex flex-col
-              items-center
-              justify-center
-              w-full
-              h-full
-            "
+            class="absolute z-20 flex flex-col items-center justify-center w-full h-full "
           >
             <div
-              class="
-                flex
-                px-5
-                py-4
-                space-x-3
-                text-center
-                bg-black
-                shadow-xl
-                bg-opacity-70
-              "
+              class="flex px-5 py-4 space-x-3 text-center bg-black shadow-xl  bg-opacity-70"
             >
               <!-- logo bpc -->
               <div
@@ -75,14 +40,7 @@
               <!-- palabra league e icono de copa -->
               <div
                 style="font-family: 'Roboto Slab', serif"
-                class="
-                  mt-2
-                  text-4xl
-                  font-thin
-                  text-white
-                  sm:text-6xl
-                  lg:text-7xl
-                "
+                class="mt-2 text-4xl font-thin text-white  sm:text-6xl lg:text-7xl"
               >
                 League
                 <span
@@ -151,13 +109,7 @@
                 class="inline-block w-16 h-1 mt-8 mb-6 bg-indigo-500 rounded"
               />
               <h2
-                class="
-                  text-sm
-                  font-medium
-                  tracking-wider
-                  text-gray-500
-                  title-font
-                "
+                class="text-sm font-medium tracking-wider text-gray-500  title-font"
               >
                 atte.
               </h2>
@@ -182,7 +134,7 @@ export default {
   mixins: [asyncDataStatus],
   created() {
     this.asyncDataStatus_fetch();
-    this.fetchAllItems("clanes");
+    this.fetchAllItems("regimientos");
     this.fetchAllItems("facciones");
     this.fetchAllItems("soldados");
     this.fetchAllItems("mapas");

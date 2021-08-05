@@ -5,8 +5,8 @@ import mutations from "@/store/mutations";
 
 export default createStore({
   state: {
-    clanes: [],
-    facciones: [],
+    regimientos: [], // bpc, etc...
+    clanes: [], // los del gulag, etc...
     fechas: [],
     mapas: [],
     soldados: [],

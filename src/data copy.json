@@ -1,0 +1,629 @@
+{
+  "clanes": [
+    { "name": "FPMR." },
+    { "name": "BP.C" },
+    { "name": "CRK" },
+    { "name": "Sh369" },
+    { "name": "SKF'" },
+    { "name": "P31M" }
+  ],
+  "facciones": [
+    {
+      "name": "Los del Gulag",
+      "initials": "LDG"
+    },
+    {
+      "name": "Mancoster Reloaded",
+      "initials": "MCR"
+    },
+    {
+      "name": "Disaster Groove",
+      "initials": "DSG"
+    },
+    {
+      "name": "The Chupa Hoyos",
+      "initials": "TCH"
+    },
+    {
+      "name": "Frozthound",
+      "initials": "FZH"
+    },
+    {
+      "name": "Wu Tang Lag",
+      "initials": "WTL"
+    },
+    {
+      "name": "Zicariato de la Perra",
+      "initials": "ZPR"
+    }
+  ],
+  "fechas": [
+    { "week": 1 },
+    { "week": 2 },
+    { "week": 3 },
+    { "week": 4 },
+    { "week": 5 },
+    { "week": 6 },
+    { "week": 7 },
+    { "week": 8 },
+    { "week": 9 },
+    { "week": 10 }
+  ],
+  "mapas": [
+    {
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66923c6f22622be7c81ea.png",
+      "description": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66923c6f22622be7c81ea.png",
+      "mapImageLayoutUrl": "",
+      "location": "Small (2v2)",
+      "name": "Aisle 9",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Aisle-9.jpg",
+      "size": ""
+    },
+    {
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Aniyah-Incursion.jpg",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d041b8d9e23761fcba3.png",
+      "description": "",
+      "name": "Aniyah Incursion",
+      "size": "Medium",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d041b8d9e23761fcba3.png",
+      "location": "2 km outside of El Nadaar, Urzikstan",
+      "mapImageLayoutUrl": ""
+    },
+    {
+      "size": "",
+      "mapImageLayoutUrl": "",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Aniyah-Palace.jpg",
+      "name": "Aniyah Palace",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d121b8d9e23761fcba5.png",
+      "description": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d121b8d9e23761fcba5.png",
+      "location": "2 km outside of El Nadaar, Urzikstan"
+    },
+    {
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d271b8d9e23761fcba7.png",
+      "description": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d271b8d9e23761fcba7.png",
+      "name": "Arklov Peak",
+      "mapImageLayoutUrl": "",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Arklov-Peak.jpg",
+      "location": "9 km outside of Venskaya, Kastovia",
+      "size": "Medium"
+    },
+    {
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Atlas-Superstore.jpg",
+      "name": "Atlas Superstore",
+      "mapImageLayoutUrl": "",
+      "location": "Verdansk, Kastovia",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d3f1b8d9e23761fcba9.png",
+      "description": "",
+      "size": "Medium",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d3f1b8d9e23761fcba9.png"
+    },
+    {
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d561b8d9e23761fcbab.png",
+      "name": "Atrium",
+      "size": "",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Atrium.jpg",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d561b8d9e23761fcbab.png",
+      "location": "Small (2v2)",
+      "description": "",
+      "mapImageLayoutUrl": ""
+    },
+    {
+      "location": "4 km outside of Tobraka, Urzikstan",
+      "mapImageLayoutUrl": "",
+      "size": "Medium",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d7d1b8d9e23761fcbaf.png",
+      "name": "Azhir Cave",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Azhir-Cave.jpg",
+      "description": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d7d1b8d9e23761fcbaf.png"
+    },
+    {
+      "location": "Realism",
+      "size": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d6f1b8d9e23761fcbad.png",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Azhir-Cave-Night.jpg",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d6f1b8d9e23761fcbad.png",
+      "description": "",
+      "mapImageLayoutUrl": "",
+      "name": "Azhir Cave (Night)"
+    },
+    {
+      "size": "",
+      "location": "Urzikstan",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d931b8d9e23761fcbb2.png",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d931b8d9e23761fcbb2.png",
+      "mapImageLayoutUrl": "",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Bazaar.jpg",
+      "description": "",
+      "name": "Bazaar"
+    },
+    {
+      "mapImageLayoutUrl": "/images/cod-modern-warfare/maps/COD-ModernWarfare-Broadcast-Mini-Map-Layout.jpg",
+      "name": "Broadcast",
+      "location": "Medium",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66da31b8d9e23761fcbb3.png",
+      "size": "Medium",
+      "description": "From the atrium and massive newsroom to the station’s balcony and nearby office buildings, this map could cater to serious CQB play through numerous tight corridors. Meanwhile, those using assault rifles, LMGs, marksman rifles, or sniper rifles can counterplay SMGs and shotguns with the use of various sightlines and the limited, yet still viable, verticality on offer.",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66da31b8d9e23761fcbb3.png",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Broadcast.jpg"
+    },
+    {
+      "size": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66db11b8d9e23761fcbb5.png",
+      "mapImageLayoutUrl": "",
+      "description": "",
+      "name": "Cargo",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Cargo.jpg",
+      "location": "Small (2v2)",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66db11b8d9e23761fcbb5.png"
+    },
+    {
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66dc71b8d9e23761fcbb7.png",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66dc71b8d9e23761fcbb7.png",
+      "size": "Medium",
+      "location": "London, England",
+      "name": "Chesire Park",
+      "mapImageLayoutUrl": "/images/cod-modern-warfare/maps/COD-ModernWarfare-Cheshire-Park-Mini-Map-Layout.jpg",
+      "description": "Take to the townhomes for long sightlines, the stores to capture objectives through intense CQB battles, or take to the side streets to take some shortcuts. If you dare, try to challenge those who may set up shop in second-story windows, phone booths, front yards, or scaffolding.",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Cheshire-Park.jpg"
+    },
+    {
+      "mapImageLayoutUrl": "",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Crash.jpg",
+      "name": "Crash",
+      "size": "Medium",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66dd81b8d9e23761fcbba.png",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66dd81b8d9e23761fcbba.png",
+      "location": "16km outside of Faridah, Urzikstan",
+      "description": ""
+    },
+    {
+      "description": "",
+      "location": "Small (2v2)",
+      "size": "",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Docks.jpg",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66deb1b8d9e23761fcbbb.png",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66deb1b8d9e23761fcbbb.png",
+      "mapImageLayoutUrl": "",
+      "name": "Docks"
+    },
+    {
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66dff1b8d9e23761fcbbd.png",
+      "location": "7 km outside of Haditha, Urzikstan",
+      "mapImageLayoutUrl": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66dff1b8d9e23761fcbbd.png",
+      "size": "Medium",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Euphrates-Bridge.jpg",
+      "description": "",
+      "name": "Euphrates Bridge"
+    },
+    {
+      "mapImageLayoutUrl": "",
+      "location": "5 km outside of Venskaya, Kastovia",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e101b8d9e23761fcbbf.png",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e101b8d9e23761fcbbf.png",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Grazna-Raid.jpg",
+      "description": "",
+      "size": "Medium",
+      "name": "Grazna Raid"
+    },
+    {
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e221b8d9e23761fcbc1.png",
+      "mapImageLayoutUrl": "",
+      "description": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e221b8d9e23761fcbc1.png",
+      "location": "",
+      "size": "",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Gulag-Showers.jpg",
+      "name": "Gulag Showers"
+    },
+    {
+      "mapImageLayoutUrl": "",
+      "mapImageUrl": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e481b8d9e23761fcbc5.png",
+      "description": "",
+      "name": "Gun Runner",
+      "location": "9 km outside of Tavorsk, Kastovia",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e481b8d9e23761fcbc5.png",
+      "size": "Medium"
+    },
+    {
+      "location": "Realism",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Gun-Runner-Night.jpg",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e3a1b8d9e23761fcbc3.png",
+      "name": "Gun Runner (Night)",
+      "size": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e3a1b8d9e23761fcbc3.png",
+      "description": "",
+      "mapImageLayoutUrl": ""
+    },
+    {
+      "description": "",
+      "mapImageLayoutUrl": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e6f1b8d9e23761fcbc9.png",
+      "name": "Hackney Yard",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e6f1b8d9e23761fcbc9.png",
+      "location": "London, United Kingdom",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Hackney-Yard.jpg",
+      "size": "Medium"
+    },
+    {
+      "location": "Realism",
+      "size": "",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Hackney-Yard-Night.jpg",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e621b8d9e23761fcbc7.png",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e621b8d9e23761fcbc7.png",
+      "mapImageLayoutUrl": "",
+      "description": "",
+      "name": "Hackney Yard (Night)"
+    },
+    {
+      "size": "Medium",
+      "mapImageLayoutUrl": "",
+      "description": "",
+      "name": "Hardhat",
+      "location": "Medium",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e7f1b8d9e23761fcbcb.png",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e7f1b8d9e23761fcbcb.png",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Hardhat.jpg"
+    },
+    {
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Hill.jpg",
+      "mapImageLayoutUrl": "",
+      "description": "",
+      "name": "Hill",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e911b8d9e23761fcbcd.png",
+      "location": "",
+      "size": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e911b8d9e23761fcbcd.png"
+    },
+    {
+      "size": "Medium",
+      "name": "Hovec Sawmill",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66eba1b8d9e23761fcbd1.png",
+      "description": "Although this humble community is a beautiful one, don’t let it distract you from the battle. Use rooftops of buildings to gain the high ground against enemies sprinting from building to building below and use the splashes of footsteps on the rolling river to track down flanking players.",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66eba1b8d9e23761fcbd1.png",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Hovec-Sawmill.jpg",
+      "mapImageLayoutUrl": "/images/cod-modern-warfare/maps/COD-ModernWarfare-Hovec-Sawmill-Mini-Map-Layout.jpg",
+      "location": "14 km outside of Venskaya, Kastovia"
+    },
+    {
+      "mapImageLayoutUrl": "",
+      "location": "Khandor, Urzikistan",
+      "size": "Medium",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66eca1b8d9e23761fcbd3.png",
+      "description": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66eca1b8d9e23761fcbd3.png",
+      "name": "Khandor Hideout",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Khandor-Hideout.jpg"
+    },
+    {
+      "name": "King",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/King.jpg",
+      "location": "",
+      "mapImageLayoutUrl": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66eda1b8d9e23761fcbd5.png",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66eda1b8d9e23761fcbd5.png",
+      "size": "",
+      "description": ""
+    },
+    {
+      "size": "",
+      "mapImageLayoutUrl": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66eed1b8d9e23761fcbd7.png",
+      "name": "Livestock",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Livestock.jpg",
+      "description": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66eed1b8d9e23761fcbd7.png",
+      "location": "Small (2v2)"
+    },
+    {
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Mialstor-Tank-Factory.jpg",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66eff1b8d9e23761fcbd9.png",
+      "mapImageLayoutUrl": "",
+      "size": "Medium",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66eff1b8d9e23761fcbd9.png",
+      "name": "Mialstore Tank Factory",
+      "location": "Medium",
+      "description": "For either skirmish size, expect a mix of indoor and outdoor combat zones with two large buildings – the eponymous tank factory and a warehouse – being the map’s central point of conflict due to sheer surface area and accessible rooftops. Other areas to explore include an abandoned workshop, skybridge, scrapyard, shipping area, and residential zone, with some parts of the map sectioned off if it is being used for 6v6 combat."
+    },
+    {
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66f1b1b8d9e23761fcbdc.png",
+      "description": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66f1b1b8d9e23761fcbdc.png",
+      "name": "Petrov Oil Rig",
+      "size": "Medium",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Petrov-Oil-Rig.jpg",
+      "location": "Medium",
+      "mapImageLayoutUrl": ""
+    },
+    {
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66f2a1b8d9e23761fcbde.png",
+      "name": "Picadilly",
+      "location": "Piccadilly Circus, London, United Kingdom",
+      "mapImageLayoutUrl": "",
+      "description": "",
+      "size": "Medium",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Piccadilly.jpg",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66f2a1b8d9e23761fcbde.png"
+    },
+    {
+      "description": "",
+      "name": "Pine",
+      "mapImageUrl": "",
+      "mapImageLayoutUrl": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66f56634a1f23ded66abc.png",
+      "size": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66f56634a1f23ded66abc.png",
+      "location": ""
+    },
+    {
+      "name": "Rammaza",
+      "description": "",
+      "location": "14 km outside of El Nadaar, Urzikstan",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Rammaza.jpg",
+      "mapImageLayoutUrl": "",
+      "size": "Medium",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66f7b634a1f23ded66ac0.png",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66f7b634a1f23ded66ac0.png"
+    },
+    {
+      "mapImageLayoutUrl": "",
+      "size": "",
+      "location": "Realism",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66f67634a1f23ded66abe.png",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Rammaza-Night.jpg",
+      "description": "",
+      "name": "Rammaza (Night)",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66f67634a1f23ded66abe.png"
+    },
+    {
+      "size": "Medium",
+      "mapImageLayoutUrl": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66f91634a1f23ded66ac2.png",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66f91634a1f23ded66ac2.png",
+      "name": "Rust",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Rust.jpg",
+      "location": "Urzikstan desert",
+      "description": ""
+    },
+    {
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Scrapyard.jpg",
+      "mapImageLayoutUrl": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66fa0634a1f23ded66ac4.png",
+      "location": "Aircraft Graveyard, Verdansk, Kastovia",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66fa0634a1f23ded66ac4.png",
+      "name": "Scrapyard",
+      "description": "",
+      "size": "Medium"
+    },
+    {
+      "description": "",
+      "size": "Medium",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66fb0634a1f23ded66ac6.png",
+      "name": "Shipment",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66fb0634a1f23ded66ac6.png",
+      "location": "London, England",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Shipment.jpg",
+      "mapImageLayoutUrl": ""
+    },
+    {
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66fc0634a1f23ded66ac8.png",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Shoot-House.jpg",
+      "mapImageLayoutUrl": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66fc0634a1f23ded66ac8.png",
+      "size": "Medium",
+      "name": "Shoot House",
+      "location": "Medium",
+      "description": ""
+    },
+    {
+      "name": "Speedball",
+      "mapImageLayoutUrl": "",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Speedball.jpg",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66fce634a1f23ded66aca.png",
+      "size": "",
+      "location": "",
+      "description": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66fce634a1f23ded66aca.png"
+    },
+    {
+      "location": "St. Petrograd, Kastovia",
+      "mapImageLayoutUrl": "",
+      "name": "St Petrograd",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a6700f634a1f23ded66ad0.png",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a6700f634a1f23ded66ad0.png",
+      "description": "",
+      "size": "Medium",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/St-Petrograd.jpg"
+    },
+    {
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Stack.jpg",
+      "mapImageLayoutUrl": "",
+      "description": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66ff4634a1f23ded66acc.png",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66ff4634a1f23ded66acc.png",
+      "size": "",
+      "location": "",
+      "name": "Stack"
+    },
+    {
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a67001634a1f23ded66ace.png",
+      "mapImageLayoutUrl": "/images/cod-modern-warfare/maps/COD-ModernWarfare-Station-Mini-Map-Layout.jpg",
+      "location": "Small (2v2)",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Station.jpg",
+      "description": "Every top of the boxcars and passenger car can be climbed on top of, which give superior verticality at the cost of being essentially exposed on all sides. Other objects, such as crates, containers, and even tank parts, can also be used to gain a height advantage or just be used as cover.",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a67001634a1f23ded66ace.png",
+      "size": "",
+      "name": "Station"
+    },
+    {
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Suldal-Harbor.jpg",
+      "name": "Suldal Harbor",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a6701f634a1f23ded66ad2.png",
+      "location": "Medium",
+      "mapImageLayoutUrl": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a6701f634a1f23ded66ad2.png",
+      "size": "Medium",
+      "description": ""
+    },
+    {
+      "description": "In the middle of the Urzikstan desert lies an urban city with a major construction project taking place at its center. With its citizens long evacuated, combat takes place from door-to-door as teams fight for control of the various overlooks and buildings. Prepare for a great mix of close-quarters combat and long-range sniper duels.",
+      "mapImageLayoutUrl": "/images/cod-modern-warfare/maps/COD-ModernWarfare-Talisk-Backlot-Mini-Map-Layout.jpg",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a6702f634a1f23ded66ad4.png",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Talisk-Backlot.jpg",
+      "size": "Medium",
+      "name": "Talsik Backlot",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a6702f634a1f23ded66ad4.png",
+      "location": "Meska, Urzikstan"
+    },
+    {
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Trench.jpg",
+      "name": "Trench",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a67044634a1f23ded66ad8.png",
+      "description": "",
+      "mapImageLayoutUrl": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a67044634a1f23ded66ad8.png",
+      "location": "Small (2v2)",
+      "size": ""
+    },
+    {
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Vacant.jpg",
+      "size": "Medium",
+      "location": "Verdansk, Kastovia",
+      "name": "Vacant",
+      "mapImageLayoutUrl": "",
+      "description": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a6704b634a1f23ded66ada.png",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a6704b634a1f23ded66ada.png"
+    },
+    {
+      "location": "Verdansk",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Stadium.jpg",
+      "name": "Verdansk Stadium",
+      "description": "",
+      "mapImageLayoutUrl": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a67052634a1f23ded66adc.png",
+      "size": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a67052634a1f23ded66adc.png"
+    }
+  ],
+  "soldados": [
+    {
+      "nick": "Chernobyl",
+      "clan": null,
+      "regimiento": null,
+      "capitan": true
+    },
+    {
+      "nick": "Dr Elvis Tec",
+      "clan": null,
+      "regimiento": null,
+      "capitan": false
+    },
+    {
+      "nick": "MalditoRenacuajo",
+      "clan": null,
+      "regimiento": null,
+      "capitan": false
+    },
+    {
+      "nick": "EljefeReyes",
+      "clan": null,
+      "regimiento": null,
+      "capitan": false
+    },
+    { "nick": "Sheshe", "clan": null, "regimiento": null, "capitan": false },
+    { "nick": "Batman", "clan": null, "regimiento": null, "capitan": true },
+    { "nick": "Anfeta", "clan": null, "regimiento": null, "capitan": false },
+    { "nick": "Mclovin", "clan": null, "regimiento": null, "capitan": false },
+    { "nick": "Zeke", "clan": null, "regimiento": null, "capitan": false },
+    { "nick": "Reaper", "clan": null, "regimiento": null, "capitan": false },
+    {
+      "nick": "Huevito Principe",
+      "clan": null,
+      "regimiento": null,
+      "capitan": true
+    },
+    { "nick": "Lexz", "clan": null, "regimiento": null, "capitan": false },
+    { "nick": "Hartaban", "clan": null, "regimiento": null, "capitan": false },
+    { "nick": "GodPeluka", "clan": null, "regimiento": null, "capitan": false },
+    { "nick": "DonBasto", "clan": null, "regimiento": null, "capitan": false },
+    { "nick": "Vato", "clan": null, "regimiento": null, "capitan": false },
+    { "nick": "Laycan", "clan": null, "regimiento": null, "capitan": false },
+    { "nick": "Sato", "clan": null, "regimiento": null, "capitan": false },
+    {
+      "nick": "Dj Silverio",
+      "clan": null,
+      "regimiento": null,
+      "capitan": false
+    },
+    { "nick": "Napo", "clan": null, "regimiento": null, "capitan": false },
+    {
+      "nick": "W4rlord",
+      "clan": null,
+      "regimiento": null,
+      "capitan": true
+    },
+    { "nick": "Sheep1", "clan": null, "regimiento": null, "capitan": false },
+    { "nick": "yayan", "clan": null, "regimiento": null, "capitan": false },
+    {
+      "nick": "ChinoTuerto",
+      "clan": null,
+      "regimiento": null,
+      "capitan": true
+    },
+    { "nick": "Wuayo", "clan": null, "regimiento": null, "capitan": false },
+    { "nick": "Mleal", "clan": null, "regimiento": null, "capitan": false },
+    { "nick": "NaxoUC", "clan": null, "regimiento": null, "capitan": false },
+    { "nick": "Jpablo", "clan": null, "regimiento": null, "capitan": false },
+    {
+      "nick": "Leyzhar",
+      "clan": null,
+      "regimiento": null,
+      "capitan": true
+    },
+    { "nick": "TheBlack", "clan": null, "regimiento": null, "capitan": false },
+    { "nick": "NessO", "clan": null, "regimiento": null, "capitan": false },
+    { "nick": "Figo", "clan": null, "regimiento": null, "capitan": false },
+    { "nick": "Gualala", "clan": null, "regimiento": null, "capitan": false },
+    { "nick": "Herca", "clan": null, "regimiento": null, "capitan": false },
+    { "nick": "Kuro", "clan": null, "regimiento": null, "capitan": false },
+    { "nick": "Kenshin", "clan": null, "regimiento": null, "capitan": false },
+    { "nick": "Dante", "clan": null, "regimiento": null, "capitan": false },
+    {
+      "nick": "RonConShela",
+      "clan": null,
+      "regimiento": null,
+      "capitan": false
+    },
+    {
+      "nick": "Cocolisovandame",
+      "clan": null,
+      "regimiento": null,
+      "capitan": true
+    },
+    { "nick": "Ragnarok", "clan": null, "regimiento": null, "capitan": false },
+    { "nick": "Nicopro", "clan": null, "regimiento": null, "capitan": false },
+    { "nick": "Jacontr", "clan": null, "regimiento": null, "capitan": false },
+    {
+      "nick": "Franciscoaguayo",
+      "clan": null,
+      "regimiento": null,
+      "capitan": false
+    },
+    { "nick": "Tezzeret", "clan": null, "regimiento": null, "capitan": false }
+  ],
+  "users": {
+    "JIWAZ2tKtKXI1z6AnFrP6bmoWRT2": {
+      "nick": "Sergio Rodriguez",
+      "nickLower": "sergio rodriguez",
+      "email": "sergrodrig@gmail.com",
+      "registerAt": { "_seconds": 1625895797, "_nanoseconds": 687000000 },
+      "avatar": "https://lh3.googleusercontent.com/a-/AOh14GhqaOUhYqnkHboRZ9gJH9f0WhHDJdNA3UNuQWzH2w=s96-c"
+    }
+  }
+}

@@ -5,12 +5,17 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "db:clean": "firebase firestore:delete --all-collections --yes",
+    "db:restoreauto": "node firestoreExportImport restore autoid",
+    "db:restorekeep": "node firestoreExportImport restore keepid",
+    "db:backup": "node firestoreExportImport backup"
   },
   "dependencies": {
     "core-js": "^3.6.5",
     "dayjs": "^1.10.6",
-    "firebase": "^8.6.8",
+    "firebase": "^8.4.1",
+    "firestore-export-import": "^0.14.0",
     "nprogress": "^0.2.0",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0",
