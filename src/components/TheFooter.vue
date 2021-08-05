@@ -4,48 +4,19 @@
     <div class="container mx-auto">
       <footer class="text-gray-600 body-font">
         <div
-          class="
-            container
-            flex flex-col
-            items-center
-            px-5
-            py-8
-            mx-auto
-            sm:flex-row
-          "
+          class="container flex flex-col items-center px-5 py-8 mx-auto  sm:flex-row"
         >
           <a
-            class="
-              flex
-              items-center
-              justify-center
-              font-medium
-              text-gray-900
-              title-font
-              md:justify-start
-            "
+            class="flex items-center justify-center font-medium text-gray-900  title-font md:justify-start"
           >
             <logo-bpc class="w-12" />
           </a>
           <span
-            class="
-              inline-flex
-              items-center
-              justify-center
-              mt-4
-              space-x-3
-              sm:ml-auto sm:mt-0 sm:justify-start
-            "
+            class="inline-flex items-center justify-center mt-4 space-x-3  sm:ml-auto sm:mt-0 sm:justify-start"
           >
             <a
               href="https://www.twitch.tv/bulletsproofcompany"
-              class="
-                ml-3
-                text-black
-                outline-none
-                hover:text-indigo-500
-                focus:text-indigo-500
-              "
+              class="ml-3 text-black outline-none  hover:text-indigo-500 focus:text-indigo-500"
             >
               <svg
                 class="fill-current"
@@ -63,13 +34,7 @@
             </a>
             <a
               href="https://www.facebook.com/chernobyl.gaming.9"
-              class="
-                ml-3
-                text-black
-                outline-none
-                hover:text-indigo-500
-                focus:text-indigo-500
-              "
+              class="ml-3 text-black outline-none  hover:text-indigo-500 focus:text-indigo-500"
             >
               <svg
                 class="fill-current"
@@ -85,13 +50,7 @@
             </a>
             <a
               href="https://discord.gg/MVbCmRPz"
-              class="
-                ml-3
-                text-black
-                outline-none
-                hover:text-indigo-500
-                focus:text-indigo-500
-              "
+              class="ml-3 text-black outline-none  hover:text-indigo-500 focus:text-indigo-500"
             >
               <svg
                 class="fill-current"
@@ -111,7 +70,7 @@
               class="outline-none hover:text-indigo-500 focus:text-indigo-500"
             >
               <img
-                src="http://54.80.213.237/wp-content/uploads/2020/05/sudoers08-scaled.jpg"
+                :src="`/images/logo_sudoers.jpeg`"
                 alt="logo sudoers.cl"
                 class="w-24"
               />

@@ -1,74 +1,15 @@
 {
-  "clanes": [
-    {
-      "id": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
-      "name": "Los del Gulag",
-      "initials": "LDG",
-      "captain": "3f6d4680-f5f9-11eb-8c94-7b0e7f612e65",
-      "escudo": ""
-    },
-    {
-      "id": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
-      "name": "Mancoster Reloaded",
-      "initials": "MCR",
-      "captain": "415bf720-f5f9-11eb-8c94-7b0e7f612e65",
-      "escudo": ""
-    },
-    {
-      "id": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-      "name": "Disaster Groove",
-      "initials": "DSG",
-      "captain": "42d50290-f5f9-11eb-8c94-7b0e7f612e65",
-      "escudo": ""
-    },
-    {
-      "id": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-      "name": "The Chupa Hoyos",
-      "initials": "TCH",
-      "captain": "45cbfb70-f5f9-11eb-8c94-7b0e7f612e65",
-      "escudo": ""
-    },
-    {
-      "id": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
-      "name": "Zicariato de la Perra",
-      "initials": "ZPR",
-      "captain": "46683b70-f5f9-11eb-8c94-7b0e7f612e65",
-      "escudo": ""
-    },
-    {
-      "id": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-      "name": "Frozthound",
-      "initials": "FZH",
-      "captain": "483de5d0-f5f9-11eb-8c94-7b0e7f612e65",
-      "escudo": ""
-    },
-    {
-      "id": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
-      "name": "Wu Tang Lag",
-      "initials": "WTL",
-      "captain": "4b983460-f5f9-11eb-8c94-7b0e7f612e65",
-      "escudo": ""
-    }
-  ],
-  "regimientos": [
-    { "id": "95b480b0-f59c-11eb-842e-4f44b59e4ef0", "name": "FPMR." },
-    { "id": "96744e40-f59c-11eb-842e-4f44b59e4ef0", "name": "BP.C" },
-    { "id": "97096250-f59c-11eb-842e-4f44b59e4ef0", "name": "CRK" },
-    { "id": "979bde50-f59c-11eb-842e-4f44b59e4ef0", "name": "Sh369" },
-    { "id": "97bfe110-f59c-11eb-842e-4f44b59e4ef0", "name": "SKF'" },
-    { "id": "97e82990-f59c-11eb-842e-4f44b59e4ef0", "name": "P31M" }
-  ],
   "soldados": [
     {
       "id": "3f6d4680-f5f9-11eb-8c94-7b0e7f612e65",
       "clan": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
       "nick": "Chernobyl",
-      "regimiento": "150b6760-f580-11eb-9b54-2345042170df",
+      "regimiento": "96744e40-f59c-11eb-842e-4f44b59e4ef0",
       "capitan": true
     },
     {
       "id": "402ee8d0-f5f9-11eb-8c94-7b0e7f612e65",
-      "regimiento": "150b6760-f580-11eb-9b54-2345042170df",
+      "regimiento": "96744e40-f59c-11eb-842e-4f44b59e4ef0",
       "clan": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
       "nick": "Dr Elvis Tec",
       "capitan": false
@@ -76,13 +17,13 @@
     {
       "id": "405d72e0-f5f9-11eb-8c94-7b0e7f612e65",
       "nick": "MalditoRenacuajo",
-      "regimiento": "150b6760-f580-11eb-9b54-2345042170df",
+      "regimiento": "96744e40-f59c-11eb-842e-4f44b59e4ef0",
       "capitan": false,
       "clan": "95c6d030-f59c-11eb-842e-4f44b59e4ef0"
     },
     {
       "id": "40cb28d0-f5f9-11eb-8c94-7b0e7f612e65",
-      "regimiento": "150b6760-f580-11eb-9b54-2345042170df",
+      "regimiento": "96744e40-f59c-11eb-842e-4f44b59e4ef0",
       "nick": "EljefeReyes",
       "clan": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
       "capitan": false
@@ -366,6 +307,65 @@
       "clan": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
       "capitan": false,
       "regimiento": null
+    }
+  ],
+  "regimientos": [
+    { "id": "95b480b0-f59c-11eb-842e-4f44b59e4ef0", "name": "FPMR." },
+    { "id": "96744e40-f59c-11eb-842e-4f44b59e4ef0", "name": "BP.C" },
+    { "id": "97096250-f59c-11eb-842e-4f44b59e4ef0", "name": "CRK" },
+    { "id": "979bde50-f59c-11eb-842e-4f44b59e4ef0", "name": "Sh369" },
+    { "id": "97bfe110-f59c-11eb-842e-4f44b59e4ef0", "name": "SKF'" },
+    { "id": "97e82990-f59c-11eb-842e-4f44b59e4ef0", "name": "P31M" }
+  ],
+  "clanes": [
+    {
+      "id": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "name": "Los del Gulag",
+      "initials": "LDG",
+      "captain": "3f6d4680-f5f9-11eb-8c94-7b0e7f612e65",
+      "escudo": ""
+    },
+    {
+      "id": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "name": "Mancoster Reloaded",
+      "initials": "MCR",
+      "captain": "415bf720-f5f9-11eb-8c94-7b0e7f612e65",
+      "escudo": ""
+    },
+    {
+      "id": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "name": "Disaster Groove",
+      "initials": "DSG",
+      "captain": "42d50290-f5f9-11eb-8c94-7b0e7f612e65",
+      "escudo": ""
+    },
+    {
+      "id": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "name": "The Chupa Hoyos",
+      "initials": "TCH",
+      "captain": "45cbfb70-f5f9-11eb-8c94-7b0e7f612e65",
+      "escudo": ""
+    },
+    {
+      "id": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "name": "Zicariato de la Perra",
+      "initials": "ZPR",
+      "captain": "46683b70-f5f9-11eb-8c94-7b0e7f612e65",
+      "escudo": ""
+    },
+    {
+      "id": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "name": "Frozthound",
+      "initials": "FZH",
+      "captain": "483de5d0-f5f9-11eb-8c94-7b0e7f612e65",
+      "escudo": ""
+    },
+    {
+      "id": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "name": "Wu Tang Lag",
+      "initials": "WTL",
+      "captain": "4b983460-f5f9-11eb-8c94-7b0e7f612e65",
+      "escudo": ""
     }
   ],
   "fechas": [

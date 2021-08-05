@@ -34,12 +34,12 @@
           <div
             class="flex items-center justify-center w-32 font-semibold"
             :class="
-              getClanForSoldier(soldado) === '[BP.C]'
+              getRegimientoForSoldier(soldado) === '[BP.C]'
                 ? 'text-green-500'
                 : 'text-red-500'
             "
           >
-            {{ getClanForSoldier(soldado) }}
+            {{ getRegimientoForSoldier(soldado) }}
           </div>
 
           <!-- nick -->
@@ -91,9 +91,12 @@ export default {
     },
   },
   methods: {
-    getClanForSoldier(soldado) {
-      const clan = findById(this.$store.state.regimientos, soldado.clan);
-      if (clan) return `[${clan.name}]`;
+    getRegimientoForSoldier(soldado) {
+      const regimiento = findById(
+        this.$store.state.regimientos,
+        soldado.regimiento
+      );
+      if (regimiento) return `[${regimiento.name}]`;
       return "";
     },
   },
