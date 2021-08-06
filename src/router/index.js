@@ -12,6 +12,7 @@ const Mapas = () => import("../views/Mapas.vue");
 const MapaDetail = () => import("../views/MapaDetail.vue");
 const Resultados = () => import("../views/Resultados.vue");
 const ConfigurarPartida = () => import("../views/ConfigurarPartida.vue");
+const ResultadosDetalle = () => import("../views/ResultadosDetalle.vue");
 
 const routes = [
   {
@@ -73,6 +74,13 @@ const routes = [
     path: "/resultados",
     name: "Resultados",
     component: Resultados,
+    meta: { toTop: true, smoothScroll: true, requiresAuth: true },
+  },
+  {
+    path: "/resultados/:resultadoId",
+    name: "ResultadosDetalle",
+    component: ResultadosDetalle,
+    props: true,
     meta: { toTop: true, smoothScroll: true, requiresAuth: true },
   },
 ];

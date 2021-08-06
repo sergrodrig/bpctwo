@@ -17,7 +17,7 @@
 import { mapActions } from "vuex";
 import asyncDataStatus from "@/mixins/asyncDataStatus";
 import TituloPagina from "@/components/TituloPagina";
-// import TablaPosicionesEnDuro from "@/components/TablaPosicionesEnDuro";
+import TablaPosicionesEnDuro from "@/components/TablaPosicionesEnDuro";
 import TablaPosiciones from "@/components/TablaPosiciones";
 import FechasLiga from "@/components/FechasLiga";
 
@@ -26,7 +26,7 @@ export default {
   components: {
     TituloPagina,
     TablaPosiciones,
-    // TablaPosicionesEnDuro,
+    TablaPosicionesEnDuro,
     FechasLiga,
   },
   mixins: [asyncDataStatus],

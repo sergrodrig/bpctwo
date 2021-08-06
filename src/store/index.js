@@ -13,6 +13,7 @@ export default createStore({
     tablaResultados: [],
     posiciones: [],
     temporadas: [],
+    resultados: [],
     authId: null,
     unsubscribes: [],
     authUserUnsubscribe: null,

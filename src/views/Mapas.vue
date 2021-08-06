@@ -41,7 +41,6 @@ export default {
       const mapasMedianos = this.$store.state.mapas.filter(
         (mapa) => mapa.size === "Medium"
       );
-      console.log(mapasMedianos);
       return mapasMedianos;
     },
   },

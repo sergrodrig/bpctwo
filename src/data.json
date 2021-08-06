@@ -1812,5 +1812,199 @@
         }
       ]
     }
+  ],
+  "resultados": [
+    {
+      "id": 1,
+      "fecha": 1,
+      "local": "wutan",
+      "visita": "disaster",
+      "mapasLocal": "0",
+      "mapasVisita": "6",
+      "roundsLocal": "13",
+      "roundsVisita": "36",
+      "detalleMapas": [
+        {
+          "mapa": "vacant",
+          "local": "5",
+          "visita": "6",
+          "urlFoto": ""
+        },
+        {
+          "mapa": "scrapyard",
+          "local": "1",
+          "visita": "6",
+          "urlFoto": ""
+        },
+        {
+          "mapa": "azhir cave",
+          "local": "5",
+          "lovisitacal": "6",
+          "urlFoto": ""
+        },
+        {
+          "mapa": "chesire",
+          "local": "2",
+          "visita": "6",
+          "urlFoto": ""
+        },
+        {
+          "mapa": "walkover",
+          "local": "0",
+          "visita": "6",
+          "urlFoto": ""
+        },
+        {
+          "mapa": "walkover",
+          "local": "0",
+          "locavisital": "6",
+          "urlFoto": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "fecha": 1,
+      "local": "chupahoyos",
+      "visita": "mancoster",
+      "mapasLocal": "6",
+      "mapasVisita": "0",
+      "roundsLocal": "36",
+      "roundsVisita": "3",
+      "detalleMapas": [
+        {
+          "mapa": "vacant",
+          "local": "6",
+          "visita": "0",
+          "urlFoto": ""
+        },
+        {
+          "mapa": "talsik backlot",
+          "local": "6",
+          "visita": "0",
+          "urlFoto": ""
+        },
+        {
+          "mapa": "crash",
+          "local": "6",
+          "lovisitacal": "3",
+          "urlFoto": ""
+        },
+        {
+          "mapa": "hackney yard",
+          "local": "6",
+          "visita": "0",
+          "urlFoto": ""
+        },
+        {
+          "mapa": "walkover",
+          "local": "6",
+          "visita": "0",
+          "urlFoto": ""
+        },
+        {
+          "mapa": "walkover",
+          "local": "6",
+          "locavisital": "0",
+          "urlFoto": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "fecha": 1,
+      "local": "zikariato de la perra",
+      "visita": "los del gulag",
+      "mapasLocal": "0",
+      "mapasVisita": "6",
+      "roundsLocal": "19",
+      "roundsVisita": "36",
+      "detalleMapas": [
+        {
+          "mapa": "scrapyard",
+          "local": "4",
+          "visita": "6",
+          "urlFoto": ""
+        },
+        {
+          "mapa": "crash",
+          "local": "3",
+          "lovisitacal": "6",
+          "urlFoto": ""
+        },
+        {
+          "mapa": "vacant",
+          "local": "5",
+          "visita": "6",
+          "urlFoto": ""
+        },
+        {
+          "mapa": "grazna",
+          "local": "4",
+          "visita": "6",
+          "urlFoto": ""
+        },
+        {
+          "mapa": "chesire",
+          "local": "3",
+          "visita": "6",
+          "urlFoto": ""
+        },
+        {
+          "mapa": "walkover",
+          "local": "0",
+          "locavisital": "6",
+          "urlFoto": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "fecha": 1,
+      "local": "frozthounds",
+      "visita": "black berets",
+      "mapasLocal": "0",
+      "mapasVisita": "0",
+      "roundsLocal": "0",
+      "roundsVisita": "0",
+      "detalleMapas": [
+        {
+          "mapa": "",
+          "local": "0",
+          "visita": "0",
+          "urlFoto": ""
+        },
+        {
+          "mapa": "",
+          "local": "0",
+          "lovisitacal": "0",
+          "urlFoto": ""
+        },
+        {
+          "mapa": "",
+          "local": "0",
+          "visita": "0",
+          "urlFoto": ""
+        },
+        {
+          "mapa": "",
+          "local": "0",
+          "visita": "0",
+          "urlFoto": ""
+        },
+        {
+          "mapa": "",
+          "local": "0",
+          "visita": "0",
+          "urlFoto": ""
+        },
+        {
+          "mapa": "",
+          "local": "0",
+          "locavisital": "0",
+          "urlFoto": ""
+        }
+      ]
+    }
   ]
 }
