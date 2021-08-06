@@ -9,49 +9,49 @@
     <!-- resultados -->
     <div class="w-full border-4 border-black divide-y-2 divide-black">
       <div
-        class="grid grid-cols-12 px-2 py-2 text-white bg-black border-t border-gray-600 "
+        class="grid px-2 py-2 text-sm text-white bg-black border-t border-gray-600  grid-cols-16"
       >
-        <div class="text-center">Mov</div>
-        <div class="text-center">Pos</div>
-        <div class="col-span-2">Clan</div>
+        <div class="col-span-2 text-center">Mov</div>
+        <div class="col-span-2 text-center md:col-span-1">Pos.</div>
+        <div class="col-span-10 md:col-span-5">Clan</div>
         <div class="text-center">J</div>
-        <div class="text-center">G</div>
-        <div class="text-center">E</div>
-        <div class="text-center">P</div>
-        <div class="text-center">R+</div>
-        <div class="text-center">R-</div>
-        <div class="text-center">W/L</div>
+        <div class="hidden text-center md:block">G</div>
+        <div class="hidden text-center md:block">E</div>
+        <div class="hidden text-center md:block">P</div>
+        <div class="hidden text-center md:block">R+</div>
+        <div class="hidden text-center md:block">R-</div>
+        <div class="hidden text-center md:block">W/L</div>
         <div class="text-center">Pts</div>
       </div>
       <div
         v-for="(posicion, index) in posiciones"
         :key="posicion"
-        class="grid grid-cols-12 px-2 py-2"
+        class="grid px-2 py-2 grid-cols-16"
       >
-        <div class="flex justify-center">
-          <component class="w-6" :is="movimiento(posicion)"></component>
+        <div class="flex items-center justify-center col-span-2">
+          <component class="w-4" :is="movimiento(posicion)"></component>
         </div>
-        <div class="text-center">{{ index + 1 }}</div>
-        <div class="col-span-2">{{ posicion.clan }}</div>
+        <div class="col-span-2 text-center md:col-span-1">{{ index + 1 }}</div>
+        <div class="col-span-10 md:col-span-5">{{ posicion.clan }}</div>
         <div class="text-center">
           {{ fechasJugadas(posicion.estadisticas) }}
         </div>
-        <div class="text-center">
+        <div class="hidden text-center md:block">
           {{ fechasGanadas(posicion.estadisticas) }}
         </div>
-        <div class="text-center">
+        <div class="hidden text-center md:block">
           {{ fechasEmpatadas(posicion.estadisticas) }}
         </div>
-        <div class="text-center">
+        <div class="hidden text-center md:block">
           {{ fechasPerdidas(posicion.estadisticas) }}
         </div>
-        <div class="text-center">
+        <div class="hidden text-center md:block">
           {{ roundsGanados(posicion.estadisticas) }}
         </div>
-        <div class="text-center">
+        <div class="hidden text-center md:block">
           {{ roundsPerdidos(posicion.estadisticas) }}
         </div>
-        <div class="text-center">
+        <div class="hidden text-center md:block">
           {{
             ratio(
               roundsGanados(posicion.estadisticas),
@@ -71,16 +71,18 @@
     </div>
     <div class="px-3 py-4 text-xs text-gray-500">
       <p>
-        <span class="font-bold">Mov:</span>Movimiento en la tabla respecto fecha
-        anterior
+        <span class="font-bold">Mov: </span> Movimiento en la tabla respecto
+        fecha anterior
       </p>
-      <p><span class="font-bold">J:</span>Posicion en la tabla</p>
-      <p><span class="font-bold">J:</span>Fechas Jugadas</p>
-      <p><span class="font-bold">G:</span>Fechas Ganadas</p>
-      <p><span class="font-bold">E:</span>Fechas Empatadas</p>
-      <p><span class="font-bold">P:</span>Fechas Perdidas</p>
-      <p><span class="font-bold">W/L:</span>Ratio Rounds Ganados/Perdidos</p>
-      <p><span class="font-bold">Pts:</span>Puntos</p>
+      <p><span class="font-bold">Pos: </span> Posicion en la tabla</p>
+      <p><span class="font-bold">J: </span> Fechas Jugadas</p>
+      <p><span class="font-bold">G: </span> Fechas Ganadas</p>
+      <p><span class="font-bold">E: </span> Fechas Empatadas</p>
+      <p><span class="font-bold">P: </span> Fechas Perdidas</p>
+      <p><span class="font-bold">R+: </span> Rounds Ganados en total</p>
+      <p><span class="font-bold">R-: </span> Rounds Perdidos en total</p>
+      <p><span class="font-bold">W/L: </span> Ratio Rounds Ganados/Perdidos</p>
+      <p><span class="font-bold">Pts: </span> Puntos</p>
     </div>
   </div>
 </template>
@@ -1045,36 +1047,20 @@ export default {
       return ratio;
     },
     movimiento(posicion) {
-      console.log("");
-      console.log("");
-      console.log(`[posicion.clan]: ${posicion.clan}`);
-
       const fechasJugadas = this.fechasJugadas(posicion.estadisticas);
-      console.log(`[fechasJugadas]: ${fechasJugadas}`);
-
-      if (fechasJugadas === 0) console.log("devuelve: no ha jugado");
-      if (fechasJugadas === 0) return "SvgMinus";
-
+      if (fechasJugadas === 0) if (fechasJugadas === 0) return "SvgMinus";
       const ultimaPosicion = posicion.estadisticas.find(
         (fecha) => fecha.fecha === fechasJugadas
       );
-      console.log(`[ultimaPosicion]: ${ultimaPosicion}`);
-
       const penultimaPosicion = posicion.estadisticas.find(
         (fecha) => fecha.fecha === fechasJugadas - 1
       );
-      console.log(`[penultimaPosicion]: ${penultimaPosicion}`);
-
-      if (ultimaPosicion.posicion < penultimaPosicion.posicion) {
-        console.log("SvgArrowSmUp");
+      if (ultimaPosicion.posicion < penultimaPosicion.posicion)
         return "SvgArrowSmUp";
-      } else if (ultimaPosicion.posicion === penultimaPosicion.posicion) {
-        console.log("SvgMinus");
+      else if (ultimaPosicion.posicion === penultimaPosicion.posicion)
         return "SvgMinus";
-      } else if (ultimaPosicion.posicion > penultimaPosicion.posicion) {
-        console.log("SvgArrowSmDown");
+      else if (ultimaPosicion.posicion > penultimaPosicion.posicion)
         return "SvgArrowSmDown";
-      }
     },
   },
   mounted() {

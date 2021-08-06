@@ -307,6 +307,90 @@
       "clan": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
       "capitan": false,
       "regimiento": null
+    },
+    {
+      "id": "7866b540-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Lamoni",
+      "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false,
+      "regimiento": null
+    },
+    {
+      "id": "7943a7c0-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Rockman",
+      "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": true,
+      "regimiento": null
+    },
+    {
+      "id": "79708420-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Hexen",
+      "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false,
+      "regimiento": null
+    },
+    {
+      "id": "79ddebf0-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Sebastianh1",
+      "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false,
+      "regimiento": null
+    },
+    {
+      "id": "7a0cc420-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Joakosino",
+      "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false,
+      "regimiento": null
+    },
+    {
+      "id": "7a7a7a10-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Apex",
+      "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false,
+      "regimiento": null
+    },
+    {
+      "id": "7aa95240-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Basti",
+      "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false,
+      "regimiento": null
+    },
+    {
+      "id": "7b197930-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Monoh",
+      "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false,
+      "regimiento": null
+    },
+    {
+      "id": "7b3bf550-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Xispa",
+      "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false,
+      "regimiento": null
+    },
+    {
+      "id": "7bb91490-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "CaigPala",
+      "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false,
+      "regimiento": null
+    },
+    {
+      "id": "7c44b2c0-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Winchi*",
+      "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false,
+      "regimiento": null
+    },
+    {
+      "id": "7c699fe0-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Anger*",
+      "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false,
+      "regimiento": null
     }
   ],
   "regimientos": [
@@ -365,6 +449,13 @@
       "name": "Wu Tang Lag",
       "initials": "WTL",
       "captain": "4b983460-f5f9-11eb-8c94-7b0e7f612e65",
+      "escudo": ""
+    },
+    {
+      "id": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "name": "Black Berets",
+      "initials": "BCB",
+      "captain": "7943a7c0-f647-11eb-a77f-f56ba64fd3a0",
       "escudo": ""
     }
   ],
@@ -753,7 +844,7 @@
       "description": "",
       "mapImageUrl": "/images/cod-modern-warfare/maps/Rust.jpg",
       "name": "Rust",
-      "size": "Medium"
+      "size": "Small"
     },
     {
       "id": "aeeccec0-f600-11eb-ac44-bbfc5ec4ed67",
@@ -771,7 +862,7 @@
       "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66fb0634a1f23ded66ac6.png",
       "mapImageUrl": "/images/cod-modern-warfare/maps/Shipment.jpg",
       "description": "",
-      "size": "Medium",
+      "size": "Small",
       "name": "Shipment",
       "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66fb0634a1f23ded66ac6.png",
       "location": "London, England",
@@ -784,7 +875,7 @@
       "mapImageUrl": "/images/cod-modern-warfare/maps/Shoot-House.jpg",
       "description": "",
       "name": "Shoot House",
-      "size": "Medium",
+      "size": "Small",
       "location": "Medium",
       "mapImageLayoutUrl": ""
     },

@@ -17,6 +17,9 @@ module.exports = {
           sudoersGreen: "#7DC21C",
         },
       },
+      gridTemplateColumns: {
+        16: "repeat(16, minmax(0, 1fr))",
+      },
     },
   },
   variants: {

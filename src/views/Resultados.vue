@@ -4,7 +4,7 @@
     <titulo-pagina texto="Resultados" />
 
     <!-- tabla de posiciones -->
-    <div class="max-w-2xl p-4 mx-auto lg:py-8">
+    <div class="max-w-3xl p-4 mx-auto lg:py-8">
       <!-- tabla -->
       <!-- <TablaPosicionesEnDuro /> -->
       <TablaPosiciones />
