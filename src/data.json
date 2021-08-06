@@ -978,5 +978,839 @@
       "description": "",
       "location": "Verdansk"
     }
+  ],
+  "posiciones": [
+    {
+      "id": "4bc425c0-f64e-11eb-a234-dd110177c7f4",
+      "clan": "Los del Gulag",
+      "estadisticas": [
+        {
+          "fecha": 1,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 2,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 3,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 4,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 5,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 6,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 7,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 8,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 9,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 10,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 11,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 12,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 13,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 14,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        }
+      ]
+    },
+    {
+      "id": "4c8e5390-f64e-11eb-a234-dd110177c7f4",
+      "clan": "Mancoster reloaded",
+      "estadisticas": [
+        {
+          "fecha": 1,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 2,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 3,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 4,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 5,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 6,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 7,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 8,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 9,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 10,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 11,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 12,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 13,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 14,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        }
+      ]
+    },
+    {
+      "id": "4cb42b10-f64e-11eb-a234-dd110177c7f4",
+      "clan": "Disaster groove",
+      "estadisticas": [
+        {
+          "fecha": 1,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 2,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 3,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 4,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 5,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 6,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 7,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 8,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 9,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 10,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 11,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 12,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 13,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 14,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        }
+      ]
+    },
+    {
+      "id": "4d2870b0-f64e-11eb-a234-dd110177c7f4",
+      "clan": "The Chupahoyos",
+      "estadisticas": [
+        {
+          "fecha": 1,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 2,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 3,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 4,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 5,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 6,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 7,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 8,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 9,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 10,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 11,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 12,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 13,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 14,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        }
+      ]
+    },
+    {
+      "id": "4d5748e0-f64e-11eb-a234-dd110177c7f4",
+      "clan": "Zicariato de la perra",
+      "estadisticas": [
+        {
+          "fecha": 1,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 2,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 3,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 4,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 5,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 6,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 7,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 8,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 9,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 10,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 11,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 12,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 13,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 14,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        }
+      ]
+    },
+    {
+      "id": "4dbe6f20-f64e-11eb-a234-dd110177c7f4",
+      "clan": "Frozthound",
+      "estadisticas": [
+        {
+          "fecha": 1,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 2,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 3,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 4,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 5,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 6,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 7,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 8,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 9,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 10,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 11,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 12,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 13,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 14,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        }
+      ]
+    },
+    {
+      "id": "4df388e0-f64e-11eb-a234-dd110177c7f4",
+      "clan": "Wu-Tang Lag",
+      "estadisticas": [
+        {
+          "fecha": 1,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 2,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 3,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 4,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 5,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 6,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 7,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 8,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 9,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 10,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 11,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 12,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 13,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 14,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        }
+      ]
+    },
+    {
+      "id": "4e516050-f64e-11eb-a234-dd110177c7f4",
+      "clan": "Black Berets",
+      "estadisticas": [
+        {
+          "fecha": 1,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 2,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 3,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 4,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 5,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 6,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 7,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 8,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 9,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 10,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 11,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 12,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 13,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 14,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        }
+      ]
+    }
   ]
 }

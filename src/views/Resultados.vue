@@ -7,12 +7,13 @@
     <div class="max-w-3xl p-4 mx-auto lg:py-8">
       <!-- tabla -->
       <!-- <TablaPosicionesEnDuro /> -->
-      <TablaPosiciones />
+      <TablaPosiciones :pos="posiciones" />
     </div>
   </div>
 </template>
 
 <script>
+import { mapActions } from "vuex";
 import asyncDataStatus from "@/mixins/asyncDataStatus";
 import TituloPagina from "@/components/TituloPagina";
 // import TablaPosicionesEnDuro from "@/components/TablaPosicionesEnDuro";
@@ -27,8 +28,17 @@ export default {
   },
   mixins: [asyncDataStatus],
   emits: ["ready"],
+  computed: {
+    posiciones() {
+      return this.$store.state.posiciones;
+    },
+  },
   async created() {
+    await this.fetchAllItems("posiciones");
     this.asyncDataStatus_fetch();
+  },
+  methods: {
+    ...mapActions(["fetchAllItems"]),
   },
 };
 </script>

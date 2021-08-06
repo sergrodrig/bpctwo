@@ -75,15 +75,6 @@
               queda como campeon hasta la proxima edicion.
             </li>
           </ol>
-          <div class="mt-12 text-xs font-bold text-red-500 uppercase">
-            Si eres host, debes configurar la partida de acuerdo a esta
-            <router-link
-              :to="{ name: 'Home' }"
-              class="font-bold text-blue-500 underline"
-            >
-              guia </router-link
-            >.
-          </div>
         </div>
       </div>
 
@@ -105,6 +96,7 @@
               Se permitira 1 sniper por equipo. Se descontara 1 punto al equipo
               si es que se demuestra.
             </li>
+            <li>No se permite el arma CX-9.</li>
             <li>
               Si a un equipo se le cae un jugador la partida debe continuar, a
               menos que los equipos lleguen a un acuerdo de esperarlo o
@@ -115,6 +107,10 @@
               votaciones, acuerdos, etc...
             </li>
             <li>
+              Los equipos deben enviar una captura de pantalla o una foto del
+              resultado de cada mapa para estadisticas de la pagina.
+            </li>
+            <li>
               Los equipos son de 5 jugadores. Si un equipo tiene menos
               jugadores, puede jugar igualmente contra el equipo completo del
               rival, o si quieren pueden buscar un refuerzo, pero se le
@@ -122,14 +118,17 @@
               inicialmente.
             </li>
           </ol>
-          <div class="mt-12 text-xs font-bold text-red-500 uppercase">
-            Si eres host, debes configurar la partida de acuerdo a esta
-            <router-link
-              :to="{ name: 'Home' }"
-              class="font-bold text-blue-500 underline"
-            >
-              guia </router-link
-            >.
+          <div class="mt-12 text-xs font-bold uppercase">
+            <p class="text-xl font-bold text-red-500">IMPORTANTE</p>
+            <p>
+              Si eres host, debes configurar la partida de acuerdo a esta
+              <router-link
+                :to="{ name: 'ConfigurarPartida' }"
+                class="font-bold text-blue-500 underline"
+              >
+                guia </router-link
+              >.
+            </p>
           </div>
         </div>
       </div>

@@ -1,572 +1,1522 @@
 {
   "clanes": {
+    "787d7190-f647-11eb-a77f-f56ba64fd3a0": {
+      "id": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "initials": "BCB",
+      "escudo": "",
+      "captain": "7943a7c0-f647-11eb-a77f-f56ba64fd3a0",
+      "name": "Black Berets",
+      "subCollection": {}
+    },
     "95c6d030-f59c-11eb-842e-4f44b59e4ef0": {
-      "name": "Los del Gulag",
-      "initials": "LDG",
+      "captain": "3f6d4680-f5f9-11eb-8c94-7b0e7f612e65",
       "id": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "initials": "LDG",
+      "name": "Los del Gulag",
+      "escudo": "",
       "subCollection": {}
     },
     "9674c370-f59c-11eb-842e-4f44b59e4ef0": {
-      "name": "Mancoster Reloaded",
+      "escudo": "",
+      "captain": "415bf720-f5f9-11eb-8c94-7b0e7f612e65",
       "id": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "name": "Mancoster Reloaded",
       "initials": "MCR",
       "subCollection": {}
     },
     "97067c20-f59c-11eb-842e-4f44b59e4ef0": {
       "name": "Disaster Groove",
-      "id": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
       "initials": "DSG",
+      "escudo": "",
+      "captain": "42d50290-f5f9-11eb-8c94-7b0e7f612e65",
+      "id": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
       "subCollection": {}
     },
     "979c2c70-f59c-11eb-842e-4f44b59e4ef0": {
-      "name": "The Chupa Hoyos",
       "id": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "name": "The Chupa Hoyos",
+      "captain": "45cbfb70-f5f9-11eb-8c94-7b0e7f612e65",
       "initials": "TCH",
+      "escudo": "",
       "subCollection": {}
     },
     "97cc8b40-f59c-11eb-842e-4f44b59e4ef0": {
       "id": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
-      "name": "Zicariato de la Perra",
+      "captain": "46683b70-f5f9-11eb-8c94-7b0e7f612e65",
       "initials": "ZPR",
+      "name": "Zicariato de la Perra",
+      "escudo": "",
       "subCollection": {}
     },
     "97f2ff00-f59c-11eb-842e-4f44b59e4ef0": {
-      "name": "Frozthound",
       "id": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
       "initials": "FZH",
+      "escudo": "",
+      "captain": "483de5d0-f5f9-11eb-8c94-7b0e7f612e65",
+      "name": "Frozthound",
       "subCollection": {}
     },
     "981a8430-f59c-11eb-842e-4f44b59e4ef0": {
+      "captain": "4b983460-f5f9-11eb-8c94-7b0e7f612e65",
+      "initials": "WTL",
       "id": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
       "name": "Wu Tang Lag",
-      "initials": "WTL",
+      "escudo": "",
       "subCollection": {}
     }
   },
   "fechas": {
-    "a6b959d0-f600-11eb-ac44-bbfc5ec4ed67": { "week": 1, "subCollection": {} },
-    "a77cd0e0-f600-11eb-ac44-bbfc5ec4ed67": { "week": 2, "subCollection": {} },
-    "a7a9ad40-f600-11eb-ac44-bbfc5ec4ed67": { "week": 3, "subCollection": {} },
-    "a819ad20-f600-11eb-ac44-bbfc5ec4ed67": { "week": 4, "subCollection": {} },
-    "a845c630-f600-11eb-ac44-bbfc5ec4ed67": { "week": 5, "subCollection": {} },
-    "a8afd2a0-f600-11eb-ac44-bbfc5ec4ed67": { "week": 6, "subCollection": {} },
-    "a8d90580-f600-11eb-ac44-bbfc5ec4ed67": { "week": 7, "subCollection": {} },
-    "a94311f0-f600-11eb-ac44-bbfc5ec4ed67": { "week": 8, "subCollection": {} },
-    "a9dc92d0-f600-11eb-ac44-bbfc5ec4ed67": { "week": 9, "subCollection": {} },
-    "aa10c230-f600-11eb-ac44-bbfc5ec4ed67": { "week": 10, "subCollection": {} }
+    "a6b959d0-f600-11eb-ac44-bbfc5ec4ed67": {
+      "id": "a6b959d0-f600-11eb-ac44-bbfc5ec4ed67",
+      "week": 1,
+      "subCollection": {}
+    },
+    "a77cd0e0-f600-11eb-ac44-bbfc5ec4ed67": {
+      "week": 2,
+      "id": "a77cd0e0-f600-11eb-ac44-bbfc5ec4ed67",
+      "subCollection": {}
+    },
+    "a7a9ad40-f600-11eb-ac44-bbfc5ec4ed67": {
+      "id": "a7a9ad40-f600-11eb-ac44-bbfc5ec4ed67",
+      "week": 3,
+      "subCollection": {}
+    },
+    "a819ad20-f600-11eb-ac44-bbfc5ec4ed67": {
+      "week": 4,
+      "id": "a819ad20-f600-11eb-ac44-bbfc5ec4ed67",
+      "subCollection": {}
+    },
+    "a845c630-f600-11eb-ac44-bbfc5ec4ed67": {
+      "week": 5,
+      "id": "a845c630-f600-11eb-ac44-bbfc5ec4ed67",
+      "subCollection": {}
+    },
+    "a8afd2a0-f600-11eb-ac44-bbfc5ec4ed67": {
+      "week": 6,
+      "id": "a8afd2a0-f600-11eb-ac44-bbfc5ec4ed67",
+      "subCollection": {}
+    },
+    "a8d90580-f600-11eb-ac44-bbfc5ec4ed67": {
+      "id": "a8d90580-f600-11eb-ac44-bbfc5ec4ed67",
+      "week": 7,
+      "subCollection": {}
+    },
+    "a94311f0-f600-11eb-ac44-bbfc5ec4ed67": {
+      "week": 8,
+      "id": "a94311f0-f600-11eb-ac44-bbfc5ec4ed67",
+      "subCollection": {}
+    },
+    "a9dc92d0-f600-11eb-ac44-bbfc5ec4ed67": {
+      "week": 9,
+      "id": "a9dc92d0-f600-11eb-ac44-bbfc5ec4ed67",
+      "subCollection": {}
+    },
+    "aa10c230-f600-11eb-ac44-bbfc5ec4ed67": {
+      "week": 10,
+      "id": "aa10c230-f600-11eb-ac44-bbfc5ec4ed67",
+      "subCollection": {}
+    }
   },
   "mapas": {
     "a6c7b1b0-f600-11eb-ac44-bbfc5ec4ed67": {
       "description": "",
-      "size": "",
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66923c6f22622be7c81ea.png",
-      "mapImageLayoutUrl": "",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66923c6f22622be7c81ea.png",
-      "mapImageUrl": "/images/cod-modern-warfare/maps/Aisle-9.jpg",
       "location": "Small (2v2)",
+      "id": "a6c7b1b0-f600-11eb-ac44-bbfc5ec4ed67",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Aisle-9.jpg",
+      "mapImageLayoutUrl": "",
       "name": "Aisle 9",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66923c6f22622be7c81ea.png",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66923c6f22622be7c81ea.png",
+      "size": "",
       "subCollection": {}
     },
     "a77cf7f0-f600-11eb-ac44-bbfc5ec4ed67": {
-      "name": "Aniyah Incursion",
       "location": "2 km outside of El Nadaar, Urzikstan",
-      "description": "",
-      "mapImageLayoutUrl": "",
-      "mapImageUrl": "/images/cod-modern-warfare/maps/Aniyah-Incursion.jpg",
       "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d041b8d9e23761fcba3.png",
+      "mapImageLayoutUrl": "",
+      "description": "",
       "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d041b8d9e23761fcba3.png",
+      "id": "a77cf7f0-f600-11eb-ac44-bbfc5ec4ed67",
       "size": "Medium",
+      "name": "Aniyah Incursion",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Aniyah-Incursion.jpg",
       "subCollection": {}
     },
     "a81a2250-f600-11eb-ac44-bbfc5ec4ed67": {
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d121b8d9e23761fcba5.png",
-      "mapImageLayoutUrl": "",
-      "description": "",
-      "size": "",
-      "location": "2 km outside of El Nadaar, Urzikstan",
       "name": "Aniyah Palace",
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d121b8d9e23761fcba5.png",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d121b8d9e23761fcba5.png",
+      "location": "2 km outside of El Nadaar, Urzikstan",
       "mapImageUrl": "/images/cod-modern-warfare/maps/Aniyah-Palace.jpg",
+      "mapImageLayoutUrl": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d121b8d9e23761fcba5.png",
+      "id": "a81a2250-f600-11eb-ac44-bbfc5ec4ed67",
+      "size": "",
+      "description": "",
       "subCollection": {}
     },
     "a8b725a0-f600-11eb-ac44-bbfc5ec4ed67": {
-      "size": "Medium",
-      "mapImageLayoutUrl": "",
-      "location": "9 km outside of Venskaya, Kastovia",
       "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d271b8d9e23761fcba7.png",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d271b8d9e23761fcba7.png",
-      "mapImageUrl": "/images/cod-modern-warfare/maps/Arklov-Peak.jpg",
       "description": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d271b8d9e23761fcba7.png",
+      "mapImageLayoutUrl": "",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Arklov-Peak.jpg",
+      "id": "a8b725a0-f600-11eb-ac44-bbfc5ec4ed67",
       "name": "Arklov Peak",
+      "location": "9 km outside of Venskaya, Kastovia",
+      "size": "Medium",
       "subCollection": {}
     },
     "a941d970-f600-11eb-ac44-bbfc5ec4ed67": {
-      "mapImageLayoutUrl": "",
+      "location": "Verdansk, Kastovia",
+      "id": "a941d970-f600-11eb-ac44-bbfc5ec4ed67",
+      "description": "",
+      "size": "Medium",
+      "name": "Atlas Superstore",
       "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d3f1b8d9e23761fcba9.png",
       "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d3f1b8d9e23761fcba9.png",
-      "size": "Medium",
-      "location": "Verdansk, Kastovia",
-      "description": "",
       "mapImageUrl": "/images/cod-modern-warfare/maps/Atlas-Superstore.jpg",
-      "name": "Atlas Superstore",
+      "mapImageLayoutUrl": "",
       "subCollection": {}
     },
     "a97e9450-f600-11eb-ac44-bbfc5ec4ed67": {
-      "mapImageUrl": "/images/cod-modern-warfare/maps/Atrium.jpg",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d561b8d9e23761fcbab.png",
-      "name": "Atrium",
+      "id": "a97e9450-f600-11eb-ac44-bbfc5ec4ed67",
       "location": "Small (2v2)",
       "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d561b8d9e23761fcbab.png",
-      "mapImageLayoutUrl": "",
-      "size": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d561b8d9e23761fcbab.png",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Atrium.jpg",
       "description": "",
+      "size": "",
+      "mapImageLayoutUrl": "",
+      "name": "Atrium",
       "subCollection": {}
     },
     "a9dcb9e0-f600-11eb-ac44-bbfc5ec4ed67": {
-      "location": "4 km outside of Tobraka, Urzikstan",
-      "mapImageUrl": "/images/cod-modern-warfare/maps/Azhir-Cave.jpg",
       "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d7d1b8d9e23761fcbaf.png",
       "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d7d1b8d9e23761fcbaf.png",
-      "mapImageLayoutUrl": "",
-      "size": "Medium",
-      "name": "Azhir Cave",
+      "id": "a9dcb9e0-f600-11eb-ac44-bbfc5ec4ed67",
       "description": "",
+      "size": "Medium",
+      "mapImageLayoutUrl": "",
+      "name": "Azhir Cave",
+      "location": "4 km outside of Tobraka, Urzikstan",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Azhir-Cave.jpg",
       "subCollection": {}
     },
     "aa6cebf0-f600-11eb-ac44-bbfc5ec4ed67": {
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d6f1b8d9e23761fcbad.png",
-      "location": "Realism",
       "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d6f1b8d9e23761fcbad.png",
-      "description": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d6f1b8d9e23761fcbad.png",
       "mapImageUrl": "/images/cod-modern-warfare/maps/Azhir-Cave-Night.jpg",
-      "mapImageLayoutUrl": "",
-      "size": "",
       "name": "Azhir Cave (Night)",
+      "size": "",
+      "description": "",
+      "mapImageLayoutUrl": "",
+      "id": "aa6cebf0-f600-11eb-ac44-bbfc5ec4ed67",
+      "location": "Realism",
       "subCollection": {}
     },
     "aaa0f440-f600-11eb-ac44-bbfc5ec4ed67": {
-      "mapImageUrl": "/images/cod-modern-warfare/maps/Bazaar.jpg",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d931b8d9e23761fcbb2.png",
       "size": "",
       "description": "",
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d931b8d9e23761fcbb2.png",
-      "location": "Urzikstan",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Bazaar.jpg",
       "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d931b8d9e23761fcbb2.png",
+      "location": "Urzikstan",
       "mapImageLayoutUrl": "",
+      "id": "aaa0f440-f600-11eb-ac44-bbfc5ec4ed67",
       "name": "Bazaar",
       "subCollection": {}
     },
     "aafb4940-f600-11eb-ac44-bbfc5ec4ed67": {
-      "mapImageLayoutUrl": "/images/cod-modern-warfare/maps/COD-ModernWarfare-Broadcast-Mini-Map-Layout.jpg",
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66da31b8d9e23761fcbb3.png",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66da31b8d9e23761fcbb3.png",
       "location": "Medium",
-      "size": "Medium",
-      "name": "Broadcast",
-      "mapImageUrl": "/images/cod-modern-warfare/maps/Broadcast.jpg",
       "description": "From the atrium and massive newsroom to the station’s balcony and nearby office buildings, this map could cater to serious CQB play through numerous tight corridors. Meanwhile, those using assault rifles, LMGs, marksman rifles, or sniper rifles can counterplay SMGs and shotguns with the use of various sightlines and the limited, yet still viable, verticality on offer.",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Broadcast.jpg",
+      "name": "Broadcast",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66da31b8d9e23761fcbb3.png",
+      "id": "aafb4940-f600-11eb-ac44-bbfc5ec4ed67",
+      "mapImageLayoutUrl": "/images/cod-modern-warfare/maps/COD-ModernWarfare-Broadcast-Mini-Map-Layout.jpg",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66da31b8d9e23761fcbb3.png",
+      "size": "Medium",
       "subCollection": {}
     },
     "ab1d0210-f600-11eb-ac44-bbfc5ec4ed67": {
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66db11b8d9e23761fcbb5.png",
+      "id": "ab1d0210-f600-11eb-ac44-bbfc5ec4ed67",
+      "name": "Cargo",
+      "description": "",
       "mapImageUrl": "/images/cod-modern-warfare/maps/Cargo.jpg",
       "mapImageLayoutUrl": "",
       "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66db11b8d9e23761fcbb5.png",
-      "name": "Cargo",
       "size": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66db11b8d9e23761fcbb5.png",
       "location": "Small (2v2)",
-      "description": "",
       "subCollection": {}
     },
     "ab3f0900-f600-11eb-ac44-bbfc5ec4ed67": {
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66dc71b8d9e23761fcbb7.png",
+      "name": "Chesire Park",
       "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66dc71b8d9e23761fcbb7.png",
       "mapImageLayoutUrl": "/images/cod-modern-warfare/maps/COD-ModernWarfare-Cheshire-Park-Mini-Map-Layout.jpg",
       "description": "Take to the townhomes for long sightlines, the stores to capture objectives through intense CQB battles, or take to the side streets to take some shortcuts. If you dare, try to challenge those who may set up shop in second-story windows, phone booths, front yards, or scaffolding.",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Cheshire-Park.jpg",
       "size": "Medium",
       "location": "London, England",
-      "mapImageUrl": "/images/cod-modern-warfare/maps/Cheshire-Park.jpg",
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66dc71b8d9e23761fcbb7.png",
-      "name": "Chesire Park",
+      "id": "ab3f0900-f600-11eb-ac44-bbfc5ec4ed67",
       "subCollection": {}
     },
     "ab727510-f600-11eb-ac44-bbfc5ec4ed67": {
-      "location": "16km outside of Faridah, Urzikstan",
+      "size": "Medium",
       "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66dd81b8d9e23761fcbba.png",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66dd81b8d9e23761fcbba.png",
-      "mapImageUrl": "/images/cod-modern-warfare/maps/Crash.jpg",
-      "name": "Crash",
+      "location": "16km outside of Faridah, Urzikstan",
       "mapImageLayoutUrl": "",
       "description": "",
-      "size": "Medium",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66dd81b8d9e23761fcbba.png",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Crash.jpg",
+      "id": "ab727510-f600-11eb-ac44-bbfc5ec4ed67",
+      "name": "Crash",
       "subCollection": {}
     },
     "ab92f560-f600-11eb-ac44-bbfc5ec4ed67": {
+      "name": "Docks",
+      "location": "Small (2v2)",
+      "description": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66deb1b8d9e23761fcbbb.png",
       "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66deb1b8d9e23761fcbbb.png",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Docks.jpg",
       "mapImageLayoutUrl": "",
       "size": "",
-      "description": "",
-      "location": "Small (2v2)",
-      "mapImageUrl": "/images/cod-modern-warfare/maps/Docks.jpg",
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66deb1b8d9e23761fcbbb.png",
-      "name": "Docks",
+      "id": "ab92f560-f600-11eb-ac44-bbfc5ec4ed67",
       "subCollection": {}
     },
     "abc6d6a0-f600-11eb-ac44-bbfc5ec4ed67": {
       "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66dff1b8d9e23761fcbbd.png",
-      "description": "",
-      "name": "Euphrates Bridge",
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66dff1b8d9e23761fcbbd.png",
       "mapImageUrl": "/images/cod-modern-warfare/maps/Euphrates-Bridge.jpg",
-      "location": "7 km outside of Haditha, Urzikstan",
-      "mapImageLayoutUrl": "",
       "size": "Medium",
+      "location": "7 km outside of Haditha, Urzikstan",
+      "name": "Euphrates Bridge",
+      "description": "",
+      "mapImageLayoutUrl": "",
+      "id": "abc6d6a0-f600-11eb-ac44-bbfc5ec4ed67",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66dff1b8d9e23761fcbbd.png",
       "subCollection": {}
     },
     "abe9c7f0-f600-11eb-ac44-bbfc5ec4ed67": {
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e101b8d9e23761fcbbf.png",
-      "description": "",
-      "name": "Grazna Raid",
-      "mapImageUrl": "/images/cod-modern-warfare/maps/Grazna-Raid.jpg",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e101b8d9e23761fcbbf.png",
-      "location": "5 km outside of Venskaya, Kastovia",
       "mapImageLayoutUrl": "",
+      "name": "Grazna Raid",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e101b8d9e23761fcbbf.png",
+      "description": "",
+      "id": "abe9c7f0-f600-11eb-ac44-bbfc5ec4ed67",
       "size": "Medium",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e101b8d9e23761fcbbf.png",
+      "location": "5 km outside of Venskaya, Kastovia",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Grazna-Raid.jpg",
       "subCollection": {}
     },
     "ac0984f0-f600-11eb-ac44-bbfc5ec4ed67": {
-      "name": "Gulag Showers",
       "mapImageUrl": "/images/cod-modern-warfare/maps/Gulag-Showers.jpg",
-      "mapImageLayoutUrl": "",
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e221b8d9e23761fcbc1.png",
       "description": "",
-      "location": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e221b8d9e23761fcbc1.png",
+      "id": "ac0984f0-f600-11eb-ac44-bbfc5ec4ed67",
+      "mapImageLayoutUrl": "",
       "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e221b8d9e23761fcbc1.png",
+      "location": "",
       "size": "",
+      "name": "Gulag Showers",
       "subCollection": {}
     },
     "ac2c4f30-f600-11eb-ac44-bbfc5ec4ed67": {
-      "mapImageLayoutUrl": "",
-      "size": "Medium",
+      "id": "ac2c4f30-f600-11eb-ac44-bbfc5ec4ed67",
       "mapImageUrl": "",
-      "location": "9 km outside of Tavorsk, Kastovia",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e481b8d9e23761fcbc5.png",
+      "mapImageLayoutUrl": "",
+      "description": "",
       "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e481b8d9e23761fcbc5.png",
       "name": "Gun Runner",
-      "description": "",
+      "location": "9 km outside of Tavorsk, Kastovia",
+      "size": "Medium",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e481b8d9e23761fcbc5.png",
       "subCollection": {}
     },
     "ac57f310-f600-11eb-ac44-bbfc5ec4ed67": {
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e3a1b8d9e23761fcbc3.png",
       "size": "",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e3a1b8d9e23761fcbc3.png",
       "location": "Realism",
-      "mapImageUrl": "/images/cod-modern-warfare/maps/Gun-Runner-Night.jpg",
-      "name": "Gun Runner (Night)",
-      "description": "",
       "mapImageLayoutUrl": "",
+      "description": "",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Gun-Runner-Night.jpg",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e3a1b8d9e23761fcbc3.png",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e3a1b8d9e23761fcbc3.png",
+      "name": "Gun Runner (Night)",
+      "id": "ac57f310-f600-11eb-ac44-bbfc5ec4ed67",
       "subCollection": {}
     },
     "ac790fa0-f600-11eb-ac44-bbfc5ec4ed67": {
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e6f1b8d9e23761fcbc9.png",
-      "name": "Hackney Yard",
       "description": "",
-      "size": "Medium",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e6f1b8d9e23761fcbc9.png",
-      "mapImageLayoutUrl": "",
       "mapImageUrl": "/images/cod-modern-warfare/maps/Hackney-Yard.jpg",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e6f1b8d9e23761fcbc9.png",
+      "id": "ac790fa0-f600-11eb-ac44-bbfc5ec4ed67",
       "location": "London, United Kingdom",
+      "size": "Medium",
+      "name": "Hackney Yard",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e6f1b8d9e23761fcbc9.png",
+      "mapImageLayoutUrl": "",
       "subCollection": {}
     },
     "ac99de10-f600-11eb-ac44-bbfc5ec4ed67": {
-      "location": "Realism",
-      "size": "",
-      "mapImageUrl": "/images/cod-modern-warfare/maps/Hackney-Yard-Night.jpg",
-      "mapImageLayoutUrl": "",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e621b8d9e23761fcbc7.png",
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e621b8d9e23761fcbc7.png",
-      "description": "",
+      "id": "ac99de10-f600-11eb-ac44-bbfc5ec4ed67",
       "name": "Hackney Yard (Night)",
+      "location": "Realism",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Hackney-Yard-Night.jpg",
+      "size": "",
+      "mapImageLayoutUrl": "",
+      "description": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e621b8d9e23761fcbc7.png",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e621b8d9e23761fcbc7.png",
       "subCollection": {}
     },
     "acbc5a30-f600-11eb-ac44-bbfc5ec4ed67": {
       "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e7f1b8d9e23761fcbcb.png",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e7f1b8d9e23761fcbcb.png",
       "mapImageUrl": "/images/cod-modern-warfare/maps/Hardhat.jpg",
-      "description": "",
+      "size": "Medium",
+      "id": "acbc5a30-f600-11eb-ac44-bbfc5ec4ed67",
+      "mapImageLayoutUrl": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e7f1b8d9e23761fcbcb.png",
       "location": "Medium",
       "name": "Hardhat",
-      "mapImageLayoutUrl": "",
-      "size": "Medium",
+      "description": "",
       "subCollection": {}
     },
     "ace9abc0-f600-11eb-ac44-bbfc5ec4ed67": {
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e911b8d9e23761fcbcd.png",
       "mapImageLayoutUrl": "",
-      "mapImageUrl": "/images/cod-modern-warfare/maps/Hill.jpg",
       "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e911b8d9e23761fcbcd.png",
       "name": "Hill",
-      "size": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e911b8d9e23761fcbcd.png",
+      "id": "ace9abc0-f600-11eb-ac44-bbfc5ec4ed67",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Hill.jpg",
       "location": "",
       "description": "",
+      "size": "",
       "subCollection": {}
     },
     "ad0b6490-f600-11eb-ac44-bbfc5ec4ed67": {
-      "size": "Medium",
-      "location": "14 km outside of Venskaya, Kastovia",
       "name": "Hovec Sawmill",
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66eba1b8d9e23761fcbd1.png",
-      "mapImageUrl": "/images/cod-modern-warfare/maps/Hovec-Sawmill.jpg",
+      "id": "ad0b6490-f600-11eb-ac44-bbfc5ec4ed67",
+      "location": "14 km outside of Venskaya, Kastovia",
       "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66eba1b8d9e23761fcbd1.png",
-      "description": "Although this humble community is a beautiful one, don’t let it distract you from the battle. Use rooftops of buildings to gain the high ground against enemies sprinting from building to building below and use the splashes of footsteps on the rolling river to track down flanking players.",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Hovec-Sawmill.jpg",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66eba1b8d9e23761fcbd1.png",
       "mapImageLayoutUrl": "/images/cod-modern-warfare/maps/COD-ModernWarfare-Hovec-Sawmill-Mini-Map-Layout.jpg",
+      "description": "Although this humble community is a beautiful one, don’t let it distract you from the battle. Use rooftops of buildings to gain the high ground against enemies sprinting from building to building below and use the splashes of footsteps on the rolling river to track down flanking players.",
+      "size": "Medium",
       "subCollection": {}
     },
     "ad327490-f600-11eb-ac44-bbfc5ec4ed67": {
+      "description": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66eca1b8d9e23761fcbd3.png",
       "size": "Medium",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66eca1b8d9e23761fcbd3.png",
+      "id": "ad327490-f600-11eb-ac44-bbfc5ec4ed67",
       "location": "Khandor, Urzikistan",
       "mapImageUrl": "/images/cod-modern-warfare/maps/Khandor-Hideout.jpg",
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66eca1b8d9e23761fcbd3.png",
-      "description": "",
-      "name": "Khandor Hideout",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66eca1b8d9e23761fcbd3.png",
       "mapImageLayoutUrl": "",
+      "name": "Khandor Hideout",
       "subCollection": {}
     },
     "ad536a10-f600-11eb-ac44-bbfc5ec4ed67": {
-      "description": "",
+      "id": "ad536a10-f600-11eb-ac44-bbfc5ec4ed67",
       "mapImageUrl": "/images/cod-modern-warfare/maps/King.jpg",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66eda1b8d9e23761fcbd5.png",
-      "mapImageLayoutUrl": "",
-      "size": "",
-      "location": "",
       "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66eda1b8d9e23761fcbd5.png",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66eda1b8d9e23761fcbd5.png",
       "name": "King",
+      "location": "",
+      "size": "",
+      "description": "",
+      "mapImageLayoutUrl": "",
       "subCollection": {}
     },
     "ad859da0-f600-11eb-ac44-bbfc5ec4ed67": {
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66eed1b8d9e23761fcbd7.png",
       "location": "Small (2v2)",
-      "size": "",
-      "mapImageLayoutUrl": "",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66eed1b8d9e23761fcbd7.png",
-      "mapImageUrl": "/images/cod-modern-warfare/maps/Livestock.jpg",
+      "id": "ad859da0-f600-11eb-ac44-bbfc5ec4ed67",
       "description": "",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Livestock.jpg",
+      "size": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66eed1b8d9e23761fcbd7.png",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66eed1b8d9e23761fcbd7.png",
       "name": "Livestock",
+      "mapImageLayoutUrl": "",
       "subCollection": {}
     },
     "adb31640-f600-11eb-ac44-bbfc5ec4ed67": {
-      "name": "Mialstore Tank Factory",
-      "size": "Medium",
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66eff1b8d9e23761fcbd9.png",
-      "description": "For either skirmish size, expect a mix of indoor and outdoor combat zones with two large buildings – the eponymous tank factory and a warehouse – being the map’s central point of conflict due to sheer surface area and accessible rooftops. Other areas to explore include an abandoned workshop, skybridge, scrapyard, shipping area, and residential zone, with some parts of the map sectioned off if it is being used for 6v6 combat.",
-      "location": "Medium",
-      "mapImageUrl": "/images/cod-modern-warfare/maps/Mialstor-Tank-Factory.jpg",
       "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66eff1b8d9e23761fcbd9.png",
+      "location": "Medium",
+      "description": "For either skirmish size, expect a mix of indoor and outdoor combat zones with two large buildings – the eponymous tank factory and a warehouse – being the map’s central point of conflict due to sheer surface area and accessible rooftops. Other areas to explore include an abandoned workshop, skybridge, scrapyard, shipping area, and residential zone, with some parts of the map sectioned off if it is being used for 6v6 combat.",
       "mapImageLayoutUrl": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66eff1b8d9e23761fcbd9.png",
+      "name": "Mialstore Tank Factory",
+      "id": "adb31640-f600-11eb-ac44-bbfc5ec4ed67",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Mialstor-Tank-Factory.jpg",
+      "size": "Medium",
       "subCollection": {}
     },
     "ade37510-f600-11eb-ac44-bbfc5ec4ed67": {
-      "size": "Medium",
-      "location": "Medium",
-      "name": "Petrov Oil Rig",
       "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66f1b1b8d9e23761fcbdc.png",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66f1b1b8d9e23761fcbdc.png",
-      "description": "",
-      "mapImageLayoutUrl": "",
       "mapImageUrl": "/images/cod-modern-warfare/maps/Petrov-Oil-Rig.jpg",
+      "location": "Medium",
+      "id": "ade37510-f600-11eb-ac44-bbfc5ec4ed67",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66f1b1b8d9e23761fcbdc.png",
+      "mapImageLayoutUrl": "",
+      "size": "Medium",
+      "description": "",
+      "name": "Petrov Oil Rig",
       "subCollection": {}
     },
     "ae11ff20-f600-11eb-ac44-bbfc5ec4ed67": {
-      "name": "Picadilly",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66f2a1b8d9e23761fcbde.png",
       "size": "Medium",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66f2a1b8d9e23761fcbde.png",
       "description": "",
-      "location": "Piccadilly Circus, London, United Kingdom",
-      "mapImageLayoutUrl": "",
       "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66f2a1b8d9e23761fcbde.png",
+      "location": "Piccadilly Circus, London, United Kingdom",
+      "name": "Picadilly",
+      "id": "ae11ff20-f600-11eb-ac44-bbfc5ec4ed67",
       "mapImageUrl": "/images/cod-modern-warfare/maps/Piccadilly.jpg",
+      "mapImageLayoutUrl": "",
       "subCollection": {}
     },
     "ae419aa0-f600-11eb-ac44-bbfc5ec4ed67": {
-      "location": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66f56634a1f23ded66abc.png",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66f56634a1f23ded66abc.png",
+      "mapImageUrl": "",
+      "name": "Pine",
+      "id": "ae419aa0-f600-11eb-ac44-bbfc5ec4ed67",
       "size": "",
       "description": "",
+      "location": "",
       "mapImageLayoutUrl": "",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66f56634a1f23ded66abc.png",
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66f56634a1f23ded66abc.png",
-      "name": "Pine",
-      "mapImageUrl": "",
       "subCollection": {}
     },
     "ae661290-f600-11eb-ac44-bbfc5ec4ed67": {
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66f7b634a1f23ded66ac0.png",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66f7b634a1f23ded66ac0.png",
+      "size": "Medium",
+      "id": "ae661290-f600-11eb-ac44-bbfc5ec4ed67",
       "location": "14 km outside of El Nadaar, Urzikstan",
       "mapImageLayoutUrl": "",
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66f7b634a1f23ded66ac0.png",
-      "mapImageUrl": "/images/cod-modern-warfare/maps/Rammaza.jpg",
       "name": "Rammaza",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66f7b634a1f23ded66ac0.png",
       "description": "",
-      "size": "Medium",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Rammaza.jpg",
       "subCollection": {}
     },
     "ae8ef750-f600-11eb-ac44-bbfc5ec4ed67": {
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66f67634a1f23ded66abe.png",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66f67634a1f23ded66abe.png",
       "size": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66f67634a1f23ded66abe.png",
+      "mapImageLayoutUrl": "",
       "name": "Rammaza (Night)",
       "description": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66f67634a1f23ded66abe.png",
+      "id": "ae8ef750-f600-11eb-ac44-bbfc5ec4ed67",
       "location": "Realism",
-      "mapImageLayoutUrl": "",
       "mapImageUrl": "/images/cod-modern-warfare/maps/Rammaza-Night.jpg",
       "subCollection": {}
     },
     "aebe1da0-f600-11eb-ac44-bbfc5ec4ed67": {
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66f91634a1f23ded66ac2.png",
-      "mapImageLayoutUrl": "",
-      "location": "Urzikstan desert",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66f91634a1f23ded66ac2.png",
-      "description": "",
-      "mapImageUrl": "/images/cod-modern-warfare/maps/Rust.jpg",
       "name": "Rust",
-      "size": "Medium",
+      "description": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66f91634a1f23ded66ac2.png",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66f91634a1f23ded66ac2.png",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Rust.jpg",
+      "location": "Urzikstan desert",
+      "size": "Small",
+      "mapImageLayoutUrl": "",
+      "id": "aebe1da0-f600-11eb-ac44-bbfc5ec4ed67",
       "subCollection": {}
     },
     "aeeccec0-f600-11eb-ac44-bbfc5ec4ed67": {
-      "mapImageLayoutUrl": "",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66fa0634a1f23ded66ac4.png",
       "mapImageUrl": "/images/cod-modern-warfare/maps/Scrapyard.jpg",
-      "name": "Scrapyard",
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66fa0634a1f23ded66ac4.png",
+      "id": "aeeccec0-f600-11eb-ac44-bbfc5ec4ed67",
       "location": "Aircraft Graveyard, Verdansk, Kastovia",
       "description": "",
+      "name": "Scrapyard",
+      "mapImageLayoutUrl": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66fa0634a1f23ded66ac4.png",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66fa0634a1f23ded66ac4.png",
       "size": "Medium",
       "subCollection": {}
     },
     "af1bce00-f600-11eb-ac44-bbfc5ec4ed67": {
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66fb0634a1f23ded66ac6.png",
       "mapImageUrl": "/images/cod-modern-warfare/maps/Shipment.jpg",
-      "description": "",
-      "size": "Medium",
-      "name": "Shipment",
       "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66fb0634a1f23ded66ac6.png",
       "location": "London, England",
+      "description": "",
       "mapImageLayoutUrl": "",
+      "name": "Shipment",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66fb0634a1f23ded66ac6.png",
+      "size": "Small",
+      "id": "af1bce00-f600-11eb-ac44-bbfc5ec4ed67",
       "subCollection": {}
     },
     "af4aa630-f600-11eb-ac44-bbfc5ec4ed67": {
+      "size": "Small",
+      "mapImageLayoutUrl": "",
+      "location": "Medium",
+      "description": "",
       "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66fc0634a1f23ded66ac8.png",
+      "id": "af4aa630-f600-11eb-ac44-bbfc5ec4ed67",
+      "name": "Shoot House",
       "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66fc0634a1f23ded66ac8.png",
       "mapImageUrl": "/images/cod-modern-warfare/maps/Shoot-House.jpg",
-      "description": "",
-      "name": "Shoot House",
-      "size": "Medium",
-      "location": "Medium",
-      "mapImageLayoutUrl": "",
       "subCollection": {}
     },
     "af79a570-f600-11eb-ac44-bbfc5ec4ed67": {
-      "size": "",
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66fce634a1f23ded66aca.png",
-      "name": "Speedball",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66fce634a1f23ded66aca.png",
-      "mapImageUrl": "/images/cod-modern-warfare/maps/Speedball.jpg",
       "location": "",
-      "description": "",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Speedball.jpg",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66fce634a1f23ded66aca.png",
+      "name": "Speedball",
       "mapImageLayoutUrl": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66fce634a1f23ded66aca.png",
+      "id": "af79a570-f600-11eb-ac44-bbfc5ec4ed67",
+      "description": "",
+      "size": "",
       "subCollection": {}
     },
     "af9f7cf0-f600-11eb-ac44-bbfc5ec4ed67": {
-      "description": "",
-      "name": "St Petrograd",
-      "mapImageUrl": "/images/cod-modern-warfare/maps/St-Petrograd.jpg",
-      "size": "Medium",
       "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a6700f634a1f23ded66ad0.png",
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a6700f634a1f23ded66ad0.png",
       "location": "St. Petrograd, Kastovia",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a6700f634a1f23ded66ad0.png",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/St-Petrograd.jpg",
       "mapImageLayoutUrl": "",
+      "size": "Medium",
+      "name": "St Petrograd",
+      "id": "af9f7cf0-f600-11eb-ac44-bbfc5ec4ed67",
+      "description": "",
       "subCollection": {}
     },
     "afbd3e20-f600-11eb-ac44-bbfc5ec4ed67": {
-      "location": "",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66ff4634a1f23ded66acc.png",
-      "mapImageLayoutUrl": "",
-      "name": "Stack",
-      "mapImageUrl": "/images/cod-modern-warfare/maps/Stack.jpg",
       "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66ff4634a1f23ded66acc.png",
+      "name": "Stack",
       "description": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66ff4634a1f23ded66acc.png",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Stack.jpg",
+      "mapImageLayoutUrl": "",
+      "id": "afbd3e20-f600-11eb-ac44-bbfc5ec4ed67",
+      "location": "",
       "size": "",
       "subCollection": {}
     },
     "afe73450-f600-11eb-ac44-bbfc5ec4ed67": {
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a67001634a1f23ded66ace.png",
+      "size": "",
+      "location": "Small (2v2)",
       "mapImageUrl": "/images/cod-modern-warfare/maps/Station.jpg",
       "name": "Station",
-      "description": "Every top of the boxcars and passenger car can be climbed on top of, which give superior verticality at the cost of being essentially exposed on all sides. Other objects, such as crates, containers, and even tank parts, can also be used to gain a height advantage or just be used as cover.",
-      "size": "",
+      "id": "afe73450-f600-11eb-ac44-bbfc5ec4ed67",
       "mapImageLayoutUrl": "/images/cod-modern-warfare/maps/COD-ModernWarfare-Station-Mini-Map-Layout.jpg",
       "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a67001634a1f23ded66ace.png",
-      "location": "Small (2v2)",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a67001634a1f23ded66ace.png",
+      "description": "Every top of the boxcars and passenger car can be climbed on top of, which give superior verticality at the cost of being essentially exposed on all sides. Other objects, such as crates, containers, and even tank parts, can also be used to gain a height advantage or just be used as cover.",
       "subCollection": {}
     },
     "b00b3710-f600-11eb-ac44-bbfc5ec4ed67": {
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a6701f634a1f23ded66ad2.png",
-      "mapImageUrl": "/images/cod-modern-warfare/maps/Suldal-Harbor.jpg",
-      "description": "",
-      "size": "Medium",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a6701f634a1f23ded66ad2.png",
       "location": "Medium",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a6701f634a1f23ded66ad2.png",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Suldal-Harbor.jpg",
+      "size": "Medium",
       "mapImageLayoutUrl": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a6701f634a1f23ded66ad2.png",
+      "id": "b00b3710-f600-11eb-ac44-bbfc5ec4ed67",
       "name": "Suldal Harbor",
+      "description": "",
       "subCollection": {}
     },
     "b02bde70-f600-11eb-ac44-bbfc5ec4ed67": {
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a6702f634a1f23ded66ad4.png",
       "description": "In the middle of the Urzikstan desert lies an urban city with a major construction project taking place at its center. With its citizens long evacuated, combat takes place from door-to-door as teams fight for control of the various overlooks and buildings. Prepare for a great mix of close-quarters combat and long-range sniper duels.",
+      "id": "b02bde70-f600-11eb-ac44-bbfc5ec4ed67",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a6702f634a1f23ded66ad4.png",
       "name": "Talsik Backlot",
       "mapImageLayoutUrl": "/images/cod-modern-warfare/maps/COD-ModernWarfare-Talisk-Backlot-Mini-Map-Layout.jpg",
-      "location": "Meska, Urzikstan",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a6702f634a1f23ded66ad4.png",
       "mapImageUrl": "/images/cod-modern-warfare/maps/Talisk-Backlot.jpg",
-      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a6702f634a1f23ded66ad4.png",
+      "location": "Meska, Urzikstan",
       "size": "Medium",
       "subCollection": {}
     },
     "b04c37b0-f600-11eb-ac44-bbfc5ec4ed67": {
-      "mapImageLayoutUrl": "",
-      "size": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a67044634a1f23ded66ad8.png",
+      "id": "b04c37b0-f600-11eb-ac44-bbfc5ec4ed67",
       "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a67044634a1f23ded66ad8.png",
       "mapImageUrl": "/images/cod-modern-warfare/maps/Trench.jpg",
-      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a67044634a1f23ded66ad8.png",
-      "name": "Trench",
+      "mapImageLayoutUrl": "",
       "description": "",
+      "size": "",
       "location": "Small (2v2)",
+      "name": "Trench",
       "subCollection": {}
     },
     "b07395d0-f600-11eb-ac44-bbfc5ec4ed67": {
-      "mapImageUrl": "/images/cod-modern-warfare/maps/Vacant.jpg",
-      "mapImageLayoutUrl": "",
       "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a6704b634a1f23ded66ada.png",
-      "size": "Medium",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Vacant.jpg",
       "description": "",
-      "name": "Vacant",
       "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a6704b634a1f23ded66ada.png",
+      "id": "b07395d0-f600-11eb-ac44-bbfc5ec4ed67",
+      "mapImageLayoutUrl": "",
+      "size": "Medium",
       "location": "Verdansk, Kastovia",
+      "name": "Vacant",
       "subCollection": {}
     },
     "b0994640-f600-11eb-ac44-bbfc5ec4ed67": {
-      "size": "",
-      "name": "Verdansk Stadium",
+      "description": "",
       "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a67052634a1f23ded66adc.png",
+      "name": "Verdansk Stadium",
       "mapImageLayoutUrl": "",
+      "id": "b0994640-f600-11eb-ac44-bbfc5ec4ed67",
+      "size": "",
       "mapImageUrl": "/images/cod-modern-warfare/maps/Stadium.jpg",
       "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a67052634a1f23ded66adc.png",
-      "description": "",
       "location": "Verdansk",
+      "subCollection": {}
+    }
+  },
+  "posiciones": {
+    "4bc425c0-f64e-11eb-a234-dd110177c7f4": {
+      "estadisticas": [
+        {
+          "roundsPerdidos": 9,
+          "roundsGanados": 36,
+          "fecha": 1,
+          "resultado": 1,
+          "posicion": 2
+        },
+        {
+          "fecha": 2,
+          "roundsPerdidos": 10,
+          "posicion": 1,
+          "roundsGanados": 32,
+          "resultado": 1
+        },
+        {
+          "roundsGanados": 12,
+          "posicion": 3,
+          "roundsPerdidos": 28,
+          "fecha": 3,
+          "resultado": -1
+        },
+        {
+          "posicion": 4,
+          "roundsPerdidos": 8,
+          "roundsGanados": 8,
+          "fecha": 4,
+          "resultado": 0
+        },
+        {
+          "resultado": null,
+          "roundsPerdidos": null,
+          "roundsGanados": null,
+          "fecha": 5,
+          "posicion": 0
+        },
+        {
+          "posicion": 0,
+          "roundsGanados": null,
+          "resultado": null,
+          "roundsPerdidos": null,
+          "fecha": 6
+        },
+        {
+          "roundsPerdidos": null,
+          "posicion": 0,
+          "fecha": 7,
+          "resultado": null,
+          "roundsGanados": null
+        },
+        {
+          "roundsPerdidos": null,
+          "fecha": 8,
+          "posicion": 0,
+          "resultado": null,
+          "roundsGanados": null
+        },
+        {
+          "resultado": null,
+          "roundsPerdidos": null,
+          "roundsGanados": null,
+          "posicion": 0,
+          "fecha": 9
+        },
+        {
+          "posicion": 0,
+          "roundsPerdidos": null,
+          "roundsGanados": null,
+          "fecha": 10,
+          "resultado": null
+        },
+        {
+          "resultado": null,
+          "roundsGanados": null,
+          "roundsPerdidos": null,
+          "fecha": 11,
+          "posicion": 0
+        },
+        {
+          "fecha": 12,
+          "roundsPerdidos": null,
+          "roundsGanados": null,
+          "posicion": 0,
+          "resultado": null
+        },
+        {
+          "roundsPerdidos": null,
+          "posicion": 0,
+          "fecha": 13,
+          "resultado": null,
+          "roundsGanados": null
+        },
+        {
+          "roundsPerdidos": null,
+          "resultado": null,
+          "fecha": 14,
+          "posicion": 0,
+          "roundsGanados": null
+        }
+      ],
+      "id": "",
+      "clan": "Los del Gulag",
+      "subCollection": {}
+    },
+    "4c8e5390-f64e-11eb-a234-dd110177c7f4": {
+      "id": "",
+      "clan": "Mancoster reloaded",
+      "estadisticas": [
+        {
+          "roundsGanados": null,
+          "fecha": 1,
+          "roundsPerdidos": null,
+          "posicion": 0,
+          "resultado": null
+        },
+        {
+          "posicion": 0,
+          "roundsPerdidos": null,
+          "resultado": null,
+          "roundsGanados": null,
+          "fecha": 2
+        },
+        {
+          "roundsPerdidos": null,
+          "roundsGanados": null,
+          "fecha": 3,
+          "resultado": null,
+          "posicion": 0
+        },
+        {
+          "fecha": 4,
+          "posicion": 0,
+          "resultado": null,
+          "roundsPerdidos": null,
+          "roundsGanados": null
+        },
+        {
+          "roundsGanados": null,
+          "roundsPerdidos": null,
+          "posicion": 0,
+          "fecha": 5,
+          "resultado": null
+        },
+        {
+          "fecha": 6,
+          "posicion": 0,
+          "roundsPerdidos": null,
+          "resultado": null,
+          "roundsGanados": null
+        },
+        {
+          "roundsGanados": null,
+          "posicion": 0,
+          "fecha": 7,
+          "roundsPerdidos": null,
+          "resultado": null
+        },
+        {
+          "posicion": 0,
+          "resultado": null,
+          "roundsGanados": null,
+          "fecha": 8,
+          "roundsPerdidos": null
+        },
+        {
+          "posicion": 0,
+          "fecha": 9,
+          "resultado": null,
+          "roundsPerdidos": null,
+          "roundsGanados": null
+        },
+        {
+          "roundsGanados": null,
+          "posicion": 0,
+          "fecha": 10,
+          "roundsPerdidos": null,
+          "resultado": null
+        },
+        {
+          "posicion": 0,
+          "roundsPerdidos": null,
+          "roundsGanados": null,
+          "resultado": null,
+          "fecha": 11
+        },
+        {
+          "fecha": 12,
+          "resultado": null,
+          "roundsPerdidos": null,
+          "posicion": 0,
+          "roundsGanados": null
+        },
+        {
+          "fecha": 13,
+          "posicion": 0,
+          "roundsPerdidos": null,
+          "roundsGanados": null,
+          "resultado": null
+        },
+        {
+          "fecha": 14,
+          "roundsPerdidos": null,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null
+        }
+      ],
+      "subCollection": {}
+    },
+    "4cb42b10-f64e-11eb-a234-dd110177c7f4": {
+      "clan": "Disaster groove",
+      "id": "",
+      "estadisticas": [
+        {
+          "roundsPerdidos": null,
+          "roundsGanados": null,
+          "fecha": 1,
+          "posicion": 0,
+          "resultado": null
+        },
+        {
+          "fecha": 2,
+          "roundsPerdidos": null,
+          "roundsGanados": null,
+          "posicion": 0,
+          "resultado": null
+        },
+        {
+          "posicion": 0,
+          "roundsPerdidos": null,
+          "roundsGanados": null,
+          "fecha": 3,
+          "resultado": null
+        },
+        {
+          "roundsGanados": null,
+          "roundsPerdidos": null,
+          "fecha": 4,
+          "posicion": 0,
+          "resultado": null
+        },
+        {
+          "roundsGanados": null,
+          "posicion": 0,
+          "resultado": null,
+          "fecha": 5,
+          "roundsPerdidos": null
+        },
+        {
+          "posicion": 0,
+          "roundsGanados": null,
+          "fecha": 6,
+          "roundsPerdidos": null,
+          "resultado": null
+        },
+        {
+          "roundsGanados": null,
+          "fecha": 7,
+          "roundsPerdidos": null,
+          "posicion": 0,
+          "resultado": null
+        },
+        {
+          "roundsGanados": null,
+          "resultado": null,
+          "posicion": 0,
+          "fecha": 8,
+          "roundsPerdidos": null
+        },
+        {
+          "roundsGanados": null,
+          "posicion": 0,
+          "resultado": null,
+          "roundsPerdidos": null,
+          "fecha": 9
+        },
+        {
+          "posicion": 0,
+          "resultado": null,
+          "roundsPerdidos": null,
+          "roundsGanados": null,
+          "fecha": 10
+        },
+        {
+          "posicion": 0,
+          "roundsGanados": null,
+          "resultado": null,
+          "fecha": 11,
+          "roundsPerdidos": null
+        },
+        {
+          "roundsPerdidos": null,
+          "fecha": 12,
+          "roundsGanados": null,
+          "posicion": 0,
+          "resultado": null
+        },
+        {
+          "fecha": 13,
+          "posicion": 0,
+          "resultado": null,
+          "roundsPerdidos": null,
+          "roundsGanados": null
+        },
+        {
+          "posicion": 0,
+          "roundsPerdidos": null,
+          "roundsGanados": null,
+          "fecha": 14,
+          "resultado": null
+        }
+      ],
+      "subCollection": {}
+    },
+    "4d2870b0-f64e-11eb-a234-dd110177c7f4": {
+      "id": "",
+      "estadisticas": [
+        {
+          "roundsGanados": null,
+          "roundsPerdidos": null,
+          "fecha": 1,
+          "posicion": 0,
+          "resultado": null
+        },
+        {
+          "roundsGanados": null,
+          "resultado": null,
+          "posicion": 0,
+          "roundsPerdidos": null,
+          "fecha": 2
+        },
+        {
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null,
+          "fecha": 3,
+          "resultado": null
+        },
+        {
+          "resultado": null,
+          "roundsPerdidos": null,
+          "roundsGanados": null,
+          "posicion": 0,
+          "fecha": 4
+        },
+        {
+          "resultado": null,
+          "fecha": 5,
+          "posicion": 0,
+          "roundsPerdidos": null,
+          "roundsGanados": null
+        },
+        {
+          "roundsGanados": null,
+          "resultado": null,
+          "roundsPerdidos": null,
+          "fecha": 6,
+          "posicion": 0
+        },
+        {
+          "roundsGanados": null,
+          "resultado": null,
+          "roundsPerdidos": null,
+          "fecha": 7,
+          "posicion": 0
+        },
+        {
+          "posicion": 0,
+          "roundsGanados": null,
+          "resultado": null,
+          "roundsPerdidos": null,
+          "fecha": 8
+        },
+        {
+          "roundsGanados": null,
+          "resultado": null,
+          "posicion": 0,
+          "roundsPerdidos": null,
+          "fecha": 9
+        },
+        {
+          "fecha": 10,
+          "roundsPerdidos": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "resultado": null
+        },
+        {
+          "roundsPerdidos": null,
+          "fecha": 11,
+          "posicion": 0,
+          "roundsGanados": null,
+          "resultado": null
+        },
+        {
+          "roundsPerdidos": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "fecha": 12,
+          "resultado": null
+        },
+        {
+          "fecha": 13,
+          "posicion": 0,
+          "resultado": null,
+          "roundsPerdidos": null,
+          "roundsGanados": null
+        },
+        {
+          "fecha": 14,
+          "resultado": null,
+          "roundsGanados": null,
+          "posicion": 0,
+          "roundsPerdidos": null
+        }
+      ],
+      "clan": "The Chupahoyos",
+      "subCollection": {}
+    },
+    "4d5748e0-f64e-11eb-a234-dd110177c7f4": {
+      "clan": "Zicariato de la perra",
+      "id": "",
+      "estadisticas": [
+        {
+          "posicion": 0,
+          "roundsPerdidos": null,
+          "roundsGanados": null,
+          "fecha": 1,
+          "resultado": null
+        },
+        {
+          "fecha": 2,
+          "roundsPerdidos": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "resultado": null
+        },
+        {
+          "roundsPerdidos": null,
+          "resultado": null,
+          "posicion": 0,
+          "fecha": 3,
+          "roundsGanados": null
+        },
+        {
+          "fecha": 4,
+          "resultado": null,
+          "roundsPerdidos": null,
+          "roundsGanados": null,
+          "posicion": 0
+        },
+        {
+          "roundsGanados": null,
+          "resultado": null,
+          "fecha": 5,
+          "posicion": 0,
+          "roundsPerdidos": null
+        },
+        {
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null,
+          "resultado": null,
+          "fecha": 6
+        },
+        {
+          "resultado": null,
+          "roundsGanados": null,
+          "posicion": 0,
+          "roundsPerdidos": null,
+          "fecha": 7
+        },
+        {
+          "resultado": null,
+          "roundsPerdidos": null,
+          "roundsGanados": null,
+          "fecha": 8,
+          "posicion": 0
+        },
+        {
+          "roundsPerdidos": null,
+          "resultado": null,
+          "fecha": 9,
+          "posicion": 0,
+          "roundsGanados": null
+        },
+        {
+          "resultado": null,
+          "fecha": 10,
+          "roundsGanados": null,
+          "roundsPerdidos": null,
+          "posicion": 0
+        },
+        {
+          "roundsGanados": null,
+          "fecha": 11,
+          "posicion": 0,
+          "roundsPerdidos": null,
+          "resultado": null
+        },
+        {
+          "roundsPerdidos": null,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "fecha": 12
+        },
+        {
+          "resultado": null,
+          "roundsGanados": null,
+          "roundsPerdidos": null,
+          "fecha": 13,
+          "posicion": 0
+        },
+        {
+          "fecha": 14,
+          "roundsPerdidos": null,
+          "resultado": null,
+          "roundsGanados": null,
+          "posicion": 0
+        }
+      ],
+      "subCollection": {}
+    },
+    "4dbe6f20-f64e-11eb-a234-dd110177c7f4": {
+      "clan": "Frozthound",
+      "estadisticas": [
+        {
+          "roundsPerdidos": null,
+          "fecha": 1,
+          "posicion": 0,
+          "resultado": null,
+          "roundsGanados": null
+        },
+        {
+          "roundsPerdidos": null,
+          "resultado": null,
+          "roundsGanados": null,
+          "fecha": 2,
+          "posicion": 0
+        },
+        {
+          "resultado": null,
+          "posicion": 0,
+          "roundsPerdidos": null,
+          "roundsGanados": null,
+          "fecha": 3
+        },
+        {
+          "resultado": null,
+          "posicion": 0,
+          "roundsPerdidos": null,
+          "fecha": 4,
+          "roundsGanados": null
+        },
+        {
+          "fecha": 5,
+          "resultado": null,
+          "roundsGanados": null,
+          "posicion": 0,
+          "roundsPerdidos": null
+        },
+        {
+          "fecha": 6,
+          "roundsGanados": null,
+          "resultado": null,
+          "posicion": 0,
+          "roundsPerdidos": null
+        },
+        {
+          "resultado": null,
+          "roundsPerdidos": null,
+          "fecha": 7,
+          "posicion": 0,
+          "roundsGanados": null
+        },
+        {
+          "roundsGanados": null,
+          "roundsPerdidos": null,
+          "posicion": 0,
+          "resultado": null,
+          "fecha": 8
+        },
+        {
+          "posicion": 0,
+          "resultado": null,
+          "fecha": 9,
+          "roundsGanados": null,
+          "roundsPerdidos": null
+        },
+        {
+          "posicion": 0,
+          "roundsPerdidos": null,
+          "fecha": 10,
+          "resultado": null,
+          "roundsGanados": null
+        },
+        {
+          "roundsGanados": null,
+          "resultado": null,
+          "posicion": 0,
+          "roundsPerdidos": null,
+          "fecha": 11
+        },
+        {
+          "roundsGanados": null,
+          "fecha": 12,
+          "roundsPerdidos": null,
+          "posicion": 0,
+          "resultado": null
+        },
+        {
+          "resultado": null,
+          "roundsPerdidos": null,
+          "posicion": 0,
+          "roundsGanados": null,
+          "fecha": 13
+        },
+        {
+          "roundsPerdidos": null,
+          "resultado": null,
+          "roundsGanados": null,
+          "fecha": 14,
+          "posicion": 0
+        }
+      ],
+      "id": "",
+      "subCollection": {}
+    },
+    "4df388e0-f64e-11eb-a234-dd110177c7f4": {
+      "estadisticas": [
+        {
+          "posicion": 0,
+          "roundsPerdidos": null,
+          "roundsGanados": null,
+          "fecha": 1,
+          "resultado": null
+        },
+        {
+          "posicion": 0,
+          "fecha": 2,
+          "roundsGanados": null,
+          "resultado": null,
+          "roundsPerdidos": null
+        },
+        {
+          "posicion": 0,
+          "roundsGanados": null,
+          "resultado": null,
+          "roundsPerdidos": null,
+          "fecha": 3
+        },
+        {
+          "resultado": null,
+          "roundsPerdidos": null,
+          "fecha": 4,
+          "posicion": 0,
+          "roundsGanados": null
+        },
+        {
+          "roundsPerdidos": null,
+          "fecha": 5,
+          "posicion": 0,
+          "roundsGanados": null,
+          "resultado": null
+        },
+        {
+          "posicion": 0,
+          "resultado": null,
+          "fecha": 6,
+          "roundsPerdidos": null,
+          "roundsGanados": null
+        },
+        {
+          "posicion": 0,
+          "roundsGanados": null,
+          "roundsPerdidos": null,
+          "fecha": 7,
+          "resultado": null
+        },
+        {
+          "posicion": 0,
+          "roundsPerdidos": null,
+          "resultado": null,
+          "fecha": 8,
+          "roundsGanados": null
+        },
+        {
+          "roundsGanados": null,
+          "resultado": null,
+          "fecha": 9,
+          "roundsPerdidos": null,
+          "posicion": 0
+        },
+        {
+          "roundsGanados": null,
+          "roundsPerdidos": null,
+          "fecha": 10,
+          "posicion": 0,
+          "resultado": null
+        },
+        {
+          "roundsPerdidos": null,
+          "fecha": 11,
+          "posicion": 0,
+          "resultado": null,
+          "roundsGanados": null
+        },
+        {
+          "roundsGanados": null,
+          "fecha": 12,
+          "resultado": null,
+          "roundsPerdidos": null,
+          "posicion": 0
+        },
+        {
+          "fecha": 13,
+          "posicion": 0,
+          "roundsPerdidos": null,
+          "resultado": null,
+          "roundsGanados": null
+        },
+        {
+          "roundsPerdidos": null,
+          "resultado": null,
+          "fecha": 14,
+          "roundsGanados": null,
+          "posicion": 0
+        }
+      ],
+      "id": "",
+      "clan": "Wu-Tang Lag",
+      "subCollection": {}
+    },
+    "4e516050-f64e-11eb-a234-dd110177c7f4": {
+      "estadisticas": [
+        {
+          "posicion": 4,
+          "fecha": 1,
+          "roundsPerdidos": null,
+          "resultado": 0,
+          "roundsGanados": 22
+        },
+        {
+          "posicion": 4,
+          "roundsGanados": 36,
+          "resultado": 1,
+          "fecha": 2,
+          "roundsPerdidos": null
+        },
+        {
+          "roundsPerdidos": null,
+          "posicion": 4,
+          "roundsGanados": 7,
+          "fecha": 3,
+          "resultado": -1
+        },
+        {
+          "fecha": 4,
+          "posicion": 4,
+          "roundsPerdidos": null,
+          "roundsGanados": 5,
+          "resultado": -1
+        },
+        {
+          "fecha": 5,
+          "roundsPerdidos": null,
+          "roundsGanados": 36,
+          "resultado": 1,
+          "posicion": 4
+        },
+        {
+          "roundsPerdidos": null,
+          "posicion": 4,
+          "resultado": 0,
+          "roundsGanados": 21,
+          "fecha": 6
+        },
+        {
+          "fecha": 7,
+          "roundsGanados": 23,
+          "roundsPerdidos": null,
+          "resultado": 0,
+          "posicion": 4
+        },
+        {
+          "resultado": 1,
+          "posicion": 5,
+          "fecha": 8,
+          "roundsPerdidos": null,
+          "roundsGanados": 30
+        },
+        {
+          "fecha": 9,
+          "roundsPerdidos": null,
+          "roundsGanados": null,
+          "posicion": 0,
+          "resultado": null
+        },
+        {
+          "posicion": 0,
+          "fecha": 10,
+          "roundsPerdidos": null,
+          "resultado": null,
+          "roundsGanados": null
+        },
+        {
+          "posicion": 0,
+          "fecha": 11,
+          "roundsPerdidos": null,
+          "roundsGanados": null,
+          "resultado": null
+        },
+        {
+          "roundsGanados": null,
+          "fecha": 12,
+          "posicion": 0,
+          "roundsPerdidos": null,
+          "resultado": null
+        },
+        {
+          "fecha": 13,
+          "roundsPerdidos": null,
+          "resultado": null,
+          "posicion": 0,
+          "roundsGanados": null
+        },
+        {
+          "posicion": 0,
+          "roundsGanados": null,
+          "fecha": 14,
+          "roundsPerdidos": null,
+          "resultado": null
+        }
+      ],
+      "id": "",
+      "clan": "xxxxxxx",
       "subCollection": {}
     }
   },
   "regimientos": {
     "95b480b0-f59c-11eb-842e-4f44b59e4ef0": {
-      "id": "95b480b0-f59c-11eb-842e-4f44b59e4ef0",
       "name": "FPMR.",
+      "id": "95b480b0-f59c-11eb-842e-4f44b59e4ef0",
       "subCollection": {}
     },
     "96744e40-f59c-11eb-842e-4f44b59e4ef0": {
@@ -575,8 +1525,8 @@
       "subCollection": {}
     },
     "97096250-f59c-11eb-842e-4f44b59e4ef0": {
-      "name": "CRK",
       "id": "97096250-f59c-11eb-842e-4f44b59e4ef0",
+      "name": "CRK",
       "subCollection": {}
     },
     "979bde50-f59c-11eb-842e-4f44b59e4ef0": {
@@ -597,355 +1547,451 @@
   },
   "soldados": {
     "3f6d4680-f5f9-11eb-8c94-7b0e7f612e65": {
-      "clan": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
-      "regimiento": "150b6760-f580-11eb-9b54-2345042170df",
       "capitan": true,
-      "id": "3f6d4680-f5f9-11eb-8c94-7b0e7f612e65",
       "nick": "Chernobyl",
+      "regimiento": "96744e40-f59c-11eb-842e-4f44b59e4ef0",
+      "id": "3f6d4680-f5f9-11eb-8c94-7b0e7f612e65",
+      "clan": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
       "subCollection": {}
     },
     "402ee8d0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "capitan": false,
-      "regimiento": "150b6760-f580-11eb-9b54-2345042170df",
-      "id": "402ee8d0-f5f9-11eb-8c94-7b0e7f612e65",
       "nick": "Dr Elvis Tec",
+      "regimiento": "96744e40-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": false,
       "clan": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "id": "402ee8d0-f5f9-11eb-8c94-7b0e7f612e65",
       "subCollection": {}
     },
     "405d72e0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "capitan": false,
       "clan": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": "96744e40-f59c-11eb-842e-4f44b59e4ef0",
       "id": "405d72e0-f5f9-11eb-8c94-7b0e7f612e65",
       "nick": "MalditoRenacuajo",
-      "capitan": false,
-      "regimiento": "150b6760-f580-11eb-9b54-2345042170df",
       "subCollection": {}
     },
     "40cb28d0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "nick": "EljefeReyes",
-      "regimiento": "150b6760-f580-11eb-9b54-2345042170df",
-      "capitan": false,
-      "id": "40cb28d0-f5f9-11eb-8c94-7b0e7f612e65",
       "clan": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "EljefeReyes",
+      "id": "40cb28d0-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": "96744e40-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": false,
       "subCollection": {}
     },
     "40f06410-f5f9-11eb-8c94-7b0e7f612e65": {
       "clan": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Sheshe",
       "capitan": false,
       "regimiento": null,
       "id": "40f06410-f5f9-11eb-8c94-7b0e7f612e65",
-      "nick": "Sheshe",
       "subCollection": {}
     },
     "415bf720-f5f9-11eb-8c94-7b0e7f612e65": {
+      "capitan": true,
+      "regimiento": null,
+      "id": "415bf720-f5f9-11eb-8c94-7b0e7f612e65",
       "clan": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
       "nick": "Batman",
-      "regimiento": null,
-      "capitan": true,
-      "id": "415bf720-f5f9-11eb-8c94-7b0e7f612e65",
       "subCollection": {}
     },
     "4198b200-f5f9-11eb-8c94-7b0e7f612e65": {
       "id": "4198b200-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Anfeta",
       "clan": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
       "capitan": false,
       "regimiento": null,
-      "nick": "Anfeta",
       "subCollection": {}
     },
     "41edd6e0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "regimiento": null,
-      "nick": "Mclovin",
       "clan": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
-      "id": "41edd6e0-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Mclovin",
+      "regimiento": null,
       "capitan": false,
+      "id": "41edd6e0-f5f9-11eb-8c94-7b0e7f612e65",
       "subCollection": {}
     },
     "4241c340-f5f9-11eb-8c94-7b0e7f612e65": {
       "nick": "Zeke",
       "regimiento": null,
-      "id": "4241c340-f5f9-11eb-8c94-7b0e7f612e65",
       "clan": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "id": "4241c340-f5f9-11eb-8c94-7b0e7f612e65",
       "capitan": false,
       "subCollection": {}
     },
     "42824eb0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "Reaper",
+      "clan": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
       "id": "42824eb0-f5f9-11eb-8c94-7b0e7f612e65",
       "regimiento": null,
-      "clan": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
-      "nick": "Reaper",
       "capitan": false,
       "subCollection": {}
     },
     "42d50290-f5f9-11eb-8c94-7b0e7f612e65": {
-      "clan": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
       "capitan": true,
-      "nick": "Huevito Principe",
-      "id": "42d50290-f5f9-11eb-8c94-7b0e7f612e65",
       "regimiento": null,
+      "id": "42d50290-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Huevito Principe",
+      "clan": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
       "subCollection": {}
     },
     "43169f70-f5f9-11eb-8c94-7b0e7f612e65": {
       "clan": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-      "nick": "Lexz",
       "regimiento": null,
-      "capitan": false,
       "id": "43169f70-f5f9-11eb-8c94-7b0e7f612e65",
+      "capitan": false,
+      "nick": "Lexz",
       "subCollection": {}
     },
     "4389fab0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "clan": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-      "regimiento": null,
       "id": "4389fab0-f5f9-11eb-8c94-7b0e7f612e65",
       "nick": "Hartaban",
+      "regimiento": null,
+      "clan": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
       "capitan": false,
       "subCollection": {}
     },
     "43b8d2e0-f5f9-11eb-8c94-7b0e7f612e65": {
       "clan": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "GodPeluka",
+      "capitan": false,
       "id": "43b8d2e0-f5f9-11eb-8c94-7b0e7f612e65",
       "regimiento": null,
-      "capitan": false,
-      "nick": "GodPeluka",
       "subCollection": {}
     },
     "441ee7b0-f5f9-11eb-8c94-7b0e7f612e65": {
       "nick": "DonBasto",
-      "id": "441ee7b0-f5f9-11eb-8c94-7b0e7f612e65",
-      "clan": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
       "capitan": false,
+      "clan": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "id": "441ee7b0-f5f9-11eb-8c94-7b0e7f612e65",
       "regimiento": null,
       "subCollection": {}
     },
     "4454ebd0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "clan": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-      "capitan": false,
       "nick": "Vato",
-      "id": "4454ebd0-f5f9-11eb-8c94-7b0e7f612e65",
       "regimiento": null,
+      "id": "4454ebd0-f5f9-11eb-8c94-7b0e7f612e65",
+      "capitan": false,
+      "clan": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
       "subCollection": {}
     },
     "44c27ab0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "regimiento": null,
+      "clan": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "id": "44c27ab0-f5f9-11eb-8c94-7b0e7f612e65",
       "nick": "Laycan",
       "capitan": false,
-      "clan": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-      "regimiento": null,
-      "id": "44c27ab0-f5f9-11eb-8c94-7b0e7f612e65",
       "subCollection": {}
     },
     "44f12bd0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "id": "44f12bd0-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Sato",
       "regimiento": null,
       "clan": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
       "capitan": false,
-      "nick": "Sato",
+      "id": "44f12bd0-f5f9-11eb-8c94-7b0e7f612e65",
       "subCollection": {}
     },
     "4554a890-f5f9-11eb-8c94-7b0e7f612e65": {
-      "id": "4554a890-f5f9-11eb-8c94-7b0e7f612e65",
       "clan": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
       "nick": "Dj Silverio",
-      "capitan": false,
       "regimiento": null,
+      "id": "4554a890-f5f9-11eb-8c94-7b0e7f612e65",
+      "capitan": false,
       "subCollection": {}
     },
     "458d44c0-f5f9-11eb-8c94-7b0e7f612e65": {
       "id": "458d44c0-f5f9-11eb-8c94-7b0e7f612e65",
       "regimiento": null,
-      "capitan": false,
       "clan": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": false,
       "nick": "Napo",
       "subCollection": {}
     },
     "45cbfb70-f5f9-11eb-8c94-7b0e7f612e65": {
-      "id": "45cbfb70-f5f9-11eb-8c94-7b0e7f612e65",
-      "regimiento": null,
-      "capitan": true,
       "clan": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": true,
+      "id": "45cbfb70-f5f9-11eb-8c94-7b0e7f612e65",
       "nick": "W4rlord",
+      "regimiento": null,
       "subCollection": {}
     },
     "460a3cf0-f5f9-11eb-8c94-7b0e7f612e65": {
       "id": "460a3cf0-f5f9-11eb-8c94-7b0e7f612e65",
       "nick": "Sheep1",
+      "capitan": false,
       "regimiento": null,
       "clan": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-      "capitan": false,
       "subCollection": {}
     },
     "46393c30-f5f9-11eb-8c94-7b0e7f612e65": {
-      "capitan": false,
+      "id": "46393c30-f5f9-11eb-8c94-7b0e7f612e65",
       "clan": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
       "nick": "yayan",
-      "id": "46393c30-f5f9-11eb-8c94-7b0e7f612e65",
+      "capitan": false,
       "regimiento": null,
       "subCollection": {}
     },
     "46683b70-f5f9-11eb-8c94-7b0e7f612e65": {
-      "clan": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
       "id": "46683b70-f5f9-11eb-8c94-7b0e7f612e65",
+      "clan": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
       "capitan": true,
       "nick": "ChinoTuerto",
       "regimiento": null,
       "subCollection": {}
     },
     "4696ec90-f5f9-11eb-8c94-7b0e7f612e65": {
-      "capitan": false,
       "clan": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
-      "nick": "Wuayo",
-      "id": "4696ec90-f5f9-11eb-8c94-7b0e7f612e65",
       "regimiento": null,
+      "capitan": false,
+      "id": "4696ec90-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Wuayo",
       "subCollection": {}
     },
     "46b7bb00-f5f9-11eb-8c94-7b0e7f612e65": {
-      "id": "46b7bb00-f5f9-11eb-8c94-7b0e7f612e65",
-      "nick": "Mleal",
-      "capitan": false,
       "clan": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": false,
+      "nick": "Mleal",
+      "id": "46b7bb00-f5f9-11eb-8c94-7b0e7f612e65",
       "regimiento": null,
       "subCollection": {}
     },
     "47939c10-f5f9-11eb-8c94-7b0e7f612e65": {
-      "nick": "NaxoUC",
-      "clan": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
-      "capitan": false,
-      "regimiento": null,
       "id": "47939c10-f5f9-11eb-8c94-7b0e7f612e65",
+      "clan": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "NaxoUC",
+      "regimiento": null,
+      "capitan": false,
       "subCollection": {}
     },
     "47c1ff10-f5f9-11eb-8c94-7b0e7f612e65": {
-      "clan": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
-      "regimiento": null,
       "nick": "Jpablo",
       "capitan": false,
+      "clan": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
       "id": "47c1ff10-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
       "subCollection": {}
     },
     "483de5d0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "nick": "Leyzhar",
-      "regimiento": null,
-      "clan": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
       "id": "483de5d0-f5f9-11eb-8c94-7b0e7f612e65",
+      "clan": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null,
+      "nick": "Leyzhar",
       "capitan": true,
       "subCollection": {}
     },
     "487b3cf0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "nick": "TheBlack",
-      "id": "487b3cf0-f5f9-11eb-8c94-7b0e7f612e65",
       "capitan": false,
+      "id": "487b3cf0-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "TheBlack",
       "clan": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
       "regimiento": null,
       "subCollection": {}
     },
     "48e856a0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "NessO",
       "id": "48e856a0-f5f9-11eb-8c94-7b0e7f612e65",
-      "capitan": false,
       "clan": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
       "regimiento": null,
-      "nick": "NessO",
+      "capitan": false,
       "subCollection": {}
     },
     "4911feb0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "4911feb0-f5f9-11eb-8c94-7b0e7f612e65",
       "clan": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
       "nick": "Figo",
-      "id": "4911feb0-f5f9-11eb-8c94-7b0e7f612e65",
       "regimiento": null,
       "capitan": false,
       "subCollection": {}
     },
     "498532e0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "clan": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-      "capitan": false,
       "regimiento": null,
-      "id": "498532e0-f5f9-11eb-8c94-7b0e7f612e65",
+      "capitan": false,
+      "clan": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
       "nick": "Gualala",
+      "id": "498532e0-f5f9-11eb-8c94-7b0e7f612e65",
       "subCollection": {}
     },
     "4a1a6e00-f5f9-11eb-8c94-7b0e7f612e65": {
+      "capitan": false,
+      "regimiento": null,
       "clan": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
       "nick": "Herca",
       "id": "4a1a6e00-f5f9-11eb-8c94-7b0e7f612e65",
-      "capitan": false,
-      "regimiento": null,
       "subCollection": {}
     },
     "4a4ffcf0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "id": "4a4ffcf0-f5f9-11eb-8c94-7b0e7f612e65",
       "nick": "Kuro",
+      "id": "4a4ffcf0-f5f9-11eb-8c94-7b0e7f612e65",
       "regimiento": null,
       "clan": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
       "capitan": false,
       "subCollection": {}
     },
     "4acd1c30-f5f9-11eb-8c94-7b0e7f612e65": {
-      "nick": "Kenshin",
-      "regimiento": null,
       "id": "4acd1c30-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
       "capitan": false,
+      "nick": "Kenshin",
       "clan": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
       "subCollection": {}
     },
     "4afc1b70-f5f9-11eb-8c94-7b0e7f612e65": {
       "id": "4afc1b70-f5f9-11eb-8c94-7b0e7f612e65",
       "nick": "Dante",
-      "regimiento": null,
       "clan": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null,
       "capitan": false,
       "subCollection": {}
     },
     "4b5f7120-f5f9-11eb-8c94-7b0e7f612e65": {
-      "regimiento": null,
-      "capitan": false,
+      "nick": "RonConShela",
       "clan": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
       "id": "4b5f7120-f5f9-11eb-8c94-7b0e7f612e65",
-      "nick": "RonConShela",
+      "regimiento": null,
+      "capitan": false,
       "subCollection": {}
     },
     "4b983460-f5f9-11eb-8c94-7b0e7f612e65": {
       "nick": "Cocolisovandame",
-      "clan": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
-      "capitan": true,
-      "regimiento": null,
       "id": "4b983460-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "capitan": true,
+      "clan": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
       "subCollection": {}
     },
     "4c061160-f5f9-11eb-8c94-7b0e7f612e65": {
-      "id": "4c061160-f5f9-11eb-8c94-7b0e7f612e65",
       "regimiento": null,
-      "clan": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
-      "nick": "Ragnarok",
+      "id": "4c061160-f5f9-11eb-8c94-7b0e7f612e65",
       "capitan": false,
+      "nick": "Ragnarok",
+      "clan": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
       "subCollection": {}
     },
     "4c46eaf0-f5f9-11eb-8c94-7b0e7f612e65": {
       "nick": "Nicopro",
+      "regimiento": null,
       "clan": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
       "capitan": false,
       "id": "4c46eaf0-f5f9-11eb-8c94-7b0e7f612e65",
-      "regimiento": null,
       "subCollection": {}
     },
     "4c981830-f5f9-11eb-8c94-7b0e7f612e65": {
-      "id": "4c981830-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "nick": "Jacontr",
       "clan": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
       "capitan": false,
-      "nick": "Jacontr",
-      "regimiento": null,
+      "id": "4c981830-f5f9-11eb-8c94-7b0e7f612e65",
       "subCollection": {}
     },
     "4cd74410-f5f9-11eb-8c94-7b0e7f612e65": {
+      "regimiento": null,
       "id": "4cd74410-f5f9-11eb-8c94-7b0e7f612e65",
-      "capitan": false,
       "clan": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
       "nick": "Franciscoaguayo",
-      "regimiento": null,
+      "capitan": false,
       "subCollection": {}
     },
     "4d29d0e0-f5f9-11eb-8c94-7b0e7f612e65": {
       "id": "4d29d0e0-f5f9-11eb-8c94-7b0e7f612e65",
-      "capitan": false,
       "clan": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
       "nick": "Tezzeret",
+      "capitan": false,
       "regimiento": null,
+      "subCollection": {}
+    },
+    "7866b540-f647-11eb-a77f-f56ba64fd3a0": {
+      "capitan": false,
+      "id": "7866b540-f647-11eb-a77f-f56ba64fd3a0",
+      "regimiento": null,
+      "nick": "Lamoni",
+      "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "subCollection": {}
+    },
+    "7943a7c0-f647-11eb-a77f-f56ba64fd3a0": {
+      "regimiento": null,
+      "capitan": true,
+      "nick": "Rockman",
+      "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "id": "7943a7c0-f647-11eb-a77f-f56ba64fd3a0",
+      "subCollection": {}
+    },
+    "79708420-f647-11eb-a77f-f56ba64fd3a0": {
+      "id": "79708420-f647-11eb-a77f-f56ba64fd3a0",
+      "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Hexen",
+      "regimiento": null,
+      "capitan": false,
+      "subCollection": {}
+    },
+    "79ddebf0-f647-11eb-a77f-f56ba64fd3a0": {
+      "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Sebastianh1",
+      "id": "79ddebf0-f647-11eb-a77f-f56ba64fd3a0",
+      "regimiento": null,
+      "capitan": false,
+      "subCollection": {}
+    },
+    "7a0cc420-f647-11eb-a77f-f56ba64fd3a0": {
+      "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Joakosino",
+      "id": "7a0cc420-f647-11eb-a77f-f56ba64fd3a0",
+      "regimiento": null,
+      "capitan": false,
+      "subCollection": {}
+    },
+    "7a7a7a10-f647-11eb-a77f-f56ba64fd3a0": {
+      "capitan": false,
+      "nick": "Apex",
+      "id": "7a7a7a10-f647-11eb-a77f-f56ba64fd3a0",
+      "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "regimiento": null,
+      "subCollection": {}
+    },
+    "7aa95240-f647-11eb-a77f-f56ba64fd3a0": {
+      "id": "7aa95240-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false,
+      "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Basti",
+      "regimiento": null,
+      "subCollection": {}
+    },
+    "7b197930-f647-11eb-a77f-f56ba64fd3a0": {
+      "regimiento": null,
+      "capitan": false,
+      "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "id": "7b197930-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Monoh",
+      "subCollection": {}
+    },
+    "7b3bf550-f647-11eb-a77f-f56ba64fd3a0": {
+      "id": "7b3bf550-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false,
+      "regimiento": null,
+      "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Xispa",
+      "subCollection": {}
+    },
+    "7bb91490-f647-11eb-a77f-f56ba64fd3a0": {
+      "regimiento": null,
+      "id": "7bb91490-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "CaigPala",
+      "capitan": false,
+      "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "subCollection": {}
+    },
+    "7c44b2c0-f647-11eb-a77f-f56ba64fd3a0": {
+      "capitan": false,
+      "id": "7c44b2c0-f647-11eb-a77f-f56ba64fd3a0",
+      "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "regimiento": null,
+      "nick": "Winchi*",
+      "subCollection": {}
+    },
+    "7c699fe0-f647-11eb-a77f-f56ba64fd3a0": {
+      "capitan": false,
+      "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "regimiento": null,
+      "id": "7c699fe0-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Anger*",
       "subCollection": {}
     }
   }

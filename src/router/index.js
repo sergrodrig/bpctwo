@@ -11,6 +11,7 @@ const Equipos = () => import("../views/Equipos.vue");
 const Mapas = () => import("../views/Mapas.vue");
 const MapaDetail = () => import("../views/MapaDetail.vue");
 const Resultados = () => import("../views/Resultados.vue");
+const ConfigurarPartida = () => import("../views/ConfigurarPartida.vue");
 
 const routes = [
   {
@@ -29,6 +30,12 @@ const routes = [
     path: "/ingresar",
     name: "SignIn",
     component: SignIn,
+    meta: { toTop: true, smoothScroll: true },
+  },
+  {
+    path: "/configuracionpartida",
+    name: "ConfigurarPartida",
+    component: ConfigurarPartida,
     meta: { toTop: true, smoothScroll: true },
   },
   {

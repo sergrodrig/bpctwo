@@ -11,6 +11,7 @@ export default createStore({
     mapas: [],
     soldados: [],
     tablaResultados: [],
+    posiciones: [],
     temporadas: [],
     authId: null,
     unsubscribes: [],
