@@ -4,10 +4,11 @@
     <titulo-pagina texto="Resultados" />
 
     <!-- tabla de posiciones -->
-    <div class="max-w-3xl p-4 mx-auto lg:py-8">
+    <div class="max-w-3xl p-4 mx-auto space-y-8 lg:py-8">
       <!-- tabla -->
       <!-- <TablaPosicionesEnDuro /> -->
       <TablaPosiciones :pos="posiciones" />
+      <FechasLiga />
     </div>
   </div>
 </template>
@@ -18,6 +19,7 @@ import asyncDataStatus from "@/mixins/asyncDataStatus";
 import TituloPagina from "@/components/TituloPagina";
 // import TablaPosicionesEnDuro from "@/components/TablaPosicionesEnDuro";
 import TablaPosiciones from "@/components/TablaPosiciones";
+import FechasLiga from "@/components/FechasLiga";
 
 export default {
   name: "Resultados",
@@ -25,6 +27,7 @@ export default {
     TituloPagina,
     TablaPosiciones,
     // TablaPosicionesEnDuro,
+    FechasLiga,
   },
   mixins: [asyncDataStatus],
   emits: ["ready"],
