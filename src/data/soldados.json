@@ -1,394 +1,396 @@
-[
-  {
-    "id": "3f6d4680-f5f9-11eb-8c94-7b0e7f612e65",
-    "clan": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
-    "nick": "Chernobyl",
-    "regimiento": "96744e40-f59c-11eb-842e-4f44b59e4ef0",
-    "capitan": true
-  },
-  {
-    "id": "402ee8d0-f5f9-11eb-8c94-7b0e7f612e65",
-    "regimiento": "96744e40-f59c-11eb-842e-4f44b59e4ef0",
-    "clan": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
-    "nick": "Dr Elvis Tec",
-    "capitan": false
-  },
-  {
-    "id": "405d72e0-f5f9-11eb-8c94-7b0e7f612e65",
-    "nick": "MalditoRenacuajo",
-    "regimiento": "96744e40-f59c-11eb-842e-4f44b59e4ef0",
-    "capitan": false,
-    "clan": "95c6d030-f59c-11eb-842e-4f44b59e4ef0"
-  },
-  {
-    "id": "40cb28d0-f5f9-11eb-8c94-7b0e7f612e65",
-    "regimiento": "96744e40-f59c-11eb-842e-4f44b59e4ef0",
-    "nick": "EljefeReyes",
-    "clan": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
-    "capitan": false
-  },
-  {
-    "id": "40f06410-f5f9-11eb-8c94-7b0e7f612e65",
-    "regimiento": null,
-    "capitan": false,
-    "clan": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
-    "nick": "Sheshe"
-  },
-  {
-    "id": "415bf720-f5f9-11eb-8c94-7b0e7f612e65",
-    "capitan": true,
-    "regimiento": null,
-    "clan": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
-    "nick": "Batman"
-  },
-  {
-    "id": "4198b200-f5f9-11eb-8c94-7b0e7f612e65",
-    "capitan": false,
-    "nick": "Anfeta",
-    "regimiento": null,
-    "clan": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
-  },
-  {
-    "id": "41edd6e0-f5f9-11eb-8c94-7b0e7f612e65",
-    "regimiento": null,
-    "nick": "Mclovin",
-    "capitan": false,
-    "clan": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
-  },
-  {
-    "id": "4241c340-f5f9-11eb-8c94-7b0e7f612e65",
-    "nick": "Zeke",
-    "capitan": false,
-    "regimiento": null,
-    "clan": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
-  },
-  {
-    "id": "42824eb0-f5f9-11eb-8c94-7b0e7f612e65",
-    "clan": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
-    "regimiento": null,
-    "capitan": false,
-    "nick": "Reaper"
-  },
-  {
-    "id": "42d50290-f5f9-11eb-8c94-7b0e7f612e65",
-    "clan": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-    "regimiento": null,
-    "capitan": true,
-    "nick": "Huevito Principe"
-  },
-  {
-    "id": "43169f70-f5f9-11eb-8c94-7b0e7f612e65",
-    "capitan": false,
-    "regimiento": null,
-    "clan": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-    "nick": "Lexz"
-  },
-  {
-    "id": "4389fab0-f5f9-11eb-8c94-7b0e7f612e65",
-    "regimiento": null,
-    "capitan": false,
-    "clan": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-    "nick": "Hartaban"
-  },
-  {
-    "id": "43b8d2e0-f5f9-11eb-8c94-7b0e7f612e65",
-    "nick": "GodPeluka",
-    "clan": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-    "capitan": false,
-    "regimiento": null
-  },
-  {
-    "id": "441ee7b0-f5f9-11eb-8c94-7b0e7f612e65",
-    "clan": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-    "nick": "DonBasto",
-    "capitan": false,
-    "regimiento": null
-  },
-  {
-    "id": "4454ebd0-f5f9-11eb-8c94-7b0e7f612e65",
-    "nick": "Vato",
-    "regimiento": null,
-    "clan": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-    "capitan": false
-  },
-  {
-    "id": "44c27ab0-f5f9-11eb-8c94-7b0e7f612e65",
-    "regimiento": null,
-    "capitan": false,
-    "nick": "Laycan",
-    "clan": "979c2c70-f59c-11eb-842e-4f44b59e4ef0"
-  },
-  {
-    "id": "44f12bd0-f5f9-11eb-8c94-7b0e7f612e65",
-    "nick": "Sato",
-    "regimiento": null,
-    "capitan": false,
-    "clan": "979c2c70-f59c-11eb-842e-4f44b59e4ef0"
-  },
-  {
-    "id": "4554a890-f5f9-11eb-8c94-7b0e7f612e65",
-    "nick": "Dj Silverio",
-    "regimiento": null,
-    "capitan": false,
-    "clan": "979c2c70-f59c-11eb-842e-4f44b59e4ef0"
-  },
-  {
-    "id": "458d44c0-f5f9-11eb-8c94-7b0e7f612e65",
-    "regimiento": null,
-    "clan": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-    "nick": "Napo",
-    "capitan": false
-  },
-  {
-    "id": "45cbfb70-f5f9-11eb-8c94-7b0e7f612e65",
-    "clan": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-    "capitan": true,
-    "nick": "W4rlord",
-    "regimiento": null
-  },
-  {
-    "id": "460a3cf0-f5f9-11eb-8c94-7b0e7f612e65",
-    "nick": "Sheep1",
-    "clan": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-    "regimiento": null,
-    "capitan": false
-  },
-  {
-    "id": "46393c30-f5f9-11eb-8c94-7b0e7f612e65",
-    "clan": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-    "nick": "yayan",
-    "regimiento": null,
-    "capitan": false
-  },
-  {
-    "id": "46683b70-f5f9-11eb-8c94-7b0e7f612e65",
-    "nick": "ChinoTuerto",
-    "clan": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
-    "capitan": true,
-    "regimiento": null
-  },
-  {
-    "id": "4696ec90-f5f9-11eb-8c94-7b0e7f612e65",
-    "clan": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
-    "regimiento": null,
-    "nick": "Wuayo",
-    "capitan": false
-  },
-  {
-    "id": "46b7bb00-f5f9-11eb-8c94-7b0e7f612e65",
-    "nick": "Mleal",
-    "capitan": false,
-    "regimiento": null,
-    "clan": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
-  },
-  {
-    "id": "47939c10-f5f9-11eb-8c94-7b0e7f612e65",
-    "clan": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
-    "capitan": false,
-    "nick": "NaxoUC",
-    "regimiento": null
-  },
-  {
-    "id": "47c1ff10-f5f9-11eb-8c94-7b0e7f612e65",
-    "capitan": false,
-    "regimiento": null,
-    "nick": "Jpablo",
-    "clan": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
-  },
-  {
-    "id": "483de5d0-f5f9-11eb-8c94-7b0e7f612e65",
-    "nick": "Leyzhar",
-    "capitan": true,
-    "regimiento": null,
-    "clan": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
-  },
-  {
-    "id": "487b3cf0-f5f9-11eb-8c94-7b0e7f612e65",
-    "regimiento": null,
-    "capitan": false,
-    "clan": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-    "nick": "TheBlack"
-  },
-  {
-    "id": "48e856a0-f5f9-11eb-8c94-7b0e7f612e65",
-    "regimiento": null,
-    "capitan": false,
-    "clan": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-    "nick": "NessO"
-  },
-  {
-    "id": "4911feb0-f5f9-11eb-8c94-7b0e7f612e65",
-    "nick": "Figo",
-    "capitan": false,
-    "regimiento": null,
-    "clan": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
-  },
-  {
-    "id": "498532e0-f5f9-11eb-8c94-7b0e7f612e65",
-    "capitan": false,
-    "clan": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-    "regimiento": null,
-    "nick": "Gualala"
-  },
-  {
-    "id": "4a1a6e00-f5f9-11eb-8c94-7b0e7f612e65",
-    "regimiento": null,
-    "nick": "Herca",
-    "capitan": false,
-    "clan": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
-  },
-  {
-    "id": "4a4ffcf0-f5f9-11eb-8c94-7b0e7f612e65",
-    "nick": "Kuro",
-    "capitan": false,
-    "clan": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-    "regimiento": null
-  },
-  {
-    "id": "4acd1c30-f5f9-11eb-8c94-7b0e7f612e65",
-    "regimiento": null,
-    "capitan": false,
-    "nick": "Kenshin",
-    "clan": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
-  },
-  {
-    "id": "4afc1b70-f5f9-11eb-8c94-7b0e7f612e65",
-    "clan": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-    "regimiento": null,
-    "capitan": false,
-    "nick": "Dante"
-  },
-  {
-    "id": "4b5f7120-f5f9-11eb-8c94-7b0e7f612e65",
-    "nick": "RonConShela",
-    "regimiento": null,
-    "capitan": false,
-    "clan": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
-  },
-  {
-    "id": "4b983460-f5f9-11eb-8c94-7b0e7f612e65",
-    "capitan": true,
-    "regimiento": null,
-    "nick": "Cocolisovandame",
-    "clan": "981a8430-f59c-11eb-842e-4f44b59e4ef0"
-  },
-  {
-    "id": "4c061160-f5f9-11eb-8c94-7b0e7f612e65",
-    "capitan": false,
-    "regimiento": null,
-    "clan": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
-    "nick": "Ragnarok"
-  },
-  {
-    "id": "4c46eaf0-f5f9-11eb-8c94-7b0e7f612e65",
-    "regimiento": null,
-    "capitan": false,
-    "clan": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
-    "nick": "Nicopro"
-  },
-  {
-    "id": "4c981830-f5f9-11eb-8c94-7b0e7f612e65",
-    "regimiento": null,
-    "clan": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
-    "capitan": false,
-    "nick": "Jacontr"
-  },
-  {
-    "id": "4cd74410-f5f9-11eb-8c94-7b0e7f612e65",
-    "clan": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
-    "capitan": false,
-    "regimiento": null,
-    "nick": "Franciscoaguayo"
-  },
-  {
-    "id": "4d29d0e0-f5f9-11eb-8c94-7b0e7f612e65",
-    "nick": "Tezzeret",
-    "clan": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
-    "capitan": false,
-    "regimiento": null
-  },
-  {
-    "id": "7866b540-f647-11eb-a77f-f56ba64fd3a0",
-    "nick": "Lamoni",
-    "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-    "capitan": false,
-    "regimiento": null
-  },
-  {
-    "id": "7943a7c0-f647-11eb-a77f-f56ba64fd3a0",
-    "nick": "Rockman",
-    "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-    "capitan": true,
-    "regimiento": null
-  },
-  {
-    "id": "79708420-f647-11eb-a77f-f56ba64fd3a0",
-    "nick": "Hexen",
-    "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-    "capitan": false,
-    "regimiento": null
-  },
-  {
-    "id": "79ddebf0-f647-11eb-a77f-f56ba64fd3a0",
-    "nick": "Sebastianh1",
-    "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-    "capitan": false,
-    "regimiento": null
-  },
-  {
-    "id": "7a0cc420-f647-11eb-a77f-f56ba64fd3a0",
-    "nick": "Joakosino",
-    "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-    "capitan": false,
-    "regimiento": null
-  },
-  {
-    "id": "7a7a7a10-f647-11eb-a77f-f56ba64fd3a0",
-    "nick": "Apex",
-    "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-    "capitan": false,
-    "regimiento": null
-  },
-  {
-    "id": "7aa95240-f647-11eb-a77f-f56ba64fd3a0",
-    "nick": "Basti",
-    "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-    "capitan": false,
-    "regimiento": null
-  },
-  {
-    "id": "7b197930-f647-11eb-a77f-f56ba64fd3a0",
-    "nick": "Monoh",
-    "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-    "capitan": false,
-    "regimiento": null
-  },
-  {
-    "id": "7b3bf550-f647-11eb-a77f-f56ba64fd3a0",
-    "nick": "Xispa",
-    "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-    "capitan": false,
-    "regimiento": null
-  },
-  {
-    "id": "7bb91490-f647-11eb-a77f-f56ba64fd3a0",
-    "nick": "CaigPala",
-    "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-    "capitan": false,
-    "regimiento": null
-  },
-  {
-    "id": "7c44b2c0-f647-11eb-a77f-f56ba64fd3a0",
-    "nick": "Winchi*",
-    "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-    "capitan": false,
-    "regimiento": null
-  },
-  {
-    "id": "7c699fe0-f647-11eb-a77f-f56ba64fd3a0",
-    "nick": "Anger*",
-    "clan": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-    "capitan": false,
-    "regimiento": null
-  }
-]
+{
+  "soldados": [
+    {
+      "id": "3f6d4680-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Chernobyl",
+      "regimiento": "96744e40-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": true
+    },
+    {
+      "id": "402ee8d0-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": "96744e40-f59c-11eb-842e-4f44b59e4ef0",
+      "equipo": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Dr Elvis Tec",
+      "capitan": false
+    },
+    {
+      "id": "405d72e0-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "MalditoRenacuajo",
+      "regimiento": "96744e40-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": false,
+      "equipo": "95c6d030-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    {
+      "id": "40cb28d0-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": "96744e40-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "EljefeReyes",
+      "equipo": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": false
+    },
+    {
+      "id": "40f06410-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "capitan": false,
+      "equipo": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Sheshe"
+    },
+    {
+      "id": "415bf720-f5f9-11eb-8c94-7b0e7f612e65",
+      "capitan": true,
+      "regimiento": null,
+      "equipo": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Batman"
+    },
+    {
+      "id": "4198b200-f5f9-11eb-8c94-7b0e7f612e65",
+      "capitan": false,
+      "nick": "Anfeta",
+      "regimiento": null,
+      "equipo": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    {
+      "id": "41edd6e0-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "nick": "Mclovin",
+      "capitan": false,
+      "equipo": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    {
+      "id": "4241c340-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Zeke",
+      "capitan": false,
+      "regimiento": null,
+      "equipo": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    {
+      "id": "42824eb0-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null,
+      "capitan": false,
+      "nick": "Reaper"
+    },
+    {
+      "id": "42d50290-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null,
+      "capitan": true,
+      "nick": "Huevito Principe"
+    },
+    {
+      "id": "43169f70-f5f9-11eb-8c94-7b0e7f612e65",
+      "capitan": false,
+      "regimiento": null,
+      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Lexz"
+    },
+    {
+      "id": "4389fab0-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "capitan": false,
+      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Hartaban"
+    },
+    {
+      "id": "43b8d2e0-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "GodPeluka",
+      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": false,
+      "regimiento": null
+    },
+    {
+      "id": "441ee7b0-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "DonBasto",
+      "capitan": false,
+      "regimiento": null
+    },
+    {
+      "id": "4454ebd0-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Vato",
+      "regimiento": null,
+      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": false
+    },
+    {
+      "id": "44c27ab0-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "capitan": false,
+      "nick": "Laycan",
+      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    {
+      "id": "44f12bd0-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Sato",
+      "regimiento": null,
+      "capitan": false,
+      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    {
+      "id": "4554a890-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Dj Silverio",
+      "regimiento": null,
+      "capitan": false,
+      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    {
+      "id": "458d44c0-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Napo",
+      "capitan": false
+    },
+    {
+      "id": "45cbfb70-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": true,
+      "nick": "W4rlord",
+      "regimiento": null
+    },
+    {
+      "id": "460a3cf0-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Sheep1",
+      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null,
+      "capitan": false
+    },
+    {
+      "id": "46393c30-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "yayan",
+      "regimiento": null,
+      "capitan": false
+    },
+    {
+      "id": "46683b70-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "ChinoTuerto",
+      "equipo": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": true,
+      "regimiento": null
+    },
+    {
+      "id": "4696ec90-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null,
+      "nick": "Wuayo",
+      "capitan": false
+    },
+    {
+      "id": "46b7bb00-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Mleal",
+      "capitan": false,
+      "regimiento": null,
+      "equipo": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    {
+      "id": "47939c10-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": false,
+      "nick": "NaxoUC",
+      "regimiento": null
+    },
+    {
+      "id": "47c1ff10-f5f9-11eb-8c94-7b0e7f612e65",
+      "capitan": false,
+      "regimiento": null,
+      "nick": "Jpablo",
+      "equipo": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    {
+      "id": "483de5d0-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Leyzhar",
+      "capitan": true,
+      "regimiento": null,
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    {
+      "id": "487b3cf0-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "capitan": false,
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "TheBlack"
+    },
+    {
+      "id": "48e856a0-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "capitan": false,
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "NessO"
+    },
+    {
+      "id": "4911feb0-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Figo",
+      "capitan": false,
+      "regimiento": null,
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    {
+      "id": "498532e0-f5f9-11eb-8c94-7b0e7f612e65",
+      "capitan": false,
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null,
+      "nick": "Gualala"
+    },
+    {
+      "id": "4a1a6e00-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "nick": "Herca",
+      "capitan": false,
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    {
+      "id": "4a4ffcf0-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Kuro",
+      "capitan": false,
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null
+    },
+    {
+      "id": "4acd1c30-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "capitan": false,
+      "nick": "Kenshin",
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    {
+      "id": "4afc1b70-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null,
+      "capitan": false,
+      "nick": "Dante"
+    },
+    {
+      "id": "4b5f7120-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "RonConShela",
+      "regimiento": null,
+      "capitan": false,
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    {
+      "id": "4b983460-f5f9-11eb-8c94-7b0e7f612e65",
+      "capitan": true,
+      "regimiento": null,
+      "nick": "Cocolisovandame",
+      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    {
+      "id": "4c061160-f5f9-11eb-8c94-7b0e7f612e65",
+      "capitan": false,
+      "regimiento": null,
+      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Ragnarok"
+    },
+    {
+      "id": "4c46eaf0-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "capitan": false,
+      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Nicopro"
+    },
+    {
+      "id": "4c981830-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": false,
+      "nick": "Jacontr"
+    },
+    {
+      "id": "4cd74410-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": false,
+      "regimiento": null,
+      "nick": "Franciscoaguayo"
+    },
+    {
+      "id": "4d29d0e0-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Tezzeret",
+      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": false,
+      "regimiento": null
+    },
+    {
+      "id": "7866b540-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Lamoni",
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false,
+      "regimiento": null
+    },
+    {
+      "id": "7943a7c0-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Rockman",
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": true,
+      "regimiento": null
+    },
+    {
+      "id": "79708420-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Hexen",
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false,
+      "regimiento": null
+    },
+    {
+      "id": "79ddebf0-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Sebastianh1",
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false,
+      "regimiento": null
+    },
+    {
+      "id": "7a0cc420-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Joakosino",
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false,
+      "regimiento": null
+    },
+    {
+      "id": "7a7a7a10-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Apex",
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false,
+      "regimiento": null
+    },
+    {
+      "id": "7aa95240-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Basti",
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false,
+      "regimiento": null
+    },
+    {
+      "id": "7b197930-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Monoh",
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false,
+      "regimiento": null
+    },
+    {
+      "id": "7b3bf550-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Xispa",
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false,
+      "regimiento": null
+    },
+    {
+      "id": "7bb91490-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "CaigPala",
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false,
+      "regimiento": null
+    },
+    {
+      "id": "7c44b2c0-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Winchi*",
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false,
+      "regimiento": null
+    },
+    {
+      "id": "7c699fe0-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Anger*",
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false,
+      "regimiento": null
+    }
+  ]
+}

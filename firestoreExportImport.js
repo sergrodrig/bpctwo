@@ -1,35 +1,63 @@
 const { initializeApp, backups, restore } = require("firestore-export-import");
 const fs = require("fs");
-const serviceAccount = require("./serviceAccount.json");
+const serviceAccount = require("./serviceAccountDevelopment.json");
+const data = process.argv[4]
+  ? `${__dirname}/src/data/${process.argv[4]}`
+  : `${__dirname}/src/data.json`;
+const backupToRestore = `${__dirname}/backupFirestore.json`;
 
+//
 // RESTORE
+//
 if (process.argv[2] === "restore") {
+  //
   // ASSIGN AUTO ID
+  //
   // lee el archivo data.json, lo parsea con JSON.parse, y se lo pasa al metodo restoreJsonToFirestoreWithAutoId
   if (process.argv[3] === "autoid") {
     (async () => {
       console.log("RESTORE WITH AUTOID");
       const fileContents = fs.readFileSync(
-        `${__dirname}/src/data.json`,
+        // `${__dirname}/src/data.json`,
+        `${data}`,
         "utf8"
       );
       await restoreJsonToFirestoreWithAutoId(JSON.parse(fileContents));
     })();
   }
+
+  //
   // KEEP JSON ID
+  //
   // lee el archivo data.json, lo parsea con JSON.parse, y se lo pasa al metodo restoreJsonToFirestoreWithKeepId
   else if (process.argv[3] === "keepid") {
     (async () => {
       console.log("RESTORE KEEPING ID");
       const fileContents = fs.readFileSync(
-        `${__dirname}/src/data.json`,
+        // `${__dirname}/src/data/data.json`,
+        `${data}`,
         "utf8"
       );
       await restoreJsonToFirestoreWithKeepId(JSON.parse(fileContents));
     })();
   }
+
+  //
+  // FIREBASE BACKUP FORMAT
+  //
+  // restaura un backup realizado previamente desde firestore el cual tiene los id's de otra forma
+  else if (process.argv[3] === "firestore") {
+    (async () => {
+      console.log("RESTORE FIRESTORE FORMAT");
+      const fileContents = fs.readFileSync(`${backupToRestore}`, "utf8");
+      await restoreBackupJsonToFirestoreWithKeepId(JSON.parse(fileContents));
+    })();
+  }
 }
+
+//
 // BACKUP
+//
 // llama a la funcion backupAllToJson
 else if (process.argv[2] === "backup") {
   (async () => {
@@ -91,8 +119,28 @@ async function restoreJsonToFirestoreWithKeepId(collections) {
   }
 }
 
+// restore a firestore backup to firestore keeping id
+// recibe el JSON del archivo backupFirestore.json
+//
+async function restoreBackupJsonToFirestoreWithKeepId(collections) {
+  try {
+    await initializeApp(serviceAccount);
+    console.log("App initialized");
+    console.log("Restoring JSON");
+    // Object.keys(collections).forEach(async (collection) => {
+    //   console.log(`Restoring collection ${collection}`);
+    //   const collectionToRestore = {};
+    //   collectionToRestore[collection] = collections[collection];
+    //   await restore(collectionToRestore);
+    // });
+    await restore(collections);
+  } catch (error) {
+    console.log(error);
+  }
+}
+
 // backup all collections from firestore to a JSON file
-// guarda en el archivo firestoreExport.json un export de todas las collecciones y documentos de firestore del proyecto
+// guarda en el archivo backupFirestore.json un export de todas las collecciones y documentos de firestore del proyecto
 async function backupAllToJson() {
   try {
     await initializeApp(serviceAccount);
@@ -100,7 +148,7 @@ async function backupAllToJson() {
 
     console.log("Backing up all collections");
     await backups().then((collections) => {
-      fs.writeFileSync("./firestoreExport.json", JSON.stringify(collections));
+      fs.writeFileSync("./backupFirestore.json", JSON.stringify(collections));
     });
   } catch (error) {
     console.log(error);

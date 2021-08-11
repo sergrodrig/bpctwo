@@ -16,6 +16,8 @@
 </template>
 
 <script>
+import { mapActions } from "vuex";
+
 import TheNavbar from "@/components/TheNavbar";
 import TheFooter from "@/components/TheFooter.vue";
 import NProgress from "nprogress";
@@ -38,8 +40,15 @@ export default {
       this.showPage = false;
       NProgress.start();
     });
+    this.fetchAllItems("encuentros");
+    this.fetchAllItems("equipos");
+    this.fetchAllItems("mapas");
+    this.fetchAllItems("regimientos");
+    this.fetchAllItems("resultados");
+    this.fetchAllItems("soldados");
   },
   methods: {
+    ...mapActions(["fetchAllItems"]),
     onPageReady() {
       this.showPage = true;
       NProgress.done();

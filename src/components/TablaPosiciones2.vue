@@ -100,16 +100,11 @@ export default {
     SvgMinus,
   },
   props: {
-    pos: {
+    posiciones: {
       type: Array,
       required: true,
       default: () => [],
     },
-  },
-  data() {
-    return {
-      posiciones: this.pos,
-    };
   },
   methods: {
     ordenar(arr, prop1, prop2) {

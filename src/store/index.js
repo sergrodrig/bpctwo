@@ -5,15 +5,15 @@ import mutations from "@/store/mutations";
 
 export default createStore({
   state: {
-    regimientos: [], // bpc, etc...
-    clanes: [], // los del gulag, etc...
-    fechas: [],
+    //
+    encuentros: [],
+    equipos: [],
     mapas: [],
-    soldados: [],
-    tablaResultados: [],
-    posiciones: [],
-    temporadas: [],
+    regimientos: [],
     resultados: [],
+    soldados: [],
+
+    //
     authId: null,
     unsubscribes: [],
     authUserUnsubscribe: null,

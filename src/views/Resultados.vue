@@ -6,11 +6,8 @@
     <!-- tabla de posiciones -->
     <div class="max-w-3xl p-4 mx-auto space-y-8 lg:py-8">
       <!-- tabla -->
-      <!-- <TablaPosicionesEnDuro /> -->
-      <!-- <TablaPosiciones :pos="posiciones" :dataEnDuro="dataEnDuro" /> -->
-      <TablaPosiciones2 :pos="posiciones" />
-      <!-- <FechasLiga2 /> -->
-      <FechasLiga2 :encuentros="encuentros" :resultados="resultados" />
+      <TablaPosicionesEnDuro />
+      <FechasLiga2 />
     </div>
   </div>
 </template>
@@ -33,10 +30,7 @@ export default {
   components: {
     TituloPagina,
     TablaPosiciones,
-    TablaPosiciones2,
-    TablaPosicionesEnDuro,
     FechasLiga,
-    FechasLiga2,
   },
   mixins: [asyncDataStatus],
   data() {

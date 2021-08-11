@@ -1,0 +1,2050 @@
+{
+  "encuentros": {
+    "97bf4860-facc-11eb-827e-cffb00f230b3": {
+      "fecha": 1,
+      "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Wutang Lag",
+      "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 1,
+      "visitaNombre": "Disaster Groove"
+    },
+    "9842d040-facc-11eb-827e-cffb00f230b3": {
+      "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 2,
+      "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "The ChupaHoyos",
+      "visitaNombre": "Mancoster United Reloaded",
+      "fecha": 1
+    },
+    "984df3d0-facc-11eb-827e-cffb00f230b3": {
+      "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 1,
+      "localNombre": "Zicariato de la Perra",
+      "numero": 3,
+      "visitaNombre": "Los del Gulag"
+    },
+    "988a87a0-facc-11eb-827e-cffb00f230b3": {
+      "localNombre": "Frozthound",
+      "visitaNombre": "Black Berets",
+      "fecha": 1,
+      "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "numero": 4
+    },
+    "98953600-facc-11eb-827e-cffb00f230b3": {
+      "fecha": 2,
+      "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 5,
+      "visitaNombre": "Frozthound",
+      "localNombre": "Los del Gulag"
+    },
+    "98a98150-facc-11eb-827e-cffb00f230b3": {
+      "numero": 6,
+      "localNombre": "Black Berets",
+      "fecha": 2,
+      "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "visitaNombre": "Wutang Lag",
+      "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "98b47dd0-facc-11eb-827e-cffb00f230b3": {
+      "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 7,
+      "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "Zicariato de la Perra",
+      "fecha": 2,
+      "localNombre": "Mancoster United Reloaded"
+    },
+    "98bede10-facc-11eb-827e-cffb00f230b3": {
+      "localNombre": "Disaster Groove",
+      "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 8,
+      "visitaNombre": "The ChupaHoyos",
+      "fecha": 2
+    },
+    "98cb1310-facc-11eb-827e-cffb00f230b3": {
+      "numero": 9,
+      "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 3,
+      "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Frozthound",
+      "visitaNombre": "Mancoster United Reloaded"
+    },
+    "98d65db0-facc-11eb-827e-cffb00f230b3": {
+      "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Zicariato de la Perra",
+      "visitaNombre": "Disaster Groove",
+      "numero": 10,
+      "fecha": 3
+    },
+    "98e2e0d0-facc-11eb-827e-cffb00f230b3": {
+      "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 3,
+      "visitaNombre": "The ChupaHoyos",
+      "numero": 11,
+      "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Wutang Lag"
+    },
+    "98ed4110-facc-11eb-827e-cffb00f230b3": {
+      "fecha": 3,
+      "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "numero": 12,
+      "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "Los del Gulag",
+      "localNombre": "Black Berets"
+    },
+    "98f83d90-facc-11eb-827e-cffb00f230b3": {
+      "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 4,
+      "visitaNombre": "Zicariato de la Perra",
+      "numero": 13,
+      "localNombre": "The ChupaHoyos",
+      "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "9902ebf0-facc-11eb-827e-cffb00f230b3": {
+      "visitaNombre": "Black Berets",
+      "fecha": 4,
+      "numero": 14,
+      "localNombre": "Mancoster United Reloaded",
+      "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0"
+    },
+    "990d7340-facc-11eb-827e-cffb00f230b3": {
+      "visitaNombre": "Frozthound",
+      "localNombre": "Disaster Groove",
+      "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 4,
+      "numero": 15,
+      "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "9917d380-facc-11eb-827e-cffb00f230b3": {
+      "fecha": 4,
+      "localNombre": "Los del Gulag",
+      "numero": 16,
+      "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "Wutang Lag",
+      "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "992233c0-facc-11eb-827e-cffb00f230b3": {
+      "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 17,
+      "fecha": 5,
+      "localNombre": "Los del Gulag",
+      "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "Mancoster United Reloaded"
+    },
+    "992da570-facc-11eb-827e-cffb00f230b3": {
+      "fecha": 5,
+      "localNombre": "Frozthound",
+      "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 18,
+      "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "The ChupaHoyos"
+    },
+    "993bd640-facc-11eb-827e-cffb00f230b3": {
+      "visitaNombre": "Disaster Groove",
+      "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 19,
+      "fecha": 5,
+      "localNombre": "Black Berets"
+    },
+    "994684a0-facc-11eb-827e-cffb00f230b3": {
+      "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 20,
+      "fecha": 5,
+      "visitaNombre": "Zicariato de la Perra",
+      "localNombre": "Wutang Lag",
+      "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "99513300-facc-11eb-827e-cffb00f230b3": {
+      "numero": 21,
+      "localNombre": "The ChupaHoyos",
+      "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "fecha": 6,
+      "visitaNombre": "Black Berets"
+    },
+    "995f15b0-facc-11eb-827e-cffb00f230b3": {
+      "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "Los del Gulag",
+      "fecha": 6,
+      "numero": 22,
+      "localNombre": "Disaster Groove"
+    },
+    "996a1230-facc-11eb-827e-cffb00f230b3": {
+      "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Mancoster United Reloaded",
+      "numero": 23,
+      "fecha": 6,
+      "visitaNombre": "Wutang Lag",
+      "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "99744b60-facc-11eb-827e-cffb00f230b3": {
+      "fecha": 6,
+      "localNombre": "Zicariato de la Perra",
+      "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "Frozthound",
+      "numero": 24,
+      "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "997e8490-facc-11eb-827e-cffb00f230b3": {
+      "fecha": 7,
+      "visitaNombre": "Zicariato de la Perra",
+      "numero": 25,
+      "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Black Berets"
+    },
+    "99890be0-facc-11eb-827e-cffb00f230b3": {
+      "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Wutang Lag",
+      "fecha": 7,
+      "numero": 26,
+      "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "Frozthound"
+    },
+    "9994cbb0-facc-11eb-827e-cffb00f230b3": {
+      "visitaNombre": "The ChupaHoyos",
+      "numero": 27,
+      "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Los del Gulag",
+      "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 7
+    },
+    "999fa120-facc-11eb-827e-cffb00f230b3": {
+      "fecha": 7,
+      "numero": 28,
+      "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Mancoster United Reloaded",
+      "visitaNombre": "Disaster Groove",
+      "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "99aa4f80-facc-11eb-827e-cffb00f230b3": {
+      "numero": 29,
+      "localNombre": "Disaster Groove",
+      "visitaNombre": "Wutang Lag",
+      "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 8,
+      "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "99b6f9b0-facc-11eb-827e-cffb00f230b3": {
+      "localNombre": "Mancoster United Reloaded",
+      "visitaNombre": "The ChupaHoyos",
+      "fecha": 8,
+      "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 30,
+      "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "99c132e0-facc-11eb-827e-cffb00f230b3": {
+      "numero": 31,
+      "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "Zicariato de la Perra",
+      "localNombre": "Los del Gulag",
+      "fecha": 8
+    },
+    "99cc7d80-facc-11eb-827e-cffb00f230b3": {
+      "localNombre": "Black Berets",
+      "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 8,
+      "visitaNombre": "Frozthound",
+      "numero": 32,
+      "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0"
+    },
+    "99d900a0-facc-11eb-827e-cffb00f230b3": {
+      "localNombre": "Frozthound",
+      "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 33,
+      "visitaNombre": "Los del Gulag",
+      "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 9
+    },
+    "99e360e0-facc-11eb-827e-cffb00f230b3": {
+      "numero": 34,
+      "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 9,
+      "localNombre": "Wutang Lag",
+      "visitaNombre": "Black Berets"
+    },
+    "99ed9a10-facc-11eb-827e-cffb00f230b3": {
+      "fecha": 9,
+      "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 35,
+      "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Zicariato de la Perra",
+      "visitaNombre": "Mancoster United Reloaded"
+    },
+    "99f9cf10-facc-11eb-827e-cffb00f230b3": {
+      "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "The ChupaHoyos",
+      "fecha": 9,
+      "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "Disaster Groove",
+      "numero": 36
+    },
+    "9a040840-facc-11eb-827e-cffb00f230b3": {
+      "numero": 37,
+      "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "Frozthound",
+      "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Mancoster United Reloaded",
+      "fecha": 10
+    },
+    "9a0eb6a0-facc-11eb-827e-cffb00f230b3": {
+      "localNombre": "Disaster Groove",
+      "fecha": 10,
+      "visitaNombre": "Zicariato de la Perra",
+      "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 38,
+      "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "9a1a4f60-facc-11eb-827e-cffb00f230b3": {
+      "visitaNombre": "Wutang Lag",
+      "fecha": 10,
+      "numero": 39,
+      "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "The ChupaHoyos"
+    },
+    "9a2572f0-facc-11eb-827e-cffb00f230b3": {
+      "numero": 40,
+      "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "Black Berets",
+      "fecha": 10,
+      "localNombre": "Los del Gulag"
+    },
+    "9a2f8510-facc-11eb-827e-cffb00f230b3": {
+      "localNombre": "Zicariato de la Perra",
+      "fecha": 11,
+      "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "The ChupaHoyos",
+      "numero": 41,
+      "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "9a39e550-facc-11eb-827e-cffb00f230b3": {
+      "localNombre": "Black Berets",
+      "fecha": 11,
+      "visitaNombre": "Mancoster United Reloaded",
+      "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 42
+    },
+    "9a44e1d0-facc-11eb-827e-cffb00f230b3": {
+      "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 43,
+      "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Frozthound",
+      "visitaNombre": "Disaster Groove",
+      "fecha": 11
+    },
+    "9a4f6920-facc-11eb-827e-cffb00f230b3": {
+      "localNombre": "Wutang Lag",
+      "visitaNombre": "Los del Gulag",
+      "fecha": 11,
+      "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 44,
+      "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "9a5de810-facc-11eb-827e-cffb00f230b3": {
+      "localNombre": "Mancoster United Reloaded",
+      "visitaNombre": "Los del Gulag",
+      "numero": 45,
+      "fecha": 12,
+      "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "9a684850-facc-11eb-827e-cffb00f230b3": {
+      "localNombre": "The ChupaHoyos",
+      "visitaNombre": "Frozthound",
+      "numero": 46,
+      "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 12
+    },
+    "9a725a70-facc-11eb-827e-cffb00f230b3": {
+      "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Disaster Groove",
+      "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "numero": 47,
+      "visitaNombre": "Black Berets",
+      "fecha": 12
+    },
+    "9a7c93a0-facc-11eb-827e-cffb00f230b3": {
+      "fecha": 12,
+      "localNombre": "Zicariato de la Perra",
+      "visitaNombre": "Wutang Lag",
+      "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 48
+    },
+    "9a8657a0-facc-11eb-827e-cffb00f230b3": {
+      "localNombre": "Black Berets",
+      "fecha": 13,
+      "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 49,
+      "visitaNombre": "The ChupaHoyos",
+      "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0"
+    },
+    "9a91a240-facc-11eb-827e-cffb00f230b3": {
+      "fecha": 13,
+      "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "Disaster Groove",
+      "numero": 50,
+      "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Los del Gulag"
+    },
+    "9a9bdb70-facc-11eb-827e-cffb00f230b3": {
+      "fecha": 13,
+      "numero": 51,
+      "localNombre": "Wutang Lag",
+      "visitaNombre": "Mancoster United Reloaded",
+      "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "9aa689d0-facc-11eb-827e-cffb00f230b3": {
+      "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 13,
+      "visitaNombre": "Zicariato de la Perra",
+      "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 52,
+      "localNombre": "Frozthound"
+    },
+    "9ab1d470-facc-11eb-827e-cffb00f230b3": {
+      "numero": 53,
+      "fecha": 14,
+      "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "localNombre": "Zicariato de la Perra",
+      "visitaNombre": "Black Berets",
+      "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "9abc34b0-facc-11eb-827e-cffb00f230b3": {
+      "numero": 54,
+      "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 14,
+      "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Frozthound",
+      "visitaNombre": "Wutang Lag"
+    },
+    "9ac75840-facc-11eb-827e-cffb00f230b3": {
+      "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "The ChupaHoyos",
+      "numero": 55,
+      "fecha": 14,
+      "visitaNombre": "Los del Gulag",
+      "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "9ad16a60-facc-11eb-827e-cffb00f230b3": {
+      "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Disaster Groove",
+      "numero": 56,
+      "visitaNombre": "Mancoster United Reloaded",
+      "fecha": 14,
+      "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0"
+    }
+  },
+  "equipos": {
+    "787d7190-f647-11eb-a77f-f56ba64fd3a0": {
+      "id": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "initials": "BCB",
+      "escudo": "",
+      "name": "Black Berets",
+      "captain": "7943a7c0-f647-11eb-a77f-f56ba64fd3a0"
+    },
+    "95c6d030-f59c-11eb-842e-4f44b59e4ef0": {
+      "captain": "3f6d4680-f5f9-11eb-8c94-7b0e7f612e65",
+      "id": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "escudo": "",
+      "name": "Los del Gulag",
+      "initials": "LDG"
+    },
+    "9674c370-f59c-11eb-842e-4f44b59e4ef0": {
+      "captain": "415bf720-f5f9-11eb-8c94-7b0e7f612e65",
+      "initials": "MCR",
+      "id": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "escudo": "",
+      "name": "Mancoster Reloaded"
+    },
+    "97067c20-f59c-11eb-842e-4f44b59e4ef0": {
+      "captain": "42d50290-f5f9-11eb-8c94-7b0e7f612e65",
+      "name": "Disaster Groove",
+      "initials": "DSG",
+      "escudo": "",
+      "id": "97067c20-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "979c2c70-f59c-11eb-842e-4f44b59e4ef0": {
+      "id": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "name": "The Chupa Hoyos",
+      "captain": "45cbfb70-f5f9-11eb-8c94-7b0e7f612e65",
+      "escudo": "",
+      "initials": "TCH"
+    },
+    "97cc8b40-f59c-11eb-842e-4f44b59e4ef0": {
+      "name": "Zicariato de la Perra",
+      "initials": "ZPR",
+      "id": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "escudo": "",
+      "captain": "46683b70-f5f9-11eb-8c94-7b0e7f612e65"
+    },
+    "97f2ff00-f59c-11eb-842e-4f44b59e4ef0": {
+      "captain": "483de5d0-f5f9-11eb-8c94-7b0e7f612e65",
+      "name": "Frozthound",
+      "id": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "escudo": "",
+      "initials": "FZH"
+    },
+    "981a8430-f59c-11eb-842e-4f44b59e4ef0": {
+      "escudo": "",
+      "id": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "name": "Wu Tang Lag",
+      "captain": "4b983460-f5f9-11eb-8c94-7b0e7f612e65",
+      "initials": "WTL"
+    }
+  },
+  "mapas": {
+    "a6c7b1b0-f600-11eb-ac44-bbfc5ec4ed67": {
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Aisle-9.jpg",
+      "id": "a6c7b1b0-f600-11eb-ac44-bbfc5ec4ed67",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66923c6f22622be7c81ea.png",
+      "size": "",
+      "location": "Small (2v2)",
+      "description": "",
+      "mapImageLayoutUrl": "",
+      "name": "Aisle 9",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66923c6f22622be7c81ea.png"
+    },
+    "a77cf7f0-f600-11eb-ac44-bbfc5ec4ed67": {
+      "location": "2 km outside of El Nadaar, Urzikstan",
+      "name": "Aniyah Incursion",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d041b8d9e23761fcba3.png",
+      "size": "Medium",
+      "id": "a77cf7f0-f600-11eb-ac44-bbfc5ec4ed67",
+      "mapImageLayoutUrl": "",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Aniyah-Incursion.jpg",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d041b8d9e23761fcba3.png",
+      "description": ""
+    },
+    "a81a2250-f600-11eb-ac44-bbfc5ec4ed67": {
+      "description": "",
+      "mapImageLayoutUrl": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d121b8d9e23761fcba5.png",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d121b8d9e23761fcba5.png",
+      "location": "2 km outside of El Nadaar, Urzikstan",
+      "id": "a81a2250-f600-11eb-ac44-bbfc5ec4ed67",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Aniyah-Palace.jpg",
+      "name": "Aniyah Palace",
+      "size": ""
+    },
+    "a8b725a0-f600-11eb-ac44-bbfc5ec4ed67": {
+      "description": "",
+      "mapImageLayoutUrl": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d271b8d9e23761fcba7.png",
+      "id": "a8b725a0-f600-11eb-ac44-bbfc5ec4ed67",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Arklov-Peak.jpg",
+      "name": "Arklov Peak",
+      "size": "Medium",
+      "location": "9 km outside of Venskaya, Kastovia",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d271b8d9e23761fcba7.png"
+    },
+    "a941d970-f600-11eb-ac44-bbfc5ec4ed67": {
+      "size": "Medium",
+      "description": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d3f1b8d9e23761fcba9.png",
+      "id": "a941d970-f600-11eb-ac44-bbfc5ec4ed67",
+      "location": "Verdansk, Kastovia",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Atlas-Superstore.jpg",
+      "name": "Atlas Superstore",
+      "mapImageLayoutUrl": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d3f1b8d9e23761fcba9.png"
+    },
+    "a97e9450-f600-11eb-ac44-bbfc5ec4ed67": {
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d561b8d9e23761fcbab.png",
+      "name": "Atrium",
+      "mapImageLayoutUrl": "",
+      "description": "",
+      "id": "a97e9450-f600-11eb-ac44-bbfc5ec4ed67",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d561b8d9e23761fcbab.png",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Atrium.jpg",
+      "location": "Small (2v2)",
+      "size": ""
+    },
+    "a9dcb9e0-f600-11eb-ac44-bbfc5ec4ed67": {
+      "name": "Azhir Cave",
+      "location": "4 km outside of Tobraka, Urzikstan",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Azhir-Cave.jpg",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d7d1b8d9e23761fcbaf.png",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d7d1b8d9e23761fcbaf.png",
+      "description": "",
+      "id": "a9dcb9e0-f600-11eb-ac44-bbfc5ec4ed67",
+      "mapImageLayoutUrl": "",
+      "size": "Medium"
+    },
+    "aa6cebf0-f600-11eb-ac44-bbfc5ec4ed67": {
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d6f1b8d9e23761fcbad.png",
+      "description": "",
+      "mapImageLayoutUrl": "",
+      "id": "aa6cebf0-f600-11eb-ac44-bbfc5ec4ed67",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Azhir-Cave-Night.jpg",
+      "size": "",
+      "location": "Realism",
+      "name": "Azhir Cave (Night)",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d6f1b8d9e23761fcbad.png"
+    },
+    "aaa0f440-f600-11eb-ac44-bbfc5ec4ed67": {
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66d931b8d9e23761fcbb2.png",
+      "location": "Urzikstan",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66d931b8d9e23761fcbb2.png",
+      "id": "aaa0f440-f600-11eb-ac44-bbfc5ec4ed67",
+      "name": "Bazaar",
+      "mapImageLayoutUrl": "",
+      "size": "",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Bazaar.jpg",
+      "description": ""
+    },
+    "aafb4940-f600-11eb-ac44-bbfc5ec4ed67": {
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66da31b8d9e23761fcbb3.png",
+      "size": "Medium",
+      "name": "Broadcast",
+      "location": "Medium",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Broadcast.jpg",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66da31b8d9e23761fcbb3.png",
+      "description": "From the atrium and massive newsroom to the station’s balcony and nearby office buildings, this map could cater to serious CQB play through numerous tight corridors. Meanwhile, those using assault rifles, LMGs, marksman rifles, or sniper rifles can counterplay SMGs and shotguns with the use of various sightlines and the limited, yet still viable, verticality on offer.",
+      "id": "aafb4940-f600-11eb-ac44-bbfc5ec4ed67",
+      "mapImageLayoutUrl": "/images/cod-modern-warfare/maps/COD-ModernWarfare-Broadcast-Mini-Map-Layout.jpg"
+    },
+    "ab1d0210-f600-11eb-ac44-bbfc5ec4ed67": {
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66db11b8d9e23761fcbb5.png",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66db11b8d9e23761fcbb5.png",
+      "id": "ab1d0210-f600-11eb-ac44-bbfc5ec4ed67",
+      "description": "",
+      "name": "Cargo",
+      "size": "",
+      "mapImageLayoutUrl": "",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Cargo.jpg",
+      "location": "Small (2v2)"
+    },
+    "ab3f0900-f600-11eb-ac44-bbfc5ec4ed67": {
+      "name": "Chesire Park",
+      "mapImageLayoutUrl": "/images/cod-modern-warfare/maps/COD-ModernWarfare-Cheshire-Park-Mini-Map-Layout.jpg",
+      "description": "Take to the townhomes for long sightlines, the stores to capture objectives through intense CQB battles, or take to the side streets to take some shortcuts. If you dare, try to challenge those who may set up shop in second-story windows, phone booths, front yards, or scaffolding.",
+      "size": "Medium",
+      "id": "ab3f0900-f600-11eb-ac44-bbfc5ec4ed67",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66dc71b8d9e23761fcbb7.png",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66dc71b8d9e23761fcbb7.png",
+      "location": "London, England",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Cheshire-Park.jpg"
+    },
+    "ab727510-f600-11eb-ac44-bbfc5ec4ed67": {
+      "mapImageLayoutUrl": "",
+      "name": "Crash",
+      "description": "",
+      "location": "16km outside of Faridah, Urzikstan",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66dd81b8d9e23761fcbba.png",
+      "size": "Medium",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66dd81b8d9e23761fcbba.png",
+      "id": "ab727510-f600-11eb-ac44-bbfc5ec4ed67",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Crash.jpg"
+    },
+    "ab92f560-f600-11eb-ac44-bbfc5ec4ed67": {
+      "description": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66deb1b8d9e23761fcbbb.png",
+      "mapImageLayoutUrl": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66deb1b8d9e23761fcbbb.png",
+      "id": "ab92f560-f600-11eb-ac44-bbfc5ec4ed67",
+      "location": "Small (2v2)",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Docks.jpg",
+      "size": "",
+      "name": "Docks"
+    },
+    "abc6d6a0-f600-11eb-ac44-bbfc5ec4ed67": {
+      "mapImageLayoutUrl": "",
+      "id": "abc6d6a0-f600-11eb-ac44-bbfc5ec4ed67",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66dff1b8d9e23761fcbbd.png",
+      "location": "7 km outside of Haditha, Urzikstan",
+      "name": "Euphrates Bridge",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Euphrates-Bridge.jpg",
+      "size": "Medium",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66dff1b8d9e23761fcbbd.png",
+      "description": ""
+    },
+    "abe9c7f0-f600-11eb-ac44-bbfc5ec4ed67": {
+      "id": "abe9c7f0-f600-11eb-ac44-bbfc5ec4ed67",
+      "size": "Medium",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e101b8d9e23761fcbbf.png",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e101b8d9e23761fcbbf.png",
+      "location": "5 km outside of Venskaya, Kastovia",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Grazna-Raid.jpg",
+      "name": "Grazna Raid",
+      "description": "",
+      "mapImageLayoutUrl": ""
+    },
+    "ac0984f0-f600-11eb-ac44-bbfc5ec4ed67": {
+      "location": "",
+      "size": "",
+      "name": "Gulag Showers",
+      "id": "ac0984f0-f600-11eb-ac44-bbfc5ec4ed67",
+      "description": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e221b8d9e23761fcbc1.png",
+      "mapImageLayoutUrl": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e221b8d9e23761fcbc1.png",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Gulag-Showers.jpg"
+    },
+    "ac2c4f30-f600-11eb-ac44-bbfc5ec4ed67": {
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e481b8d9e23761fcbc5.png",
+      "id": "ac2c4f30-f600-11eb-ac44-bbfc5ec4ed67",
+      "mapImageUrl": "",
+      "name": "Gun Runner",
+      "mapImageLayoutUrl": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e481b8d9e23761fcbc5.png",
+      "description": "",
+      "location": "9 km outside of Tavorsk, Kastovia",
+      "size": "Medium"
+    },
+    "ac57f310-f600-11eb-ac44-bbfc5ec4ed67": {
+      "location": "Realism",
+      "mapImageLayoutUrl": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e3a1b8d9e23761fcbc3.png",
+      "id": "ac57f310-f600-11eb-ac44-bbfc5ec4ed67",
+      "description": "",
+      "name": "Gun Runner (Night)",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e3a1b8d9e23761fcbc3.png",
+      "size": "",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Gun-Runner-Night.jpg"
+    },
+    "ac790fa0-f600-11eb-ac44-bbfc5ec4ed67": {
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e6f1b8d9e23761fcbc9.png",
+      "id": "ac790fa0-f600-11eb-ac44-bbfc5ec4ed67",
+      "name": "Hackney Yard",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e6f1b8d9e23761fcbc9.png",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Hackney-Yard.jpg",
+      "location": "London, United Kingdom",
+      "description": "",
+      "mapImageLayoutUrl": "",
+      "size": "Medium"
+    },
+    "ac99de10-f600-11eb-ac44-bbfc5ec4ed67": {
+      "size": "",
+      "name": "Hackney Yard (Night)",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Hackney-Yard-Night.jpg",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e621b8d9e23761fcbc7.png",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e621b8d9e23761fcbc7.png",
+      "id": "ac99de10-f600-11eb-ac44-bbfc5ec4ed67",
+      "location": "Realism",
+      "description": "",
+      "mapImageLayoutUrl": ""
+    },
+    "acbc5a30-f600-11eb-ac44-bbfc5ec4ed67": {
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e7f1b8d9e23761fcbcb.png",
+      "id": "acbc5a30-f600-11eb-ac44-bbfc5ec4ed67",
+      "mapImageLayoutUrl": "",
+      "description": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e7f1b8d9e23761fcbcb.png",
+      "size": "Medium",
+      "location": "Medium",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Hardhat.jpg",
+      "name": "Hardhat"
+    },
+    "ace9abc0-f600-11eb-ac44-bbfc5ec4ed67": {
+      "mapImageLayoutUrl": "",
+      "description": "",
+      "name": "Hill",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Hill.jpg",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66e911b8d9e23761fcbcd.png",
+      "id": "ace9abc0-f600-11eb-ac44-bbfc5ec4ed67",
+      "size": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66e911b8d9e23761fcbcd.png",
+      "location": ""
+    },
+    "ad0b6490-f600-11eb-ac44-bbfc5ec4ed67": {
+      "id": "ad0b6490-f600-11eb-ac44-bbfc5ec4ed67",
+      "location": "14 km outside of Venskaya, Kastovia",
+      "mapImageLayoutUrl": "/images/cod-modern-warfare/maps/COD-ModernWarfare-Hovec-Sawmill-Mini-Map-Layout.jpg",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66eba1b8d9e23761fcbd1.png",
+      "name": "Hovec Sawmill",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Hovec-Sawmill.jpg",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66eba1b8d9e23761fcbd1.png",
+      "description": "Although this humble community is a beautiful one, don’t let it distract you from the battle. Use rooftops of buildings to gain the high ground against enemies sprinting from building to building below and use the splashes of footsteps on the rolling river to track down flanking players.",
+      "size": "Medium"
+    },
+    "ad327490-f600-11eb-ac44-bbfc5ec4ed67": {
+      "name": "Khandor Hideout",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66eca1b8d9e23761fcbd3.png",
+      "id": "ad327490-f600-11eb-ac44-bbfc5ec4ed67",
+      "description": "",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Khandor-Hideout.jpg",
+      "size": "Medium",
+      "mapImageLayoutUrl": "",
+      "location": "Khandor, Urzikistan",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66eca1b8d9e23761fcbd3.png"
+    },
+    "ad536a10-f600-11eb-ac44-bbfc5ec4ed67": {
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66eda1b8d9e23761fcbd5.png",
+      "mapImageLayoutUrl": "",
+      "id": "ad536a10-f600-11eb-ac44-bbfc5ec4ed67",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66eda1b8d9e23761fcbd5.png",
+      "description": "",
+      "location": "",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/King.jpg",
+      "name": "King",
+      "size": ""
+    },
+    "ad859da0-f600-11eb-ac44-bbfc5ec4ed67": {
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Livestock.jpg",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66eed1b8d9e23761fcbd7.png",
+      "description": "",
+      "mapImageLayoutUrl": "",
+      "size": "",
+      "location": "Small (2v2)",
+      "id": "ad859da0-f600-11eb-ac44-bbfc5ec4ed67",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66eed1b8d9e23761fcbd7.png",
+      "name": "Livestock"
+    },
+    "adb31640-f600-11eb-ac44-bbfc5ec4ed67": {
+      "location": "Medium",
+      "id": "adb31640-f600-11eb-ac44-bbfc5ec4ed67",
+      "size": "Medium",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66eff1b8d9e23761fcbd9.png",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66eff1b8d9e23761fcbd9.png",
+      "description": "For either skirmish size, expect a mix of indoor and outdoor combat zones with two large buildings – the eponymous tank factory and a warehouse – being the map’s central point of conflict due to sheer surface area and accessible rooftops. Other areas to explore include an abandoned workshop, skybridge, scrapyard, shipping area, and residential zone, with some parts of the map sectioned off if it is being used for 6v6 combat.",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Mialstor-Tank-Factory.jpg",
+      "name": "Mialstore Tank Factory",
+      "mapImageLayoutUrl": ""
+    },
+    "ade37510-f600-11eb-ac44-bbfc5ec4ed67": {
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66f1b1b8d9e23761fcbdc.png",
+      "id": "ade37510-f600-11eb-ac44-bbfc5ec4ed67",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66f1b1b8d9e23761fcbdc.png",
+      "name": "Petrov Oil Rig",
+      "location": "Medium",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Petrov-Oil-Rig.jpg",
+      "description": "",
+      "mapImageLayoutUrl": "",
+      "size": "Medium"
+    },
+    "ae11ff20-f600-11eb-ac44-bbfc5ec4ed67": {
+      "location": "Piccadilly Circus, London, United Kingdom",
+      "name": "Picadilly",
+      "size": "Medium",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66f2a1b8d9e23761fcbde.png",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66f2a1b8d9e23761fcbde.png",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Piccadilly.jpg",
+      "id": "ae11ff20-f600-11eb-ac44-bbfc5ec4ed67",
+      "mapImageLayoutUrl": "",
+      "description": ""
+    },
+    "ae419aa0-f600-11eb-ac44-bbfc5ec4ed67": {
+      "mapImageLayoutUrl": "",
+      "id": "ae419aa0-f600-11eb-ac44-bbfc5ec4ed67",
+      "size": "",
+      "name": "Pine",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66f56634a1f23ded66abc.png",
+      "location": "",
+      "mapImageUrl": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66f56634a1f23ded66abc.png",
+      "description": ""
+    },
+    "ae661290-f600-11eb-ac44-bbfc5ec4ed67": {
+      "description": "",
+      "name": "Rammaza",
+      "mapImageLayoutUrl": "",
+      "size": "Medium",
+      "id": "ae661290-f600-11eb-ac44-bbfc5ec4ed67",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66f7b634a1f23ded66ac0.png",
+      "location": "14 km outside of El Nadaar, Urzikstan",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66f7b634a1f23ded66ac0.png",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Rammaza.jpg"
+    },
+    "ae8ef750-f600-11eb-ac44-bbfc5ec4ed67": {
+      "mapImageLayoutUrl": "",
+      "name": "Rammaza (Night)",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66f67634a1f23ded66abe.png",
+      "id": "ae8ef750-f600-11eb-ac44-bbfc5ec4ed67",
+      "location": "Realism",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66f67634a1f23ded66abe.png",
+      "description": "",
+      "size": "",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Rammaza-Night.jpg"
+    },
+    "aebe1da0-f600-11eb-ac44-bbfc5ec4ed67": {
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66f91634a1f23ded66ac2.png",
+      "name": "Rust",
+      "description": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66f91634a1f23ded66ac2.png",
+      "location": "Urzikstan desert",
+      "size": "Small",
+      "mapImageLayoutUrl": "",
+      "id": "aebe1da0-f600-11eb-ac44-bbfc5ec4ed67",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Rust.jpg"
+    },
+    "aeeccec0-f600-11eb-ac44-bbfc5ec4ed67": {
+      "location": "Aircraft Graveyard, Verdansk, Kastovia",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Scrapyard.jpg",
+      "size": "Medium",
+      "mapImageLayoutUrl": "",
+      "name": "Scrapyard",
+      "id": "aeeccec0-f600-11eb-ac44-bbfc5ec4ed67",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66fa0634a1f23ded66ac4.png",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66fa0634a1f23ded66ac4.png",
+      "description": ""
+    },
+    "af1bce00-f600-11eb-ac44-bbfc5ec4ed67": {
+      "id": "af1bce00-f600-11eb-ac44-bbfc5ec4ed67",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66fb0634a1f23ded66ac6.png",
+      "mapImageLayoutUrl": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66fb0634a1f23ded66ac6.png",
+      "size": "Small",
+      "name": "Shipment",
+      "location": "London, England",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Shipment.jpg",
+      "description": ""
+    },
+    "af4aa630-f600-11eb-ac44-bbfc5ec4ed67": {
+      "description": "",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Shoot-House.jpg",
+      "size": "Small",
+      "location": "Medium",
+      "id": "af4aa630-f600-11eb-ac44-bbfc5ec4ed67",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66fc0634a1f23ded66ac8.png",
+      "mapImageLayoutUrl": "",
+      "name": "Shoot House",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66fc0634a1f23ded66ac8.png"
+    },
+    "af79a570-f600-11eb-ac44-bbfc5ec4ed67": {
+      "description": "",
+      "mapImageLayoutUrl": "",
+      "name": "Speedball",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66fce634a1f23ded66aca.png",
+      "id": "af79a570-f600-11eb-ac44-bbfc5ec4ed67",
+      "location": "",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Speedball.jpg",
+      "size": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66fce634a1f23ded66aca.png"
+    },
+    "af9f7cf0-f600-11eb-ac44-bbfc5ec4ed67": {
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a6700f634a1f23ded66ad0.png",
+      "mapImageLayoutUrl": "",
+      "name": "St Petrograd",
+      "location": "St. Petrograd, Kastovia",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a6700f634a1f23ded66ad0.png",
+      "description": "",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/St-Petrograd.jpg",
+      "size": "Medium",
+      "id": "af9f7cf0-f600-11eb-ac44-bbfc5ec4ed67"
+    },
+    "afbd3e20-f600-11eb-ac44-bbfc5ec4ed67": {
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Stack.jpg",
+      "location": "",
+      "mapImageLayoutUrl": "",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a66ff4634a1f23ded66acc.png",
+      "size": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a66ff4634a1f23ded66acc.png",
+      "name": "Stack",
+      "id": "afbd3e20-f600-11eb-ac44-bbfc5ec4ed67",
+      "description": ""
+    },
+    "afe73450-f600-11eb-ac44-bbfc5ec4ed67": {
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a67001634a1f23ded66ace.png",
+      "id": "afe73450-f600-11eb-ac44-bbfc5ec4ed67",
+      "description": "Every top of the boxcars and passenger car can be climbed on top of, which give superior verticality at the cost of being essentially exposed on all sides. Other objects, such as crates, containers, and even tank parts, can also be used to gain a height advantage or just be used as cover.",
+      "location": "Small (2v2)",
+      "size": "",
+      "name": "Station",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a67001634a1f23ded66ace.png",
+      "mapImageLayoutUrl": "/images/cod-modern-warfare/maps/COD-ModernWarfare-Station-Mini-Map-Layout.jpg",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Station.jpg"
+    },
+    "b00b3710-f600-11eb-ac44-bbfc5ec4ed67": {
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a6701f634a1f23ded66ad2.png",
+      "mapImageLayoutUrl": "",
+      "size": "Medium",
+      "name": "Suldal Harbor",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a6701f634a1f23ded66ad2.png",
+      "description": "",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Suldal-Harbor.jpg",
+      "location": "Medium",
+      "id": "b00b3710-f600-11eb-ac44-bbfc5ec4ed67"
+    },
+    "b02bde70-f600-11eb-ac44-bbfc5ec4ed67": {
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Talisk-Backlot.jpg",
+      "mapImageLayoutUrl": "/images/cod-modern-warfare/maps/COD-ModernWarfare-Talisk-Backlot-Mini-Map-Layout.jpg",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a6702f634a1f23ded66ad4.png",
+      "location": "Meska, Urzikstan",
+      "description": "In the middle of the Urzikstan desert lies an urban city with a major construction project taking place at its center. With its citizens long evacuated, combat takes place from door-to-door as teams fight for control of the various overlooks and buildings. Prepare for a great mix of close-quarters combat and long-range sniper duels.",
+      "size": "Medium",
+      "name": "Talsik Backlot",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a6702f634a1f23ded66ad4.png",
+      "id": "b02bde70-f600-11eb-ac44-bbfc5ec4ed67"
+    },
+    "b04c37b0-f600-11eb-ac44-bbfc5ec4ed67": {
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a67044634a1f23ded66ad8.png",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Trench.jpg",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a67044634a1f23ded66ad8.png",
+      "size": "",
+      "id": "b04c37b0-f600-11eb-ac44-bbfc5ec4ed67",
+      "mapImageLayoutUrl": "",
+      "description": "",
+      "name": "Trench",
+      "location": "Small (2v2)"
+    },
+    "b07395d0-f600-11eb-ac44-bbfc5ec4ed67": {
+      "size": "Medium",
+      "location": "Verdansk, Kastovia",
+      "mapImageLayoutUrl": "",
+      "name": "Vacant",
+      "description": "",
+      "id": "b07395d0-f600-11eb-ac44-bbfc5ec4ed67",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a6704b634a1f23ded66ada.png",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a6704b634a1f23ded66ada.png",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Vacant.jpg"
+    },
+    "b0994640-f600-11eb-ac44-bbfc5ec4ed67": {
+      "mapImageLayoutUrl": "",
+      "name": "Verdansk Stadium",
+      "location": "Verdansk",
+      "id": "b0994640-f600-11eb-ac44-bbfc5ec4ed67",
+      "mapImageUrl": "/images/cod-modern-warfare/maps/Stadium.jpg",
+      "imageUrlSmall": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_600/v1/mapas/60a67052634a1f23ded66adc.png",
+      "size": "",
+      "imageUrlBig": "https://res.cloudinary.com/do27y3gn0/image/upload/c_scale,q_auto,w_1920/v1/mapas/60a67052634a1f23ded66adc.png",
+      "description": ""
+    }
+  },
+  "regimientos": {
+    "74340250-facc-11eb-b93a-757cb2c53e5c": {
+      "name": "FPMR."
+    },
+    "749ab360-facc-11eb-b93a-757cb2c53e5c": {
+      "name": "BP.C"
+    },
+    "74a53ab0-facc-11eb-b93a-757cb2c53e5c": {
+      "name": "CRK"
+    },
+    "74d3c4c0-facc-11eb-b93a-757cb2c53e5c": {
+      "name": "Sh369"
+    },
+    "74dfaba0-facc-11eb-b93a-757cb2c53e5c": {
+      "name": "SKF'"
+    },
+    "74f1fb20-facc-11eb-b93a-757cb2c53e5c": {
+      "name": "P31M"
+    }
+  },
+  "resultados": {
+    "4d1fe3a0-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "mapa": "", "urlFoto": "", "visita": 6, "local": 2 },
+        { "visita": 6, "urlFoto": "", "mapa": "", "local": 5 },
+        { "visita": 6, "local": 1, "mapa": "", "urlFoto": "" },
+        { "mapa": "", "local": 5, "visita": 6, "urlFoto": "" },
+        { "visita": 6, "local": 0, "mapa": "", "urlFoto": "" },
+        { "local": 0, "mapa": "", "urlFoto": "", "visita": 6 }
+      ],
+      "encuentro": "1"
+    },
+    "4dd3f160-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "local": 6, "urlFoto": "", "mapa": "", "visita": 0 },
+        { "urlFoto": "", "mapa": "", "visita": 0, "local": 6 },
+        { "visita": 3, "urlFoto": "", "mapa": "", "local": 6 },
+        { "mapa": "", "local": 6, "urlFoto": "", "visita": 0 },
+        { "urlFoto": "", "mapa": "", "visita": 0, "local": 6 },
+        { "urlFoto": "", "mapa": "", "visita": 0, "local": 6 }
+      ],
+      "encuentro": "2"
+    },
+    "4dde9fc0-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "local": 3, "urlFoto": "", "visita": 6, "mapa": "" },
+        { "local": 3, "urlFoto": "", "mapa": "", "visita": 6 },
+        { "urlFoto": "", "mapa": "", "local": 4, "visita": 6 },
+        { "visita": 6, "mapa": "", "urlFoto": "", "local": 4 },
+        { "mapa": "", "visita": 6, "urlFoto": "", "local": 5 },
+        { "visita": 6, "local": 0, "urlFoto": "", "mapa": "" }
+      ],
+      "encuentro": "3"
+    },
+    "4e105e20-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "visita": 5, "local": 6, "urlFoto": "", "mapa": "" },
+        { "visita": 6, "local": 1, "mapa": "", "urlFoto": "" },
+        { "visita": 6, "local": 3, "urlFoto": "", "mapa": "" },
+        { "visita": 6, "urlFoto": "", "local": 2, "mapa": "" },
+        { "mapa": "", "local": 0, "urlFoto": "", "visita": 6 },
+        { "visita": 6, "local": 0, "mapa": "", "urlFoto": "" }
+      ],
+      "encuentro": "4"
+    },
+    "4e1abe60-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "urlFoto": "", "local": 0, "visita": 0, "mapa": "" },
+        { "urlFoto": "", "mapa": "", "local": 0, "visita": 0 },
+        { "local": 0, "visita": 0, "mapa": "", "urlFoto": "" },
+        { "local": 0, "mapa": "", "visita": 0, "urlFoto": "" },
+        { "urlFoto": "", "visita": 0, "local": 0, "mapa": "" },
+        { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 }
+      ],
+      "encuentro": "5"
+    },
+    "4e30b760-facc-11eb-a16a-c90f1f49537e": {
+      "encuentro": "6",
+      "partidas": [
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
+        { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 },
+        { "mapa": "", "local": 0, "urlFoto": "", "visita": 0 },
+        { "visita": 0, "urlFoto": "", "local": 0, "mapa": "" },
+        { "local": 0, "urlFoto": "", "mapa": "", "visita": 0 },
+        { "visita": 0, "local": 0, "urlFoto": "", "mapa": "" }
+      ]
+    },
+    "4e3bdaf0-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "local": 0, "urlFoto": "", "mapa": "", "visita": 0 },
+        { "local": 0, "urlFoto": "", "mapa": "", "visita": 0 },
+        { "local": 0, "mapa": "", "urlFoto": "", "visita": 0 },
+        { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" },
+        { "mapa": "", "urlFoto": "", "local": 0, "visita": 0 },
+        { "local": 0, "visita": 0, "mapa": "", "urlFoto": "" }
+      ],
+      "encuentro": "7"
+    },
+    "4e4aa800-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 },
+        { "local": 0, "mapa": "", "urlFoto": "", "visita": 0 },
+        { "visita": 0, "urlFoto": "", "local": 0, "mapa": "" },
+        { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 },
+        { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 },
+        { "urlFoto": "", "visita": 0, "mapa": "", "local": 0 }
+      ],
+      "encuentro": "8"
+    },
+    "4e557d70-facc-11eb-a16a-c90f1f49537e": {
+      "encuentro": "9",
+      "partidas": [
+        { "local": 0, "mapa": "", "visita": 0, "urlFoto": "" },
+        { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 },
+        { "local": 0, "urlFoto": "", "mapa": "", "visita": 0 },
+        { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 },
+        { "mapa": "", "visita": 0, "urlFoto": "", "local": 0 },
+        { "local": 0, "mapa": "", "visita": 0, "urlFoto": "" }
+      ]
+    },
+    "4e60c810-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "mapa": "", "local": 0, "urlFoto": "", "visita": 0 },
+        { "visita": 0, "local": 0, "urlFoto": "", "mapa": "" },
+        { "mapa": "", "visita": 0, "urlFoto": "", "local": 0 },
+        { "visita": 0, "mapa": "", "local": 0, "urlFoto": "" },
+        { "local": 0, "mapa": "", "urlFoto": "", "visita": 0 },
+        { "local": 0, "visita": 0, "mapa": "", "urlFoto": "" }
+      ],
+      "encuentro": "10"
+    },
+    "4e6b2850-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 },
+        { "local": 0, "mapa": "", "urlFoto": "", "visita": 0 },
+        { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 },
+        { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 },
+        { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" },
+        { "visita": 0, "mapa": "", "urlFoto": "", "local": 0 }
+      ],
+      "encuentro": "11"
+    },
+    "4e75d6b0-facc-11eb-a16a-c90f1f49537e": {
+      "encuentro": "12",
+      "partidas": [
+        { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" },
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
+        { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 },
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
+        { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" },
+        { "urlFoto": "", "local": 0, "visita": 0, "mapa": "" }
+      ]
+    },
+    "4e80ac20-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "local": 0, "urlFoto": "", "visita": 0, "mapa": "" },
+        { "local": 0, "urlFoto": "", "mapa": "", "visita": 0 },
+        { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" },
+        { "urlFoto": "", "visita": 0, "mapa": "", "local": 0 },
+        { "mapa": "", "visita": 0, "urlFoto": "", "local": 0 },
+        { "mapa": "", "urlFoto": "", "local": 0, "visita": 0 }
+      ],
+      "encuentro": "13"
+    },
+    "4e8b3370-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 },
+        { "urlFoto": "", "mapa": "", "local": 0, "visita": 0 },
+        { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 },
+        { "visita": 0, "local": 0, "urlFoto": "", "mapa": "" },
+        { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" },
+        { "mapa": "", "visita": 0, "urlFoto": "", "local": 0 }
+      ],
+      "encuentro": "14"
+    },
+    "4e967e10-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" },
+        { "local": 0, "mapa": "", "visita": 0, "urlFoto": "" },
+        { "local": 0, "urlFoto": "", "mapa": "", "visita": 0 },
+        { "local": 0, "mapa": "", "urlFoto": "", "visita": 0 },
+        { "visita": 0, "local": 0, "urlFoto": "", "mapa": "" },
+        { "mapa": "", "visita": 0, "urlFoto": "", "local": 0 }
+      ],
+      "encuentro": "15"
+    },
+    "4ea28c00-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
+        { "visita": 0, "mapa": "", "local": 0, "urlFoto": "" },
+        { "local": 0, "mapa": "", "urlFoto": "", "visita": 0 },
+        { "local": 0, "visita": 0, "urlFoto": "", "mapa": "" },
+        { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 },
+        { "local": 0, "urlFoto": "", "mapa": "", "visita": 0 }
+      ],
+      "encuentro": "16"
+    },
+    "4ead3a60-facc-11eb-a16a-c90f1f49537e": {
+      "encuentro": "17",
+      "partidas": [
+        { "local": 0, "mapa": "", "visita": 0, "urlFoto": "" },
+        { "mapa": "", "local": 0, "urlFoto": "", "visita": 0 },
+        { "urlFoto": "", "visita": 0, "local": 0, "mapa": "" },
+        { "visita": 0, "mapa": "", "urlFoto": "", "local": 0 },
+        { "visita": 0, "local": 0, "urlFoto": "", "mapa": "" },
+        { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 }
+      ]
+    },
+    "4eb7c1b0-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "visita": 0, "local": 0, "urlFoto": "", "mapa": "" },
+        { "urlFoto": "", "visita": 0, "mapa": "", "local": 0 },
+        { "visita": 0, "local": 0, "urlFoto": "", "mapa": "" },
+        { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 },
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
+        { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 }
+      ],
+      "encuentro": "18"
+    },
+    "4ec35a70-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" },
+        { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 },
+        { "visita": 0, "local": 0, "urlFoto": "", "mapa": "" },
+        { "urlFoto": "", "mapa": "", "local": 0, "visita": 0 },
+        { "mapa": "", "urlFoto": "", "local": 0, "visita": 0 },
+        { "mapa": "", "urlFoto": "", "local": 0, "visita": 0 }
+      ],
+      "encuentro": "19"
+    },
+    "4ece56f0-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "urlFoto": "", "visita": 0, "local": 0, "mapa": "" },
+        { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" },
+        { "visita": 0, "mapa": "", "local": 0, "urlFoto": "" },
+        { "visita": 0, "local": 0, "urlFoto": "", "mapa": "" },
+        { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 },
+        { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" }
+      ],
+      "encuentro": "20"
+    },
+    "4ed92c60-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" },
+        { "urlFoto": "", "visita": 0, "local": 0, "mapa": "" },
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
+        { "local": 0, "mapa": "", "urlFoto": "", "visita": 0 },
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
+        { "visita": 0, "local": 0, "urlFoto": "", "mapa": "" }
+      ],
+      "encuentro": "21"
+    },
+    "4ee428e0-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "local": 0, "mapa": "", "visita": 0, "urlFoto": "" },
+        { "visita": 0, "local": 0, "urlFoto": "", "mapa": "" },
+        { "visita": 0, "urlFoto": "", "local": 0, "mapa": "" },
+        { "urlFoto": "", "local": 0, "mapa": "", "visita": 0 },
+        { "local": 0, "mapa": "", "urlFoto": "", "visita": 0 },
+        { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" }
+      ],
+      "encuentro": "22"
+    },
+    "4eeefe50-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
+        { "mapa": "", "local": 0, "urlFoto": "", "visita": 0 },
+        { "mapa": "", "visita": 0, "urlFoto": "", "local": 0 },
+        { "urlFoto": "", "mapa": "", "local": 0, "visita": 0 },
+        { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 },
+        { "local": 0, "visita": 0, "urlFoto": "", "mapa": "" }
+      ],
+      "encuentro": "23"
+    },
+    "4ef91070-facc-11eb-a16a-c90f1f49537e": {
+      "encuentro": "24",
+      "partidas": [
+        { "local": 0, "visita": 0, "mapa": "", "urlFoto": "" },
+        { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" },
+        { "local": 0, "visita": 0, "urlFoto": "", "mapa": "" },
+        { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 },
+        { "urlFoto": "", "visita": 0, "mapa": "", "local": 0 },
+        { "urlFoto": "", "mapa": "", "local": 0, "visita": 0 }
+      ]
+    },
+    "4f07dd80-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "local": 0, "mapa": "", "urlFoto": "", "visita": 0 },
+        { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 },
+        { "urlFoto": "", "visita": 0, "mapa": "", "local": 0 },
+        { "visita": 0, "mapa": "", "local": 0, "urlFoto": "" },
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
+        { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 }
+      ],
+      "encuentro": "25"
+    },
+    "4f1460a0-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "visita": 0, "urlFoto": "", "local": 0, "mapa": "" },
+        { "mapa": "", "visita": 0, "urlFoto": "", "local": 0 },
+        { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" },
+        { "urlFoto": "", "local": 0, "mapa": "", "visita": 0 },
+        { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" },
+        { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 }
+      ],
+      "encuentro": "26"
+    },
+    "4f263af0-facc-11eb-a16a-c90f1f49537e": {
+      "encuentro": "27",
+      "partidas": [
+        { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" },
+        { "visita": 0, "local": 0, "urlFoto": "", "mapa": "" },
+        { "local": 0, "mapa": "", "urlFoto": "", "visita": 0 },
+        { "urlFoto": "", "mapa": "", "local": 0, "visita": 0 },
+        { "visita": 0, "mapa": "", "local": 0, "urlFoto": "" },
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" }
+      ]
+    },
+    "4f311060-facc-11eb-a16a-c90f1f49537e": {
+      "encuentro": "28",
+      "partidas": [
+        { "urlFoto": "", "local": 0, "mapa": "", "visita": 0 },
+        { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 },
+        { "mapa": "", "visita": 0, "urlFoto": "", "local": 0 },
+        { "urlFoto": "", "local": 0, "mapa": "", "visita": 0 },
+        { "visita": 0, "mapa": "", "local": 0, "urlFoto": "" },
+        { "mapa": "", "local": 0, "urlFoto": "", "visita": 0 }
+      ]
+    },
+    "4f3ea4f0-facc-11eb-a16a-c90f1f49537e": {
+      "encuentro": "29",
+      "partidas": [
+        { "mapa": "", "local": 0, "urlFoto": "", "visita": 0 },
+        { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 },
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
+        { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 },
+        { "local": 0, "visita": 0, "urlFoto": "", "mapa": "" }
+      ]
+    },
+    "4f48b710-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" },
+        { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" },
+        { "mapa": "", "visita": 0, "urlFoto": "", "local": 0 },
+        { "mapa": "", "urlFoto": "", "local": 0, "visita": 0 },
+        { "visita": 0, "local": 0, "urlFoto": "", "mapa": "" },
+        { "urlFoto": "", "visita": 0, "mapa": "", "local": 0 }
+      ],
+      "encuentro": "30"
+    },
+    "4f533e60-facc-11eb-a16a-c90f1f49537e": {
+      "encuentro": "31",
+      "partidas": [
+        { "urlFoto": "", "visita": 0, "mapa": "", "local": 0 },
+        { "visita": 0, "mapa": "", "local": 0, "urlFoto": "" },
+        { "urlFoto": "", "visita": 0, "mapa": "", "local": 0 },
+        { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 },
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
+        { "local": 0, "urlFoto": "", "mapa": "", "visita": 0 }
+      ]
+    },
+    "4f665130-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "urlFoto": "", "visita": 0, "local": 0, "mapa": "" },
+        { "urlFoto": "", "local": 0, "mapa": "", "visita": 0 },
+        { "local": 0, "visita": 0, "urlFoto": "", "mapa": "" },
+        { "local": 0, "visita": 0, "urlFoto": "", "mapa": "" },
+        { "local": 0, "mapa": "", "visita": 0, "urlFoto": "" },
+        { "visita": 0, "urlFoto": "", "local": 0, "mapa": "" }
+      ],
+      "encuentro": "32"
+    },
+    "4f70d880-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "urlFoto": "", "visita": 0, "local": 0, "mapa": "" },
+        { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 },
+        { "visita": 0, "mapa": "", "local": 0, "urlFoto": "" },
+        { "local": 0, "visita": 0, "mapa": "", "urlFoto": "" },
+        { "visita": 0, "local": 0, "urlFoto": "", "mapa": "" },
+        { "visita": 0, "mapa": "", "urlFoto": "", "local": 0 }
+      ],
+      "encuentro": "33"
+    },
+    "4f7bd500-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "local": 0, "urlFoto": "", "visita": 0, "mapa": "" },
+        { "visita": 0, "urlFoto": "", "local": 0, "mapa": "" },
+        { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" },
+        { "urlFoto": "", "visita": 0, "mapa": "", "local": 0 },
+        { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" },
+        { "local": 0, "visita": 0, "mapa": "", "urlFoto": "" }
+      ],
+      "encuentro": "34"
+    },
+    "4f885820-facc-11eb-a16a-c90f1f49537e": {
+      "encuentro": "35",
+      "partidas": [
+        { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 },
+        { "local": 0, "mapa": "", "visita": 0, "urlFoto": "" },
+        { "local": 0, "mapa": "", "visita": 0, "urlFoto": "" },
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
+        { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 },
+        { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 }
+      ]
+    },
+    "4f92b860-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" },
+        { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 },
+        { "visita": 0, "mapa": "", "local": 0, "urlFoto": "" },
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
+        { "visita": 0, "urlFoto": "", "local": 0, "mapa": "" },
+        { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" }
+      ],
+      "encuentro": "36"
+    },
+    "4f9e5120-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "visita": 0, "urlFoto": "", "local": 0, "mapa": "" },
+        { "local": 0, "mapa": "", "urlFoto": "", "visita": 0 },
+        { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" },
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
+        { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 },
+        { "mapa": "", "urlFoto": "", "local": 0, "visita": 0 }
+      ],
+      "encuentro": "37"
+    },
+    "4fabe5b0-facc-11eb-a16a-c90f1f49537e": {
+      "encuentro": "38",
+      "partidas": [
+        { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 },
+        { "local": 0, "mapa": "", "urlFoto": "", "visita": 0 },
+        { "mapa": "", "local": 0, "urlFoto": "", "visita": 0 },
+        { "mapa": "", "local": 0, "urlFoto": "", "visita": 0 },
+        { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 },
+        { "visita": 0, "mapa": "", "urlFoto": "", "local": 0 }
+      ]
+    },
+    "4fb66d00-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
+        { "urlFoto": "", "visita": 0, "local": 0, "mapa": "" },
+        { "visita": 0, "mapa": "", "urlFoto": "", "local": 0 },
+        { "urlFoto": "", "visita": 0, "local": 0, "mapa": "" },
+        { "local": 0, "mapa": "", "urlFoto": "", "visita": 0 },
+        { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 }
+      ],
+      "encuentro": "39"
+    },
+    "4fc0f450-facc-11eb-a16a-c90f1f49537e": {
+      "encuentro": "40",
+      "partidas": [
+        { "mapa": "", "urlFoto": "", "local": 0, "visita": 0 },
+        { "local": 0, "visita": 0, "mapa": "", "urlFoto": "" },
+        { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" },
+        { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 },
+        { "urlFoto": "", "visita": 0, "local": 0, "mapa": "" },
+        { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 }
+      ]
+    },
+    "4fcb0670-facc-11eb-a16a-c90f1f49537e": {
+      "encuentro": "41",
+      "partidas": [
+        { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 },
+        { "visita": 0, "urlFoto": "", "local": 0, "mapa": "" },
+        { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" },
+        { "local": 0, "mapa": "", "visita": 0, "urlFoto": "" },
+        { "local": 0, "visita": 0, "mapa": "", "urlFoto": "" },
+        { "urlFoto": "", "local": 0, "visita": 0, "mapa": "" }
+      ]
+    },
+    "50009560-facc-11eb-a16a-c90f1f49537e": {
+      "encuentro": "42",
+      "partidas": [
+        { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" },
+        { "visita": 0, "mapa": "", "urlFoto": "", "local": 0 },
+        { "local": 0, "mapa": "", "visita": 0, "urlFoto": "" },
+        { "visita": 0, "urlFoto": "", "local": 0, "mapa": "" },
+        { "visita": 0, "urlFoto": "", "local": 0, "mapa": "" },
+        { "visita": 0, "mapa": "", "local": 0, "urlFoto": "" }
+      ]
+    },
+    "50111020-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "urlFoto": "", "visita": 0, "local": 0, "mapa": "" },
+        { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 },
+        { "mapa": "", "visita": 0, "urlFoto": "", "local": 0 },
+        { "visita": 0, "urlFoto": "", "local": 0, "mapa": "" },
+        { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 },
+        { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" }
+      ],
+      "encuentro": "43"
+    },
+    "501bbe80-facc-11eb-a16a-c90f1f49537e": {
+      "encuentro": "44",
+      "partidas": [
+        { "visita": 0, "mapa": "", "local": 0, "urlFoto": "" },
+        { "local": 0, "urlFoto": "", "mapa": "", "visita": 0 },
+        { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" },
+        { "urlFoto": "", "visita": 0, "mapa": "", "local": 0 },
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
+        { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 }
+      ]
+    },
+    "5029ef50-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "visita": 0, "mapa": "", "local": 0, "urlFoto": "" },
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
+        { "mapa": "", "visita": 0, "urlFoto": "", "local": 0 },
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
+        { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 },
+        { "local": 0, "mapa": "", "visita": 0, "urlFoto": "" }
+      ],
+      "encuentro": "45"
+    },
+    "503539f0-facc-11eb-a16a-c90f1f49537e": {
+      "encuentro": "46",
+      "partidas": [
+        { "visita": 0, "mapa": "", "urlFoto": "", "local": 0 },
+        { "mapa": "", "visita": 0, "urlFoto": "", "local": 0 },
+        { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" },
+        { "mapa": "", "local": 0, "urlFoto": "", "visita": 0 },
+        { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 },
+        { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 }
+      ]
+    },
+    "50405d80-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
+        { "visita": 0, "mapa": "", "urlFoto": "", "local": 0 },
+        { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" },
+        { "visita": 0, "local": 0, "urlFoto": "", "mapa": "" },
+        { "local": 0, "mapa": "", "urlFoto": "", "visita": 0 },
+        { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 }
+      ],
+      "encuentro": "47"
+    },
+    "504e4030-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" },
+        { "mapa": "", "local": 0, "urlFoto": "", "visita": 0 },
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
+        { "visita": 0, "mapa": "", "local": 0, "urlFoto": "" },
+        { "visita": 0, "mapa": "", "urlFoto": "", "local": 0 },
+        { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 }
+      ],
+      "encuentro": "48"
+    },
+    "50593cb0-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "visita": 0, "local": 0, "urlFoto": "", "mapa": "" },
+        { "local": 0, "mapa": "", "urlFoto": "", "visita": 0 },
+        { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 },
+        { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" },
+        { "visita": 0, "mapa": "", "local": 0, "urlFoto": "" },
+        { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" }
+      ],
+      "encuentro": "49"
+    },
+    "50646040-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "urlFoto": "", "visita": 0, "local": 0, "mapa": "" },
+        { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" },
+        { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 },
+        { "urlFoto": "", "visita": 0, "mapa": "", "local": 0 },
+        { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" },
+        { "local": 0, "mapa": "", "visita": 0, "urlFoto": "" }
+      ],
+      "encuentro": "50"
+    },
+    "5072df30-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "visita": 0, "local": 0, "urlFoto": "", "mapa": "" },
+        { "urlFoto": "", "mapa": "", "local": 0, "visita": 0 },
+        { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 },
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
+        { "visita": 0, "local": 0, "urlFoto": "", "mapa": "" },
+        { "local": 0, "urlFoto": "", "mapa": "", "visita": 0 }
+      ],
+      "encuentro": "51"
+    },
+    "507e02c0-facc-11eb-a16a-c90f1f49537e": {
+      "encuentro": "52",
+      "partidas": [
+        { "visita": 0, "mapa": "", "local": 0, "urlFoto": "" },
+        { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 },
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
+        { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 },
+        { "visita": 0, "urlFoto": "", "local": 0, "mapa": "" },
+        { "visita": 0, "mapa": "", "urlFoto": "", "local": 0 }
+      ]
+    },
+    "5088b120-facc-11eb-a16a-c90f1f49537e": {
+      "partidas": [
+        { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 },
+        { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 },
+        { "visita": 0, "mapa": "", "local": 0, "urlFoto": "" },
+        { "local": 0, "visita": 0, "mapa": "", "urlFoto": "" },
+        { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 },
+        { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" }
+      ],
+      "encuentro": "53"
+    },
+    "50933870-facc-11eb-a16a-c90f1f49537e": {
+      "encuentro": "54",
+      "partidas": [
+        { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" },
+        { "mapa": "", "visita": 0, "urlFoto": "", "local": 0 },
+        { "local": 0, "mapa": "", "visita": 0, "urlFoto": "" },
+        { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 },
+        { "visita": 0, "urlFoto": "", "local": 0, "mapa": "" },
+        { "local": 0, "urlFoto": "", "visita": 0, "mapa": "" }
+      ]
+    },
+    "509de6d0-facc-11eb-a16a-c90f1f49537e": {
+      "encuentro": "55",
+      "partidas": [
+        { "urlFoto": "", "visita": 0, "mapa": "", "local": 0 },
+        { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
+        { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" },
+        { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 },
+        { "urlFoto": "", "local": 0, "mapa": "", "visita": 0 },
+        { "local": 0, "visita": 0, "urlFoto": "", "mapa": "" }
+      ]
+    },
+    "50a89530-facc-11eb-a16a-c90f1f49537e": {
+      "encuentro": "56",
+      "partidas": [
+        { "urlFoto": "", "visita": 0, "mapa": "", "local": 0 },
+        { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 },
+        { "local": 0, "urlFoto": "", "mapa": "", "visita": 0 },
+        { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 },
+        { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 },
+        { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" }
+      ]
+    }
+  },
+  "soldados": {
+    "3f6d4680-f5f9-11eb-8c94-7b0e7f612e65": {
+      "capitan": true,
+      "equipo": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "id": "3f6d4680-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Chernobyl",
+      "regimiento": "749ab360-facc-11eb-b93a-757cb2c53e5c"
+    },
+    "402ee8d0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "Dr Elvis Tec",
+      "regimiento": "749ab360-facc-11eb-b93a-757cb2c53e5c",
+      "capitan": false,
+      "id": "402ee8d0-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "95c6d030-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "405d72e0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "capitan": false,
+      "id": "405d72e0-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "MalditoRenacuajo",
+      "regimiento": "749ab360-facc-11eb-b93a-757cb2c53e5c",
+      "equipo": "95c6d030-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "40cb28d0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "40cb28d0-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": "749ab360-facc-11eb-b93a-757cb2c53e5c",
+      "nick": "EljefeReyes",
+      "capitan": false
+    },
+    "40f06410-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "40f06410-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null,
+      "capitan": false,
+      "nick": "Sheshe"
+    },
+    "415bf720-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "415bf720-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Batman",
+      "capitan": true,
+      "regimiento": null,
+      "equipo": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "4198b200-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "4198b200-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Anfeta",
+      "regimiento": null,
+      "capitan": false
+    },
+    "41edd6e0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "Mclovin",
+      "regimiento": null,
+      "capitan": false,
+      "id": "41edd6e0-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "4241c340-f5f9-11eb-8c94-7b0e7f612e65": {
+      "regimiento": null,
+      "capitan": false,
+      "id": "4241c340-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Zeke"
+    },
+    "42824eb0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "capitan": false,
+      "equipo": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Reaper",
+      "regimiento": null,
+      "id": "42824eb0-f5f9-11eb-8c94-7b0e7f612e65"
+    },
+    "42d50290-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "42d50290-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Huevito Principe",
+      "regimiento": null,
+      "capitan": true
+    },
+    "43169f70-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "Lexz",
+      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": false,
+      "id": "43169f70-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null
+    },
+    "4389fab0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "Hartaban",
+      "capitan": false,
+      "id": "4389fab0-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null
+    },
+    "43b8d2e0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "regimiento": null,
+      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "GodPeluka",
+      "capitan": false,
+      "id": "43b8d2e0-f5f9-11eb-8c94-7b0e7f612e65"
+    },
+    "441ee7b0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "regimiento": null,
+      "id": "441ee7b0-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": false,
+      "nick": "DonBasto"
+    },
+    "4454ebd0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "4454ebd0-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Vato",
+      "capitan": false,
+      "regimiento": null,
+      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "44c27ab0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": false,
+      "regimiento": null,
+      "id": "44c27ab0-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Laycan"
+    },
+    "44f12bd0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "regimiento": null,
+      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": false,
+      "nick": "Sato",
+      "id": "44f12bd0-f5f9-11eb-8c94-7b0e7f612e65"
+    },
+    "4554a890-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "Dj Silverio",
+      "id": "4554a890-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": false
+    },
+    "458d44c0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null,
+      "capitan": false,
+      "nick": "Napo",
+      "id": "458d44c0-f5f9-11eb-8c94-7b0e7f612e65"
+    },
+    "45cbfb70-f5f9-11eb-8c94-7b0e7f612e65": {
+      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": true,
+      "regimiento": null,
+      "id": "45cbfb70-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "W4rlord"
+    },
+    "460a3cf0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "capitan": false,
+      "id": "460a3cf0-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Sheep1",
+      "regimiento": null,
+      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "46393c30-f5f9-11eb-8c94-7b0e7f612e65": {
+      "capitan": false,
+      "id": "46393c30-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null,
+      "nick": "yayan"
+    },
+    "46683b70-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "ChinoTuerto",
+      "id": "46683b70-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "equipo": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": true
+    },
+    "4696ec90-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "4696ec90-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": false,
+      "nick": "Wuayo",
+      "regimiento": null
+    },
+    "46b7bb00-f5f9-11eb-8c94-7b0e7f612e65": {
+      "equipo": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": false,
+      "id": "46b7bb00-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Mleal",
+      "regimiento": null
+    },
+    "47939c10-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "NaxoUC",
+      "regimiento": null,
+      "capitan": false,
+      "equipo": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "id": "47939c10-f5f9-11eb-8c94-7b0e7f612e65"
+    },
+    "47c1ff10-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "47c1ff10-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Jpablo",
+      "regimiento": null,
+      "equipo": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": false
+    },
+    "483de5d0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "Leyzhar",
+      "regimiento": null,
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "id": "483de5d0-f5f9-11eb-8c94-7b0e7f612e65",
+      "capitan": true
+    },
+    "487b3cf0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "TheBlack",
+      "id": "487b3cf0-f5f9-11eb-8c94-7b0e7f612e65",
+      "capitan": false,
+      "regimiento": null,
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "48e856a0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "48e856a0-f5f9-11eb-8c94-7b0e7f612e65",
+      "capitan": false,
+      "regimiento": null,
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "NessO"
+    },
+    "4911feb0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null,
+      "nick": "Figo",
+      "id": "4911feb0-f5f9-11eb-8c94-7b0e7f612e65",
+      "capitan": false
+    },
+    "498532e0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "498532e0-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": false,
+      "nick": "Gualala",
+      "regimiento": null
+    },
+    "4a1a6e00-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "Herca",
+      "id": "4a1a6e00-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "capitan": false,
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "4a4ffcf0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "4a4ffcf0-f5f9-11eb-8c94-7b0e7f612e65",
+      "capitan": false,
+      "nick": "Kuro",
+      "regimiento": null,
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "4acd1c30-f5f9-11eb-8c94-7b0e7f612e65": {
+      "regimiento": null,
+      "id": "4acd1c30-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Kenshin",
+      "capitan": false
+    },
+    "4afc1b70-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "4afc1b70-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "nick": "Dante",
+      "capitan": false,
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "4b5f7120-f5f9-11eb-8c94-7b0e7f612e65": {
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "RonConShela",
+      "id": "4b5f7120-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "capitan": false
+    },
+    "4b983460-f5f9-11eb-8c94-7b0e7f612e65": {
+      "capitan": true,
+      "regimiento": null,
+      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Cocolisovandame",
+      "id": "4b983460-f5f9-11eb-8c94-7b0e7f612e65"
+    },
+    "4c061160-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "Ragnarok",
+      "regimiento": null,
+      "capitan": false,
+      "id": "4c061160-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "4c46eaf0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "Nicopro",
+      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null,
+      "id": "4c46eaf0-f5f9-11eb-8c94-7b0e7f612e65",
+      "capitan": false
+    },
+    "4c981830-f5f9-11eb-8c94-7b0e7f612e65": {
+      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": false,
+      "id": "4c981830-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "nick": "Jacontr"
+    },
+    "4cd74410-f5f9-11eb-8c94-7b0e7f612e65": {
+      "capitan": false,
+      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null,
+      "id": "4cd74410-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Franciscoaguayo"
+    },
+    "4d29d0e0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "4d29d0e0-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Tezzeret",
+      "capitan": false
+    },
+    "7866b540-f647-11eb-a77f-f56ba64fd3a0": {
+      "id": "7866b540-f647-11eb-a77f-f56ba64fd3a0",
+      "regimiento": null,
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Lamoni",
+      "capitan": false
+    },
+    "7943a7c0-f647-11eb-a77f-f56ba64fd3a0": {
+      "nick": "Rockman",
+      "regimiento": null,
+      "id": "7943a7c0-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": true,
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0"
+    },
+    "79708420-f647-11eb-a77f-f56ba64fd3a0": {
+      "id": "79708420-f647-11eb-a77f-f56ba64fd3a0",
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Hexen",
+      "regimiento": null,
+      "capitan": false
+    },
+    "79ddebf0-f647-11eb-a77f-f56ba64fd3a0": {
+      "id": "79ddebf0-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Sebastianh1",
+      "regimiento": null,
+      "capitan": false,
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0"
+    },
+    "7a0cc420-f647-11eb-a77f-f56ba64fd3a0": {
+      "id": "7a0cc420-f647-11eb-a77f-f56ba64fd3a0",
+      "regimiento": null,
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Joakosino",
+      "capitan": false
+    },
+    "7a7a7a10-f647-11eb-a77f-f56ba64fd3a0": {
+      "nick": "Apex",
+      "id": "7a7a7a10-f647-11eb-a77f-f56ba64fd3a0",
+      "regimiento": null,
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false
+    },
+    "7aa95240-f647-11eb-a77f-f56ba64fd3a0": {
+      "regimiento": null,
+      "nick": "Basti",
+      "capitan": false,
+      "id": "7aa95240-f647-11eb-a77f-f56ba64fd3a0",
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0"
+    },
+    "7b197930-f647-11eb-a77f-f56ba64fd3a0": {
+      "id": "7b197930-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Monoh",
+      "capitan": false,
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "regimiento": null
+    },
+    "7b3bf550-f647-11eb-a77f-f56ba64fd3a0": {
+      "id": "7b3bf550-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Xispa",
+      "capitan": false,
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "regimiento": null
+    },
+    "7bb91490-f647-11eb-a77f-f56ba64fd3a0": {
+      "id": "7bb91490-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "CaigPala",
+      "capitan": false,
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "regimiento": null
+    },
+    "7c44b2c0-f647-11eb-a77f-f56ba64fd3a0": {
+      "nick": "Winchi*",
+      "regimiento": null,
+      "id": "7c44b2c0-f647-11eb-a77f-f56ba64fd3a0",
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false
+    },
+    "7c699fe0-f647-11eb-a77f-f56ba64fd3a0": {
+      "id": "7c699fe0-f647-11eb-a77f-f56ba64fd3a0",
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Anger*",
+      "regimiento": null,
+      "capitan": false
+    }
+  }
+}
