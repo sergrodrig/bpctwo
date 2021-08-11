@@ -11,6 +11,10 @@ import firebase from "firebase/app";
 import "firebase/firestore";
 import firebaseConfig from "@/config/firebase";
 firebase.initializeApp(firebaseConfig);
+const db = firebase.firestore();
+if (location.hostname === "localhost") {
+  db.useEmulator("localhost", 8888);
+}
 
 // vue app instance
 const bpctwo = createApp(App);

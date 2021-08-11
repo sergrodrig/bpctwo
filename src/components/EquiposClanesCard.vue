@@ -4,8 +4,13 @@
       <!-- nombre clan y avatar -->
       <div class="flex flex-row items-center p-4 bg-black lg:flex-col lg:w-96">
         <!-- avatar -->
-        <div class="w-12 h-12 mx-4 bg-white lg:w-24 lg:h-24 lg:my-4">
-          <img :src="`/images${clanEscudo}`" alt="" />
+        <div class="w-12 h-12 mx-4 lg:w-24 lg:h-24 lg:my-4">
+          <!-- <img :src="`/images${clanEscudo}`" alt="" /> -->
+          <div
+            class="flex items-center justify-center min-h-full font-mono text-2xl text-white bg-gray-700 rounded-full "
+          >
+            {{ getInitials(clan) }}
+          </div>
         </div>
 
         <!-- nombre clan -->
@@ -98,6 +103,13 @@ export default {
       );
       if (regimiento) return `[${regimiento.name}]`;
       return "";
+    },
+    getInitials(clan) {
+      const iniciales = clan
+        .split(" ")
+        .map((n) => n[0])
+        .join("");
+      return iniciales;
     },
   },
 };
