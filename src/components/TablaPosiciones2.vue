@@ -9,7 +9,7 @@
     <!-- resultados -->
     <div class="w-full border-4 border-black divide-y-2 divide-black">
       <div
-        class="grid px-2 py-2 text-sm text-white bg-black border-t border-gray-600 grid-cols-16"
+        class="grid px-2 py-2 text-sm text-white bg-black border-t border-gray-600  grid-cols-16"
       >
         <div class="col-span-2 text-center">Mov</div>
         <div class="col-span-2 text-center md:col-span-1">Pos.</div>
@@ -104,9 +104,6 @@ export default {
       type: Array,
       required: true,
       default: () => [],
-    },
-    dataEnDuro: {
-      type: Object,
     },
   },
   data() {

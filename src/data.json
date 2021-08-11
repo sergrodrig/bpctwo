@@ -1,4 +1,98 @@
 {
+  "fechas": [
+    {
+      "id": "a6b959d0-f600-11eb-ac44-bbfc5ec4ed67",
+      "numero": 1,
+      "encuentros": [
+        {
+          "numero": 1,
+          "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+          "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0"
+        },
+        {
+          "numero": 2,
+          "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+          "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
+        },
+        {
+          "numero": 3,
+          "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+          "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0"
+        },
+        {
+          "numero": 4,
+          "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+          "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0"
+        }
+      ]
+    },
+    {
+      "id": "a77cd0e0-f600-11eb-ac44-bbfc5ec4ed67",
+      "numero": 2,
+      "encuentros": [
+        {
+          "numero": 5,
+          "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+          "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
+        },
+        {
+          "numero": 6,
+          "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+          "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0"
+        },
+        {
+          "numero": 7,
+          "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+          "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
+        },
+        {
+          "numero": 8,
+          "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+          "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0"
+        }
+      ]
+    },
+    {
+      "id": "a7a9ad40-f600-11eb-ac44-bbfc5ec4ed67",
+      "numero": 3,
+      "encuentros": []
+    },
+    {
+      "id": "a819ad20-f600-11eb-ac44-bbfc5ec4ed67",
+      "numero": 4,
+      "encuentros": []
+    },
+    {
+      "id": "a845c630-f600-11eb-ac44-bbfc5ec4ed67",
+      "numero": 5,
+      "encuentros": []
+    },
+    {
+      "id": "a8afd2a0-f600-11eb-ac44-bbfc5ec4ed67",
+      "numero": 6,
+      "encuentros": []
+    },
+    {
+      "id": "a8d90580-f600-11eb-ac44-bbfc5ec4ed67",
+      "numero": 7,
+      "encuentros": []
+    },
+    {
+      "id": "a94311f0-f600-11eb-ac44-bbfc5ec4ed67",
+      "numero": 8,
+      "encuentros": []
+    },
+    {
+      "id": "a9dc92d0-f600-11eb-ac44-bbfc5ec4ed67",
+      "numero": 9,
+      "encuentros": []
+    },
+    {
+      "id": "aa10c230-f600-11eb-ac44-bbfc5ec4ed67",
+      "numero": 10,
+      "encuentros": []
+    }
+  ],
   "soldados": [
     {
       "id": "3f6d4680-f5f9-11eb-8c94-7b0e7f612e65",
@@ -458,18 +552,6 @@
       "captain": "7943a7c0-f647-11eb-a77f-f56ba64fd3a0",
       "escudo": ""
     }
-  ],
-  "fechas": [
-    { "id": "a6b959d0-f600-11eb-ac44-bbfc5ec4ed67", "week": 1 },
-    { "id": "a77cd0e0-f600-11eb-ac44-bbfc5ec4ed67", "week": 2 },
-    { "id": "a7a9ad40-f600-11eb-ac44-bbfc5ec4ed67", "week": 3 },
-    { "id": "a819ad20-f600-11eb-ac44-bbfc5ec4ed67", "week": 4 },
-    { "id": "a845c630-f600-11eb-ac44-bbfc5ec4ed67", "week": 5 },
-    { "id": "a8afd2a0-f600-11eb-ac44-bbfc5ec4ed67", "week": 6 },
-    { "id": "a8d90580-f600-11eb-ac44-bbfc5ec4ed67", "week": 7 },
-    { "id": "a94311f0-f600-11eb-ac44-bbfc5ec4ed67", "week": 8 },
-    { "id": "a9dc92d0-f600-11eb-ac44-bbfc5ec4ed67", "week": 9 },
-    { "id": "aa10c230-f600-11eb-ac44-bbfc5ec4ed67", "week": 10 }
   ],
   "mapas": [
     {
@@ -1811,6 +1893,14 @@
           "roundsPerdidos": null
         }
       ]
+    }
+  ],
+  "encuentros": [
+    {
+      "numero": 1,
+      "fecha": 1,
+      "local": "",
+      "visita": ""
     }
   ],
   "resultados": [
