@@ -1,27 +1,25 @@
 <template>
-  <div class="border-4 border-black divide-y-4 divide-black">
-    <div v-if="!loading">
-      <!-- fecha x -->
-      <div v-for="fecha in fechas" :key="fecha.id">
-        <h1 class="text-center text-white bg-black">
-          Fecha {{ fecha.numero }}
-        </h1>
+  <div class="divide-y-4 divide-black">
+    <!-- fecha x -->
+    <div v-for="(fecha, index) in encuentros.length / 4" :key="fecha">
+      <div class="mb-8 border-2 border-black">
+        <h1 class="text-center text-white bg-black">Fecha {{ index + 1 }}</h1>
         <!-- duelo x -->
         <router-link
-          v-for="encuentro in fecha.encuentros"
+          v-for="encuentro in encuentros"
           :key="encuentro"
-          class="grid grid-cols-12 text-center divide-x-2 divide-black"
-          :to="{
-            name: 'ResultadosDetalle',
-            params: { resultadoId: encuentro.numero },
-          }"
+          :to="{ name: 'Resultados' }"
         >
-          {{ nombreClan(encuentro.local) }}
-          <div class="col-span-4">{{ nombreClan(encuentro.local) }}</div>
-          <div>0</div>
-          <div class="col-span-2">vs</div>
-          <div>0</div>
-          <div class="col-span-4">{{ nombreClan(encuentro.visita) }}</div>
+          <div
+            v-if="index + 1 === encuentro.fecha"
+            class="grid grid-cols-12 text-center divide-x-2 divide-black"
+          >
+            <div class="col-span-4">{{ encuentro.localNombre }}</div>
+            <div>0</div>
+            <div class="col-span-2">vs</div>
+            <div>0</div>
+            <div class="col-span-4">{{ encuentro.visitaNombre }}</div>
+          </div>
         </router-link>
       </div>
     </div>
@@ -29,7 +27,7 @@
 </template>
 
 <script>
-import { mapActions, mapState } from "vuex";
+import { mapState } from "vuex";
 
 export default {
   data() {
@@ -38,20 +36,15 @@ export default {
     };
   },
   computed: {
-    ...mapState(["fechas", "clanes"]),
-  },
-  async created() {
-    this.loading = true;
-    await this.fetchAllItems("fechas");
-    await this.fetchAllItems("clanes");
-    this.loading = false;
+    ...mapState(["encuentros", "equipos"]),
   },
   methods: {
-    ...mapActions(["fetchAllItems"]),
-    nombreClan(id) {
-      const clan = this.clanes.find((c) => c.id === id);
-      const nombre = clan.nombre;
-      return nombre;
+    nombreEquipo(id) {
+      const { name } = this.equipos.find((e) => {
+        e.id == id;
+      });
+      return name;
+      // return "";
     },
   },
 };

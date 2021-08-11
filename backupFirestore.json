@@ -1,6 +1,7 @@
 {
   "encuentros": {
     "97bf4860-facc-11eb-827e-cffb00f230b3": {
+      "id": "97bf4860-facc-11eb-827e-cffb00f230b3",
       "fecha": 1,
       "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
       "localNombre": "Wutang Lag",
@@ -9,6 +10,7 @@
       "visitaNombre": "Disaster Groove"
     },
     "9842d040-facc-11eb-827e-cffb00f230b3": {
+      "id": "9842d040-facc-11eb-827e-cffb00f230b3",
       "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
       "numero": 2,
       "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
@@ -17,6 +19,7 @@
       "fecha": 1
     },
     "984df3d0-facc-11eb-827e-cffb00f230b3": {
+      "id": "984df3d0-facc-11eb-827e-cffb00f230b3",
       "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
       "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
       "fecha": 1,
@@ -25,6 +28,7 @@
       "visitaNombre": "Los del Gulag"
     },
     "988a87a0-facc-11eb-827e-cffb00f230b3": {
+      "id": "988a87a0-facc-11eb-827e-cffb00f230b3",
       "localNombre": "Frozthound",
       "visitaNombre": "Black Berets",
       "fecha": 1,
@@ -33,6 +37,7 @@
       "numero": 4
     },
     "98953600-facc-11eb-827e-cffb00f230b3": {
+      "id": "98953600-facc-11eb-827e-cffb00f230b3",
       "fecha": 2,
       "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
       "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
@@ -41,6 +46,7 @@
       "localNombre": "Los del Gulag"
     },
     "98a98150-facc-11eb-827e-cffb00f230b3": {
+      "id": "98a98150-facc-11eb-827e-cffb00f230b3",
       "numero": 6,
       "localNombre": "Black Berets",
       "fecha": 2,
@@ -49,6 +55,7 @@
       "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0"
     },
     "98b47dd0-facc-11eb-827e-cffb00f230b3": {
+      "id": "98b47dd0-facc-11eb-827e-cffb00f230b3",
       "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
       "numero": 7,
       "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
@@ -57,6 +64,7 @@
       "localNombre": "Mancoster United Reloaded"
     },
     "98bede10-facc-11eb-827e-cffb00f230b3": {
+      "id": "98bede10-facc-11eb-827e-cffb00f230b3",
       "localNombre": "Disaster Groove",
       "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
       "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
@@ -65,6 +73,7 @@
       "fecha": 2
     },
     "98cb1310-facc-11eb-827e-cffb00f230b3": {
+      "id": "98cb1310-facc-11eb-827e-cffb00f230b3",
       "numero": 9,
       "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
       "fecha": 3,
@@ -73,6 +82,7 @@
       "visitaNombre": "Mancoster United Reloaded"
     },
     "98d65db0-facc-11eb-827e-cffb00f230b3": {
+      "id": "98d65db0-facc-11eb-827e-cffb00f230b3",
       "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
       "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
       "localNombre": "Zicariato de la Perra",
@@ -81,6 +91,7 @@
       "fecha": 3
     },
     "98e2e0d0-facc-11eb-827e-cffb00f230b3": {
+      "id": "98e2e0d0-facc-11eb-827e-cffb00f230b3",
       "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
       "fecha": 3,
       "visitaNombre": "The ChupaHoyos",
@@ -89,6 +100,7 @@
       "localNombre": "Wutang Lag"
     },
     "98ed4110-facc-11eb-827e-cffb00f230b3": {
+      "id": "98ed4110-facc-11eb-827e-cffb00f230b3",
       "fecha": 3,
       "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
       "numero": 12,
@@ -97,6 +109,7 @@
       "localNombre": "Black Berets"
     },
     "98f83d90-facc-11eb-827e-cffb00f230b3": {
+      "id": "98f83d90-facc-11eb-827e-cffb00f230b3",
       "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
       "fecha": 4,
       "visitaNombre": "Zicariato de la Perra",
@@ -105,6 +118,7 @@
       "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
     },
     "9902ebf0-facc-11eb-827e-cffb00f230b3": {
+      "id": "9902ebf0-facc-11eb-827e-cffb00f230b3",
       "visitaNombre": "Black Berets",
       "fecha": 4,
       "numero": 14,
@@ -113,6 +127,7 @@
       "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0"
     },
     "990d7340-facc-11eb-827e-cffb00f230b3": {
+      "id": "990d7340-facc-11eb-827e-cffb00f230b3",
       "visitaNombre": "Frozthound",
       "localNombre": "Disaster Groove",
       "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
@@ -121,6 +136,7 @@
       "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
     },
     "9917d380-facc-11eb-827e-cffb00f230b3": {
+      "id": "9917d380-facc-11eb-827e-cffb00f230b3",
       "fecha": 4,
       "localNombre": "Los del Gulag",
       "numero": 16,
@@ -129,6 +145,7 @@
       "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0"
     },
     "992233c0-facc-11eb-827e-cffb00f230b3": {
+      "id": "992233c0-facc-11eb-827e-cffb00f230b3",
       "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
       "numero": 17,
       "fecha": 5,
@@ -137,6 +154,7 @@
       "visitaNombre": "Mancoster United Reloaded"
     },
     "992da570-facc-11eb-827e-cffb00f230b3": {
+      "id": "992da570-facc-11eb-827e-cffb00f230b3",
       "fecha": 5,
       "localNombre": "Frozthound",
       "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
@@ -145,6 +163,7 @@
       "visitaNombre": "The ChupaHoyos"
     },
     "993bd640-facc-11eb-827e-cffb00f230b3": {
+      "id": "993bd640-facc-11eb-827e-cffb00f230b3",
       "visitaNombre": "Disaster Groove",
       "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
       "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
@@ -153,6 +172,7 @@
       "localNombre": "Black Berets"
     },
     "994684a0-facc-11eb-827e-cffb00f230b3": {
+      "id": "994684a0-facc-11eb-827e-cffb00f230b3",
       "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
       "numero": 20,
       "fecha": 5,
@@ -161,6 +181,7 @@
       "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
     },
     "99513300-facc-11eb-827e-cffb00f230b3": {
+      "id": "99513300-facc-11eb-827e-cffb00f230b3",
       "numero": 21,
       "localNombre": "The ChupaHoyos",
       "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
@@ -169,6 +190,7 @@
       "visitaNombre": "Black Berets"
     },
     "995f15b0-facc-11eb-827e-cffb00f230b3": {
+      "id": "995f15b0-facc-11eb-827e-cffb00f230b3",
       "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
       "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
       "visitaNombre": "Los del Gulag",
@@ -177,6 +199,7 @@
       "localNombre": "Disaster Groove"
     },
     "996a1230-facc-11eb-827e-cffb00f230b3": {
+      "id": "996a1230-facc-11eb-827e-cffb00f230b3",
       "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
       "localNombre": "Mancoster United Reloaded",
       "numero": 23,
@@ -185,6 +208,7 @@
       "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0"
     },
     "99744b60-facc-11eb-827e-cffb00f230b3": {
+      "id": "99744b60-facc-11eb-827e-cffb00f230b3",
       "fecha": 6,
       "localNombre": "Zicariato de la Perra",
       "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
@@ -193,6 +217,7 @@
       "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
     },
     "997e8490-facc-11eb-827e-cffb00f230b3": {
+      "id": "997e8490-facc-11eb-827e-cffb00f230b3",
       "fecha": 7,
       "visitaNombre": "Zicariato de la Perra",
       "numero": 25,
@@ -201,6 +226,7 @@
       "localNombre": "Black Berets"
     },
     "99890be0-facc-11eb-827e-cffb00f230b3": {
+      "id": "99890be0-facc-11eb-827e-cffb00f230b3",
       "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
       "localNombre": "Wutang Lag",
       "fecha": 7,
@@ -209,6 +235,7 @@
       "visitaNombre": "Frozthound"
     },
     "9994cbb0-facc-11eb-827e-cffb00f230b3": {
+      "id": "9994cbb0-facc-11eb-827e-cffb00f230b3",
       "visitaNombre": "The ChupaHoyos",
       "numero": 27,
       "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
@@ -217,6 +244,7 @@
       "fecha": 7
     },
     "999fa120-facc-11eb-827e-cffb00f230b3": {
+      "id": "999fa120-facc-11eb-827e-cffb00f230b3",
       "fecha": 7,
       "numero": 28,
       "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
@@ -225,6 +253,7 @@
       "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
     },
     "99aa4f80-facc-11eb-827e-cffb00f230b3": {
+      "id": "99aa4f80-facc-11eb-827e-cffb00f230b3",
       "numero": 29,
       "localNombre": "Disaster Groove",
       "visitaNombre": "Wutang Lag",
@@ -233,6 +262,7 @@
       "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0"
     },
     "99b6f9b0-facc-11eb-827e-cffb00f230b3": {
+      "id": "99b6f9b0-facc-11eb-827e-cffb00f230b3",
       "localNombre": "Mancoster United Reloaded",
       "visitaNombre": "The ChupaHoyos",
       "fecha": 8,
@@ -241,6 +271,7 @@
       "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
     },
     "99c132e0-facc-11eb-827e-cffb00f230b3": {
+      "id": "99c132e0-facc-11eb-827e-cffb00f230b3",
       "numero": 31,
       "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
       "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
@@ -249,6 +280,7 @@
       "fecha": 8
     },
     "99cc7d80-facc-11eb-827e-cffb00f230b3": {
+      "id": "99cc7d80-facc-11eb-827e-cffb00f230b3",
       "localNombre": "Black Berets",
       "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
       "fecha": 8,
@@ -257,6 +289,7 @@
       "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0"
     },
     "99d900a0-facc-11eb-827e-cffb00f230b3": {
+      "id": "99d900a0-facc-11eb-827e-cffb00f230b3",
       "localNombre": "Frozthound",
       "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
       "numero": 33,
@@ -265,6 +298,7 @@
       "fecha": 9
     },
     "99e360e0-facc-11eb-827e-cffb00f230b3": {
+      "id": "99e360e0-facc-11eb-827e-cffb00f230b3",
       "numero": 34,
       "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
       "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
@@ -273,6 +307,7 @@
       "visitaNombre": "Black Berets"
     },
     "99ed9a10-facc-11eb-827e-cffb00f230b3": {
+      "id": "99ed9a10-facc-11eb-827e-cffb00f230b3",
       "fecha": 9,
       "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
       "numero": 35,
@@ -281,6 +316,7 @@
       "visitaNombre": "Mancoster United Reloaded"
     },
     "99f9cf10-facc-11eb-827e-cffb00f230b3": {
+      "id": "99f9cf10-facc-11eb-827e-cffb00f230b3",
       "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
       "localNombre": "The ChupaHoyos",
       "fecha": 9,
@@ -289,6 +325,7 @@
       "numero": 36
     },
     "9a040840-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a040840-facc-11eb-827e-cffb00f230b3",
       "numero": 37,
       "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
       "visitaNombre": "Frozthound",
@@ -297,6 +334,7 @@
       "fecha": 10
     },
     "9a0eb6a0-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a0eb6a0-facc-11eb-827e-cffb00f230b3",
       "localNombre": "Disaster Groove",
       "fecha": 10,
       "visitaNombre": "Zicariato de la Perra",
@@ -305,6 +343,7 @@
       "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0"
     },
     "9a1a4f60-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a1a4f60-facc-11eb-827e-cffb00f230b3",
       "visitaNombre": "Wutang Lag",
       "fecha": 10,
       "numero": 39,
@@ -313,6 +352,7 @@
       "localNombre": "The ChupaHoyos"
     },
     "9a2572f0-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a2572f0-facc-11eb-827e-cffb00f230b3",
       "numero": 40,
       "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
       "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
@@ -321,6 +361,7 @@
       "localNombre": "Los del Gulag"
     },
     "9a2f8510-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a2f8510-facc-11eb-827e-cffb00f230b3",
       "localNombre": "Zicariato de la Perra",
       "fecha": 11,
       "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
@@ -329,6 +370,7 @@
       "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
     },
     "9a39e550-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a39e550-facc-11eb-827e-cffb00f230b3",
       "localNombre": "Black Berets",
       "fecha": 11,
       "visitaNombre": "Mancoster United Reloaded",
@@ -337,6 +379,7 @@
       "numero": 42
     },
     "9a44e1d0-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a44e1d0-facc-11eb-827e-cffb00f230b3",
       "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
       "numero": 43,
       "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
@@ -345,6 +388,7 @@
       "fecha": 11
     },
     "9a4f6920-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a4f6920-facc-11eb-827e-cffb00f230b3",
       "localNombre": "Wutang Lag",
       "visitaNombre": "Los del Gulag",
       "fecha": 11,
@@ -353,6 +397,7 @@
       "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0"
     },
     "9a5de810-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a5de810-facc-11eb-827e-cffb00f230b3",
       "localNombre": "Mancoster United Reloaded",
       "visitaNombre": "Los del Gulag",
       "numero": 45,
@@ -361,6 +406,7 @@
       "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0"
     },
     "9a684850-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a684850-facc-11eb-827e-cffb00f230b3",
       "localNombre": "The ChupaHoyos",
       "visitaNombre": "Frozthound",
       "numero": 46,
@@ -369,6 +415,7 @@
       "fecha": 12
     },
     "9a725a70-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a725a70-facc-11eb-827e-cffb00f230b3",
       "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
       "localNombre": "Disaster Groove",
       "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
@@ -377,6 +424,7 @@
       "fecha": 12
     },
     "9a7c93a0-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a7c93a0-facc-11eb-827e-cffb00f230b3",
       "fecha": 12,
       "localNombre": "Zicariato de la Perra",
       "visitaNombre": "Wutang Lag",
@@ -385,6 +433,7 @@
       "numero": 48
     },
     "9a8657a0-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a8657a0-facc-11eb-827e-cffb00f230b3",
       "localNombre": "Black Berets",
       "fecha": 13,
       "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
@@ -393,6 +442,7 @@
       "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0"
     },
     "9a91a240-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a91a240-facc-11eb-827e-cffb00f230b3",
       "fecha": 13,
       "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
       "visitaNombre": "Disaster Groove",
@@ -401,6 +451,7 @@
       "localNombre": "Los del Gulag"
     },
     "9a9bdb70-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a9bdb70-facc-11eb-827e-cffb00f230b3",
       "fecha": 13,
       "numero": 51,
       "localNombre": "Wutang Lag",
@@ -409,6 +460,7 @@
       "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
     },
     "9aa689d0-facc-11eb-827e-cffb00f230b3": {
+      "id": "9aa689d0-facc-11eb-827e-cffb00f230b3",
       "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
       "fecha": 13,
       "visitaNombre": "Zicariato de la Perra",
@@ -417,6 +469,7 @@
       "localNombre": "Frozthound"
     },
     "9ab1d470-facc-11eb-827e-cffb00f230b3": {
+      "id": "9ab1d470-facc-11eb-827e-cffb00f230b3",
       "numero": 53,
       "fecha": 14,
       "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
@@ -425,6 +478,7 @@
       "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
     },
     "9abc34b0-facc-11eb-827e-cffb00f230b3": {
+      "id": "9abc34b0-facc-11eb-827e-cffb00f230b3",
       "numero": 54,
       "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
       "fecha": 14,
@@ -433,6 +487,7 @@
       "visitaNombre": "Wutang Lag"
     },
     "9ac75840-facc-11eb-827e-cffb00f230b3": {
+      "id": "9ac75840-facc-11eb-827e-cffb00f230b3",
       "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
       "localNombre": "The ChupaHoyos",
       "numero": 55,
@@ -441,6 +496,7 @@
       "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0"
     },
     "9ad16a60-facc-11eb-827e-cffb00f230b3": {
+      "id": "9ad16a60-facc-11eb-827e-cffb00f230b3",
       "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
       "localNombre": "Disaster Groove",
       "numero": 56,
@@ -1017,26 +1073,33 @@
   },
   "regimientos": {
     "74340250-facc-11eb-b93a-757cb2c53e5c": {
+      "id": "74340250-facc-11eb-b93a-757cb2c53e5c",
       "name": "FPMR."
     },
     "749ab360-facc-11eb-b93a-757cb2c53e5c": {
+      "id": "749ab360-facc-11eb-b93a-757cb2c53e5c",
       "name": "BP.C"
     },
     "74a53ab0-facc-11eb-b93a-757cb2c53e5c": {
+      "id": "74a53ab0-facc-11eb-b93a-757cb2c53e5c",
       "name": "CRK"
     },
     "74d3c4c0-facc-11eb-b93a-757cb2c53e5c": {
+      "id": "74d3c4c0-facc-11eb-b93a-757cb2c53e5c",
       "name": "Sh369"
     },
     "74dfaba0-facc-11eb-b93a-757cb2c53e5c": {
+      "id": "74dfaba0-facc-11eb-b93a-757cb2c53e5c",
       "name": "SKF'"
     },
     "74f1fb20-facc-11eb-b93a-757cb2c53e5c": {
+      "id": "74f1fb20-facc-11eb-b93a-757cb2c53e5c",
       "name": "P31M"
     }
   },
   "resultados": {
     "4d1fe3a0-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4d1fe3a0-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "mapa": "", "urlFoto": "", "visita": 6, "local": 2 },
         { "visita": 6, "urlFoto": "", "mapa": "", "local": 5 },
@@ -1048,6 +1111,7 @@
       "encuentro": "1"
     },
     "4dd3f160-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4dd3f160-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "local": 6, "urlFoto": "", "mapa": "", "visita": 0 },
         { "urlFoto": "", "mapa": "", "visita": 0, "local": 6 },
@@ -1059,6 +1123,7 @@
       "encuentro": "2"
     },
     "4dde9fc0-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4dde9fc0-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "local": 3, "urlFoto": "", "visita": 6, "mapa": "" },
         { "local": 3, "urlFoto": "", "mapa": "", "visita": 6 },
@@ -1070,6 +1135,7 @@
       "encuentro": "3"
     },
     "4e105e20-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4e105e20-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "visita": 5, "local": 6, "urlFoto": "", "mapa": "" },
         { "visita": 6, "local": 1, "mapa": "", "urlFoto": "" },
@@ -1081,6 +1147,7 @@
       "encuentro": "4"
     },
     "4e1abe60-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4e1abe60-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "urlFoto": "", "local": 0, "visita": 0, "mapa": "" },
         { "urlFoto": "", "mapa": "", "local": 0, "visita": 0 },
@@ -1092,6 +1159,7 @@
       "encuentro": "5"
     },
     "4e30b760-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4e30b760-facc-11eb-a16a-c90f1f49537e",
       "encuentro": "6",
       "partidas": [
         { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
@@ -1103,6 +1171,7 @@
       ]
     },
     "4e3bdaf0-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4e3bdaf0-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "local": 0, "urlFoto": "", "mapa": "", "visita": 0 },
         { "local": 0, "urlFoto": "", "mapa": "", "visita": 0 },
@@ -1114,6 +1183,7 @@
       "encuentro": "7"
     },
     "4e4aa800-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4e4aa800-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 },
         { "local": 0, "mapa": "", "urlFoto": "", "visita": 0 },
@@ -1125,6 +1195,7 @@
       "encuentro": "8"
     },
     "4e557d70-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4e557d70-facc-11eb-a16a-c90f1f49537e",
       "encuentro": "9",
       "partidas": [
         { "local": 0, "mapa": "", "visita": 0, "urlFoto": "" },
@@ -1136,6 +1207,7 @@
       ]
     },
     "4e60c810-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4e60c810-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "mapa": "", "local": 0, "urlFoto": "", "visita": 0 },
         { "visita": 0, "local": 0, "urlFoto": "", "mapa": "" },
@@ -1147,6 +1219,7 @@
       "encuentro": "10"
     },
     "4e6b2850-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4e6b2850-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 },
         { "local": 0, "mapa": "", "urlFoto": "", "visita": 0 },
@@ -1158,6 +1231,7 @@
       "encuentro": "11"
     },
     "4e75d6b0-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4e75d6b0-facc-11eb-a16a-c90f1f49537e",
       "encuentro": "12",
       "partidas": [
         { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" },
@@ -1169,6 +1243,7 @@
       ]
     },
     "4e80ac20-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4e80ac20-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "local": 0, "urlFoto": "", "visita": 0, "mapa": "" },
         { "local": 0, "urlFoto": "", "mapa": "", "visita": 0 },
@@ -1180,6 +1255,7 @@
       "encuentro": "13"
     },
     "4e8b3370-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4e8b3370-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 },
         { "urlFoto": "", "mapa": "", "local": 0, "visita": 0 },
@@ -1191,6 +1267,7 @@
       "encuentro": "14"
     },
     "4e967e10-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4e967e10-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" },
         { "local": 0, "mapa": "", "visita": 0, "urlFoto": "" },
@@ -1202,6 +1279,7 @@
       "encuentro": "15"
     },
     "4ea28c00-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4ea28c00-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
         { "visita": 0, "mapa": "", "local": 0, "urlFoto": "" },
@@ -1213,6 +1291,7 @@
       "encuentro": "16"
     },
     "4ead3a60-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4ead3a60-facc-11eb-a16a-c90f1f49537e",
       "encuentro": "17",
       "partidas": [
         { "local": 0, "mapa": "", "visita": 0, "urlFoto": "" },
@@ -1224,6 +1303,7 @@
       ]
     },
     "4eb7c1b0-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4eb7c1b0-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "visita": 0, "local": 0, "urlFoto": "", "mapa": "" },
         { "urlFoto": "", "visita": 0, "mapa": "", "local": 0 },
@@ -1235,6 +1315,7 @@
       "encuentro": "18"
     },
     "4ec35a70-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4ec35a70-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" },
         { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 },
@@ -1246,6 +1327,7 @@
       "encuentro": "19"
     },
     "4ece56f0-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4ece56f0-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "urlFoto": "", "visita": 0, "local": 0, "mapa": "" },
         { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" },
@@ -1257,6 +1339,7 @@
       "encuentro": "20"
     },
     "4ed92c60-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4ed92c60-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" },
         { "urlFoto": "", "visita": 0, "local": 0, "mapa": "" },
@@ -1268,6 +1351,7 @@
       "encuentro": "21"
     },
     "4ee428e0-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4ee428e0-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "local": 0, "mapa": "", "visita": 0, "urlFoto": "" },
         { "visita": 0, "local": 0, "urlFoto": "", "mapa": "" },
@@ -1279,6 +1363,7 @@
       "encuentro": "22"
     },
     "4eeefe50-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4eeefe50-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
         { "mapa": "", "local": 0, "urlFoto": "", "visita": 0 },
@@ -1290,6 +1375,7 @@
       "encuentro": "23"
     },
     "4ef91070-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4ef91070-facc-11eb-a16a-c90f1f49537e",
       "encuentro": "24",
       "partidas": [
         { "local": 0, "visita": 0, "mapa": "", "urlFoto": "" },
@@ -1301,6 +1387,7 @@
       ]
     },
     "4f07dd80-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4f07dd80-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "local": 0, "mapa": "", "urlFoto": "", "visita": 0 },
         { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 },
@@ -1312,6 +1399,7 @@
       "encuentro": "25"
     },
     "4f1460a0-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4f1460a0-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "visita": 0, "urlFoto": "", "local": 0, "mapa": "" },
         { "mapa": "", "visita": 0, "urlFoto": "", "local": 0 },
@@ -1323,6 +1411,7 @@
       "encuentro": "26"
     },
     "4f263af0-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4f263af0-facc-11eb-a16a-c90f1f49537e",
       "encuentro": "27",
       "partidas": [
         { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" },
@@ -1334,6 +1423,7 @@
       ]
     },
     "4f311060-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4f311060-facc-11eb-a16a-c90f1f49537e",
       "encuentro": "28",
       "partidas": [
         { "urlFoto": "", "local": 0, "mapa": "", "visita": 0 },
@@ -1345,6 +1435,7 @@
       ]
     },
     "4f3ea4f0-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4f3ea4f0-facc-11eb-a16a-c90f1f49537e",
       "encuentro": "29",
       "partidas": [
         { "mapa": "", "local": 0, "urlFoto": "", "visita": 0 },
@@ -1356,6 +1447,7 @@
       ]
     },
     "4f48b710-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4f48b710-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" },
         { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" },
@@ -1367,6 +1459,7 @@
       "encuentro": "30"
     },
     "4f533e60-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4f533e60-facc-11eb-a16a-c90f1f49537e",
       "encuentro": "31",
       "partidas": [
         { "urlFoto": "", "visita": 0, "mapa": "", "local": 0 },
@@ -1378,6 +1471,7 @@
       ]
     },
     "4f665130-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4f665130-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "urlFoto": "", "visita": 0, "local": 0, "mapa": "" },
         { "urlFoto": "", "local": 0, "mapa": "", "visita": 0 },
@@ -1389,6 +1483,7 @@
       "encuentro": "32"
     },
     "4f70d880-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4f70d880-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "urlFoto": "", "visita": 0, "local": 0, "mapa": "" },
         { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 },
@@ -1400,6 +1495,7 @@
       "encuentro": "33"
     },
     "4f7bd500-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4f7bd500-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "local": 0, "urlFoto": "", "visita": 0, "mapa": "" },
         { "visita": 0, "urlFoto": "", "local": 0, "mapa": "" },
@@ -1411,6 +1507,7 @@
       "encuentro": "34"
     },
     "4f885820-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4f885820-facc-11eb-a16a-c90f1f49537e",
       "encuentro": "35",
       "partidas": [
         { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 },
@@ -1422,6 +1519,7 @@
       ]
     },
     "4f92b860-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4f92b860-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" },
         { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 },
@@ -1433,6 +1531,7 @@
       "encuentro": "36"
     },
     "4f9e5120-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4f9e5120-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "visita": 0, "urlFoto": "", "local": 0, "mapa": "" },
         { "local": 0, "mapa": "", "urlFoto": "", "visita": 0 },
@@ -1444,6 +1543,7 @@
       "encuentro": "37"
     },
     "4fabe5b0-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4fabe5b0-facc-11eb-a16a-c90f1f49537e",
       "encuentro": "38",
       "partidas": [
         { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 },
@@ -1455,6 +1555,7 @@
       ]
     },
     "4fb66d00-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4fb66d00-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
         { "urlFoto": "", "visita": 0, "local": 0, "mapa": "" },
@@ -1466,6 +1567,7 @@
       "encuentro": "39"
     },
     "4fc0f450-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4fc0f450-facc-11eb-a16a-c90f1f49537e",
       "encuentro": "40",
       "partidas": [
         { "mapa": "", "urlFoto": "", "local": 0, "visita": 0 },
@@ -1477,6 +1579,7 @@
       ]
     },
     "4fcb0670-facc-11eb-a16a-c90f1f49537e": {
+      "id": "4fcb0670-facc-11eb-a16a-c90f1f49537e",
       "encuentro": "41",
       "partidas": [
         { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 },
@@ -1488,6 +1591,7 @@
       ]
     },
     "50009560-facc-11eb-a16a-c90f1f49537e": {
+      "id": "50009560-facc-11eb-a16a-c90f1f49537e",
       "encuentro": "42",
       "partidas": [
         { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" },
@@ -1499,6 +1603,7 @@
       ]
     },
     "50111020-facc-11eb-a16a-c90f1f49537e": {
+      "id": "50111020-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "urlFoto": "", "visita": 0, "local": 0, "mapa": "" },
         { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 },
@@ -1510,6 +1615,7 @@
       "encuentro": "43"
     },
     "501bbe80-facc-11eb-a16a-c90f1f49537e": {
+      "id": "501bbe80-facc-11eb-a16a-c90f1f49537e",
       "encuentro": "44",
       "partidas": [
         { "visita": 0, "mapa": "", "local": 0, "urlFoto": "" },
@@ -1521,6 +1627,7 @@
       ]
     },
     "5029ef50-facc-11eb-a16a-c90f1f49537e": {
+      "id": "5029ef50-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "visita": 0, "mapa": "", "local": 0, "urlFoto": "" },
         { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
@@ -1532,6 +1639,7 @@
       "encuentro": "45"
     },
     "503539f0-facc-11eb-a16a-c90f1f49537e": {
+      "id": "503539f0-facc-11eb-a16a-c90f1f49537e",
       "encuentro": "46",
       "partidas": [
         { "visita": 0, "mapa": "", "urlFoto": "", "local": 0 },
@@ -1543,6 +1651,7 @@
       ]
     },
     "50405d80-facc-11eb-a16a-c90f1f49537e": {
+      "id": "50405d80-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "mapa": "", "visita": 0, "local": 0, "urlFoto": "" },
         { "visita": 0, "mapa": "", "urlFoto": "", "local": 0 },
@@ -1554,6 +1663,7 @@
       "encuentro": "47"
     },
     "504e4030-facc-11eb-a16a-c90f1f49537e": {
+      "id": "504e4030-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" },
         { "mapa": "", "local": 0, "urlFoto": "", "visita": 0 },
@@ -1565,6 +1675,7 @@
       "encuentro": "48"
     },
     "50593cb0-facc-11eb-a16a-c90f1f49537e": {
+      "id": "50593cb0-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "visita": 0, "local": 0, "urlFoto": "", "mapa": "" },
         { "local": 0, "mapa": "", "urlFoto": "", "visita": 0 },
@@ -1576,6 +1687,7 @@
       "encuentro": "49"
     },
     "50646040-facc-11eb-a16a-c90f1f49537e": {
+      "id": "50646040-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "urlFoto": "", "visita": 0, "local": 0, "mapa": "" },
         { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" },
@@ -1587,6 +1699,7 @@
       "encuentro": "50"
     },
     "5072df30-facc-11eb-a16a-c90f1f49537e": {
+      "id": "5072df30-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "visita": 0, "local": 0, "urlFoto": "", "mapa": "" },
         { "urlFoto": "", "mapa": "", "local": 0, "visita": 0 },
@@ -1598,6 +1711,7 @@
       "encuentro": "51"
     },
     "507e02c0-facc-11eb-a16a-c90f1f49537e": {
+      "id": "507e02c0-facc-11eb-a16a-c90f1f49537e",
       "encuentro": "52",
       "partidas": [
         { "visita": 0, "mapa": "", "local": 0, "urlFoto": "" },
@@ -1609,6 +1723,7 @@
       ]
     },
     "5088b120-facc-11eb-a16a-c90f1f49537e": {
+      "id": "5088b120-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
         { "visita": 0, "urlFoto": "", "mapa": "", "local": 0 },
         { "mapa": "", "urlFoto": "", "visita": 0, "local": 0 },
@@ -1620,6 +1735,7 @@
       "encuentro": "53"
     },
     "50933870-facc-11eb-a16a-c90f1f49537e": {
+      "id": "50933870-facc-11eb-a16a-c90f1f49537e",
       "encuentro": "54",
       "partidas": [
         { "visita": 0, "local": 0, "mapa": "", "urlFoto": "" },
@@ -1631,6 +1747,7 @@
       ]
     },
     "509de6d0-facc-11eb-a16a-c90f1f49537e": {
+      "id": "509de6d0-facc-11eb-a16a-c90f1f49537e",
       "encuentro": "55",
       "partidas": [
         { "urlFoto": "", "visita": 0, "mapa": "", "local": 0 },
@@ -1642,6 +1759,7 @@
       ]
     },
     "50a89530-facc-11eb-a16a-c90f1f49537e": {
+      "id": "50a89530-facc-11eb-a16a-c90f1f49537e",
       "encuentro": "56",
       "partidas": [
         { "urlFoto": "", "visita": 0, "mapa": "", "local": 0 },
