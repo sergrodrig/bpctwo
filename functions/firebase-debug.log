@@ -191,3 +191,6 @@ INFO: Detected non-HTTP/2 connection.
 [debug] [2021-08-12T19:23:21.332Z] Aug 12, 2021 3:23:21 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
 INFO: Detected non-HTTP/2 connection.
  {"metadata":{"emulator":{"name":"firestore"},"message":"Aug 12, 2021 3:23:21 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2021-08-12T19:24:21.354Z] Aug 12, 2021 3:24:21 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Aug 12, 2021 3:24:21 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
