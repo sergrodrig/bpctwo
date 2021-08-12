@@ -1,6 +1,7 @@
 const { initializeApp, backups, restore } = require("firestore-export-import");
 const fs = require("fs");
-const serviceAccount = require("./serviceAccountDevelopment.json");
+const serviceAccount = require("./serviceAccountBPCWEB.json");
+// const serviceAccount = require("./serviceAccountDevelopment.json");
 const data = process.argv[4]
   ? `${__dirname}/src/data/${process.argv[4]}`
   : `${__dirname}/src/data.json`;
