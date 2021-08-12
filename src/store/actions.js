@@ -72,67 +72,51 @@ export default {
     commit("setItem", { resource: "users", item: newUser });
     return docToResource(newUser);
   },
+  fetchAuthUser: ({ commit }) => {
+    const userId = firebase.auth().currentUser?.uid;
+    if (!userId) return;
+    return new Promise((resolve) => {
+      const unsubscribe = firebase
+        .firestore()
+        .collection("users")
+        .doc(userId)
+        .onSnapshot((doc) => {
+          const item = { ...doc.data(), id: doc.id };
+          commit("setItem", { resource: "users", item });
+          resolve(item);
+          commit("setAuthUserUnsubscribe", unsubscribe);
+        });
+      commit("setAuthId", userId);
+    });
+  },
+  async unsubscribeAuthUserSnapshot({ state, commit }) {
+    if (state.authUserUnsubscribe) {
+      state.authUserUnsubscribe();
+      commit("setAuthUserUnsubscribe", null);
+    }
+  },
 
   // ---------------------------------------
   // Fetch Single Resource
   // ---------------------------------------
-  fetchItem({ commit }, { id, resource, handleUnsubscribe = null }) {
+  fetchItem({ commit }, { id, resource }) {
     return new Promise((resolve) => {
-      const unsubscribe = firebase
-        .firestore()
-        .collection(resource)
-        .doc(id)
-        .onSnapshot((doc) => {
-          const item = { ...doc.data(), id: doc.id };
-          commit("setItem", { resource, item });
-          resolve(item);
-        });
-      if (handleUnsubscribe) {
-        handleUnsubscribe(unsubscribe);
-      } else {
-        commit("appendUnsubscribe", { unsubscribe });
-      }
+      const docRef = firebase.firestore().collection(resource).doc(id);
+      const doc = docRef.get();
+      const item = { ...doc.data(), id: doc.id };
+      commit("setItem", { resource, item });
+      resolve(item);
+      commit("appendUnsubscribe", { docRef });
     });
   },
 
-  fetchAuthUser: ({ dispatch, commit }) => {
-    const userId = firebase.auth().currentUser?.uid;
-    if (!userId) return;
-    dispatch("fetchItem", {
-      emoji: "🙋",
-      resource: "users",
-      id: userId,
-      handleUnsubscribe: (unsubscribe) => {
-        commit("setAuthUserUnsubscribe", unsubscribe);
-      },
-    });
-    commit("setAuthId", userId);
-  },
-
-  fetchClan: ({ dispatch }, { id }) =>
-    dispatch("fetchItem", { resource: "clanes", id }),
-  fetchFaccion: ({ dispatch }, { id }) =>
-    dispatch("fetchItem", { resource: "facciones", id }),
-  fetchFecha: ({ dispatch }, { id }) =>
-    dispatch("fetchItem", { resource: "fechas", id }),
-  fetchMapa: ({ dispatch }, { id }) =>
-    dispatch("fetchItem", { resource: "mapas", id }),
-  fetchSoldado: ({ dispatch }, { id }) =>
-    dispatch("fetchItem", { resource: "soldados", id }),
-  fetchUser: ({ dispatch }, { id }) =>
-    dispatch("fetchItem", { resource: "users", id }),
-  fetchResultadoTabla: ({ dispatch }, { id }) =>
-    dispatch("fetchItem", { resource: "tablaResultados", id }),
-
-  // ---------------------------------------
-  // Fetch All of a Resource
-  // ---------------------------------------
   fetchAllItems({ commit }, collection) {
     return new Promise((resolve) => {
       firebase
         .firestore()
         .collection(collection)
-        .onSnapshot((querySnapshot) => {
+        .get()
+        .then((querySnapshot) => {
           const documents = querySnapshot.docs.map((doc) => {
             const item = { id: doc.id, ...doc.data() };
             commit("setItem", { resource: collection, item });
@@ -142,53 +126,6 @@ export default {
         });
     });
   },
-
-  // ---------------------------------------
-  // Fetch Multiple Resources
-  // ---------------------------------------
-  fetchItems: ({ dispatch }, { ids, resource }) =>
-    Promise.all(ids.map((id) => dispatch("fetchItem", { id, resource }))),
-
-  fetchRegimientos: ({ dispatch }, { ids }) =>
-    dispatch("fetchItems", { resource: "regimientos", ids }),
-  fetchFacciones: ({ dispatch }, { ids }) =>
-    dispatch("fetchItems", { resource: "facciones", ids }),
-  fetchFechas: ({ dispatch }, { ids }) =>
-    dispatch("fetchItems", { resource: "fechas", ids }),
-  fetchMapas: ({ dispatch }, { ids }) =>
-    dispatch("fetchItems", { resource: "mapas", ids }),
-  fetchSoldados: ({ dispatch }, { ids }) =>
-    dispatch("fetchItems", { resource: "soldados", ids }),
-  fetchResultadosTabla: ({ dispatch }, { ids }) =>
-    dispatch("fetchItems", { resource: "tablaResultados", ids }),
-
-  // fetchFactionSoldiers: (context, clanes) => {
-  //   clanes.forEach(async (clan) => {
-  //     const soldadosRef = firebase.firestore().collection("soldados");
-  //     const queryRef = soldadosRef.where("clan", "==", clan.id);
-  //     const soldados = await queryRef.get();
-
-  //     if (soldados.empty) {
-  //       console.log("No matching documents.");
-  //       return;
-  //     }
-  //     soldados.forEach((doc) => {
-  //       console.log(doc.id, "=>", doc.data());
-  //     });
-  //   });
-  // },
-
-  // ---------------------------------------
-  // Firebase listener management
-  // ---------------------------------------
-  async unsubscribeAllSnapshots({ state, commit }) {
-    state.unsubscribes.forEach((unsubscribe) => unsubscribe());
-    commit("clearAllUnsubscribes");
-  },
-  async unsubscribeAuthUserSnapshot({ state, commit }) {
-    if (state.authUserUnsubscribe) {
-      state.authUserUnsubscribe();
-      commit("setAuthUserUnsubscribe", null);
-    }
-  },
+  // fetchItems: ({ dispatch }, { ids, resource }) =>
+  //   Promise.all(ids.map((id) => dispatch("fetchItem", { id, resource }))),
 };
