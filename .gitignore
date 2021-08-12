@@ -2,6 +2,7 @@
 node_modules
 /dist
 
+serviceAccount*
 
 # local env files
 .env.local
