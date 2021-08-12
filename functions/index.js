@@ -18,11 +18,8 @@ exports.actualizarResultado = functions.firestore
 
     const mapasLocal = partidas.filter((p) => p.local === 6).length;
     const mapasVisita = partidas.filter((p) => p.visita === 6).length;
-    const rondasLocal = partidas.reduce((t, p) => t + p.local);
-    const rondasVisita = partidas.reduce((t, p) => t + p.visita);
-
-    console.log(rondasLocal.toString());
-    console.log(rondasVisita);
+    const rondasLocal = partidas.reduce((t, p) => t + Number(p.local), 0);
+    const rondasVisita = partidas.reduce((t, p) => t + Number(p.visita), 0);
 
     const db = admin.firestore();
     db.collection("resultados")

@@ -8,7 +8,10 @@
         <router-link
           v-for="encuentro in encuentros"
           :key="encuentro"
-          :to="{ name: 'Resultados' }"
+          :to="{
+            name: 'ResultadosDetalle',
+            params: { encuentroId: encuentro.numero },
+          }"
         >
           <div
             v-if="index + 1 === encuentro.fecha"

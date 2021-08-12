@@ -77,7 +77,7 @@ const routes = [
     meta: { toTop: true, smoothScroll: true, requiresAuth: true },
   },
   {
-    path: "/resultados/:resultadoId",
+    path: "/resultados/:encuentroId",
     name: "ResultadosDetalle",
     component: ResultadosDetalle,
     props: true,

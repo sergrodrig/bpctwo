@@ -1101,48 +1101,48 @@
     "4d1fe3a0-facc-11eb-a16a-c90f1f49537e": {
       "id": "4d1fe3a0-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
-        { "mapa": "", "urlFoto": "", "visita": 6, "local": 2 },
-        { "visita": 6, "urlFoto": "", "mapa": "", "local": 5 },
-        { "visita": 6, "local": 1, "mapa": "", "urlFoto": "" },
-        { "mapa": "", "local": 5, "visita": 6, "urlFoto": "" },
-        { "visita": 6, "local": 0, "mapa": "", "urlFoto": "" },
-        { "local": 0, "mapa": "", "urlFoto": "", "visita": 6 }
+        { "mapa": "Chesire Park", "urlFoto": "", "visita": 6, "local": 2 },
+        { "visita": 6, "urlFoto": "", "mapa": "Vacant", "local": 5 },
+        { "visita": 6, "local": 1, "mapa": "Scrapyard", "urlFoto": "" },
+        { "mapa": "Azhir Cave", "local": 5, "visita": 6, "urlFoto": "" },
+        { "visita": 6, "local": 0, "mapa": "Walkover", "urlFoto": "" },
+        { "local": 0, "mapa": "Walkover", "urlFoto": "", "visita": 6 }
       ],
       "encuentro": "1"
     },
     "4dd3f160-facc-11eb-a16a-c90f1f49537e": {
       "id": "4dd3f160-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
-        { "local": 6, "urlFoto": "", "mapa": "", "visita": 0 },
-        { "urlFoto": "", "mapa": "", "visita": 0, "local": 6 },
-        { "visita": 3, "urlFoto": "", "mapa": "", "local": 6 },
-        { "mapa": "", "local": 6, "urlFoto": "", "visita": 0 },
-        { "urlFoto": "", "mapa": "", "visita": 0, "local": 6 },
-        { "urlFoto": "", "mapa": "", "visita": 0, "local": 6 }
+        { "local": 6, "urlFoto": "", "mapa": "Vacant", "visita": 0 },
+        { "urlFoto": "", "mapa": "Talsik Backlot", "visita": 0, "local": 6 },
+        { "visita": 3, "urlFoto": "", "mapa": "Crash", "local": 6 },
+        { "mapa": "Hackney Yard", "local": 6, "urlFoto": "", "visita": 0 },
+        { "urlFoto": "", "mapa": "Walkover", "visita": 0, "local": 6 },
+        { "urlFoto": "", "mapa": "Walkover", "visita": 0, "local": 6 }
       ],
       "encuentro": "2"
     },
     "4dde9fc0-facc-11eb-a16a-c90f1f49537e": {
       "id": "4dde9fc0-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
-        { "local": 3, "urlFoto": "", "visita": 6, "mapa": "" },
-        { "local": 3, "urlFoto": "", "mapa": "", "visita": 6 },
-        { "urlFoto": "", "mapa": "", "local": 4, "visita": 6 },
-        { "visita": 6, "mapa": "", "urlFoto": "", "local": 4 },
-        { "mapa": "", "visita": 6, "urlFoto": "", "local": 5 },
-        { "visita": 6, "local": 0, "urlFoto": "", "mapa": "" }
+        { "local": 3, "urlFoto": "", "visita": 6, "mapa": "Crash" },
+        { "local": 3, "urlFoto": "", "mapa": "Chesire Park", "visita": 6 },
+        { "urlFoto": "", "mapa": "Scrapyard", "local": 4, "visita": 6 },
+        { "visita": 6, "mapa": "Grazna Raid", "urlFoto": "", "local": 4 },
+        { "mapa": "Vacant", "visita": 6, "urlFoto": "", "local": 5 },
+        { "visita": 6, "local": 0, "urlFoto": "", "mapa": "Walkover" }
       ],
       "encuentro": "3"
     },
     "4e105e20-facc-11eb-a16a-c90f1f49537e": {
       "id": "4e105e20-facc-11eb-a16a-c90f1f49537e",
       "partidas": [
-        { "visita": 5, "local": 6, "urlFoto": "", "mapa": "" },
-        { "visita": 6, "local": 1, "mapa": "", "urlFoto": "" },
-        { "visita": 6, "local": 3, "urlFoto": "", "mapa": "" },
-        { "visita": 6, "urlFoto": "", "local": 2, "mapa": "" },
-        { "mapa": "", "local": 0, "urlFoto": "", "visita": 6 },
-        { "visita": 6, "local": 0, "mapa": "", "urlFoto": "" }
+        { "visita": 5, "local": 6, "urlFoto": "", "mapa": "Gun Runner" },
+        { "visita": 6, "local": 1, "mapa": "Crash", "urlFoto": "" },
+        { "visita": 6, "local": 3, "urlFoto": "", "mapa": "Talsik Backlot" },
+        { "visita": 6, "urlFoto": "", "local": 2, "mapa": "Rammaza" },
+        { "mapa": "Vacant", "local": 0, "urlFoto": "", "visita": 6 },
+        { "visita": 6, "local": 0, "mapa": "Walkover", "urlFoto": "" }
       ],
       "encuentro": "4"
     },
