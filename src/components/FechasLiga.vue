@@ -43,16 +43,16 @@ export default {
   },
   methods: {
     nombreEquipo(id) {
-      const { name } = this.equipos.find((e) => {
-        e.id == id;
-      });
+      const { name } =
+        this.equipos.find((e) => {
+          e.id == id;
+        }) || {};
       return name;
       // return "";
     },
     resultadosDetalle(encuentroId) {
-      const resultados = this.resultados.find(
-        (r) => r.encuentro == encuentroId
-      );
+      const resultados =
+        this.resultados.find((r) => r.encuentro == encuentroId) || {};
       if (resultados) {
         return {
           local: resultados.mapasLocal || 0,

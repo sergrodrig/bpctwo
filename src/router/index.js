@@ -6,6 +6,7 @@ import store from "@/store";
 const Home = () => import("../views/Home.vue");
 const SignIn = () => import("../views/SignIn.vue");
 const SignUp = () => import("../views/SignUp.vue");
+const Admin = () => import("../views/Admin.vue");
 const Liga = () => import("../views/Liga.vue");
 const Equipos = () => import("../views/Equipos.vue");
 const Mapas = () => import("../views/Mapas.vue");
@@ -34,6 +35,12 @@ const routes = [
     meta: { toTop: true, smoothScroll: true },
   },
   {
+    path: "/admin",
+    name: "Admin",
+    component: Admin,
+    meta: { toTop: true, smoothScroll: true, requiresAuth: true },
+  },
+  {
     path: "/configuracionpartida",
     name: "ConfigurarPartida",
     component: ConfigurarPartida,
@@ -49,39 +56,39 @@ const routes = [
     path: "/liga",
     name: "Liga",
     component: Liga,
-    meta: { toTop: true, smoothScroll: true, requiresAuth: true },
+    meta: { toTop: true, smoothScroll: true },
   },
   {
     path: "/equipos",
     name: "Equipos",
     component: Equipos,
-    meta: { toTop: true, smoothScroll: true, requiresAuth: true },
+    meta: { toTop: true, smoothScroll: true },
   },
   {
     path: "/mapas",
     name: "Mapas",
     component: Mapas,
-    meta: { toTop: true, smoothScroll: true, requiresAuth: true },
+    meta: { toTop: true, smoothScroll: true },
   },
   {
     path: "/mapas/:mapaId",
     name: "MapaDetail",
     component: MapaDetail,
-    meta: { toTop: true, smoothScroll: true, requiresAuth: true },
+    meta: { toTop: true, smoothScroll: true },
     props: true,
   },
   {
     path: "/resultados",
     name: "Resultados",
     component: Resultados,
-    meta: { toTop: true, smoothScroll: true, requiresAuth: true },
+    meta: { toTop: true, smoothScroll: true },
   },
   {
     path: "/resultados/:encuentroId",
     name: "ResultadosDetalle",
     component: ResultadosDetalle,
     props: true,
-    meta: { toTop: true, smoothScroll: true, requiresAuth: true },
+    meta: { toTop: true, smoothScroll: true },
   },
 ];
 
@@ -96,15 +103,12 @@ const router = createRouter({
   },
 });
 
-router.beforeEach(async () => {
+router.beforeEach(async (to, from) => {
   await store.dispatch("initAuthentication");
   store.dispatch("unsubscribeAllSnapshots");
-  // if (to.meta.requiresAuth && !store.state.authId) {
-  //   return { name: "SignIn", query: { redirectTo: to.path } };
-  // }
-  // if (to.meta.requiresGuest && store.state.authId) {
-  //   return { name: "Home" };
-  // }
+  if (to.meta.requiresAuth && !store.state.authId) {
+    return { name: "SignIn", query: { redirectTo: to.path } };
+  }
 });
 
 export default router;

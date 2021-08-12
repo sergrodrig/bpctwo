@@ -4,7 +4,10 @@
     <div v-show="showPage">
       <router-view v-slot="{ Component }" @ready="onPageReady">
         <transition name="fade" mode="out-in">
-          <component :is="Component" :key="$route.path" />
+          <component
+            :is="Component"
+            :key="`${$route.path}${JSON.stringify($route.query)}`"
+          />
         </transition>
       </router-view>
     </div>

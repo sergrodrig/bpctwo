@@ -88,27 +88,25 @@ export default {
   computed: {
     ...mapState(["resultados", "encuentros", "equipos", "mapas"]),
     encuentroDetalle() {
-      const encuentro = this.encuentros.find(
-        (e) => e.numero == this.encuentroId
-      );
+      const encuentro =
+        this.encuentros.find((e) => e.numero == this.encuentroId) || {};
       return { ...encuentro };
     },
     resultadosDetalle() {
-      const resultados = this.resultados.find(
-        (r) => r.encuentro == this.encuentroId
-      );
+      const resultados =
+        this.resultados.find((r) => r.encuentro == this.encuentroId) || {};
       return { ...resultados };
     },
     equipoLocal() {
-      const equipo = this.equipos.find(
-        (e) => e.id === this.encuentroDetalle.local
-      );
+      if (!this.encuentroDetalle) return {};
+      const equipo =
+        this.equipos.find((e) => e.id === this.encuentroDetalle.local) || {};
       return { ...equipo };
     },
     equipoVisita() {
-      const equipo = this.equipos.find(
-        (e) => e.id === this.encuentroDetalle.visita
-      );
+      if (!this.encuentroDetalle) return {};
+      const equipo =
+        this.equipos.find((e) => e.id === this.encuentroDetalle.visita) || {};
       return { ...equipo };
     },
   },

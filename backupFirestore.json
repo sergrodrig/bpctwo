@@ -1,508 +1,28 @@
 {
-  "encuentros": {
-    "97bf4860-facc-11eb-827e-cffb00f230b3": {
-      "id": "97bf4860-facc-11eb-827e-cffb00f230b3",
-      "fecha": 1,
-      "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
-      "localNombre": "Wutang Lag",
-      "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-      "numero": 1,
-      "visitaNombre": "Disaster Groove"
+  "regimientos": {
+    "74340250-facc-11eb-b93a-757cb2c53e5c": {
+      "id": "74340250-facc-11eb-b93a-757cb2c53e5c",
+      "name": "FPMR."
     },
-    "9842d040-facc-11eb-827e-cffb00f230b3": {
-      "id": "9842d040-facc-11eb-827e-cffb00f230b3",
-      "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-      "numero": 2,
-      "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
-      "localNombre": "The ChupaHoyos",
-      "visitaNombre": "Mancoster United Reloaded",
-      "fecha": 1
+    "749ab360-facc-11eb-b93a-757cb2c53e5c": {
+      "id": "749ab360-facc-11eb-b93a-757cb2c53e5c",
+      "name": "BP.C"
     },
-    "984df3d0-facc-11eb-827e-cffb00f230b3": {
-      "id": "984df3d0-facc-11eb-827e-cffb00f230b3",
-      "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
-      "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
-      "fecha": 1,
-      "localNombre": "Zicariato de la Perra",
-      "numero": 3,
-      "visitaNombre": "Los del Gulag"
+    "74a53ab0-facc-11eb-b93a-757cb2c53e5c": {
+      "id": "74a53ab0-facc-11eb-b93a-757cb2c53e5c",
+      "name": "CRK"
     },
-    "988a87a0-facc-11eb-827e-cffb00f230b3": {
-      "id": "988a87a0-facc-11eb-827e-cffb00f230b3",
-      "localNombre": "Frozthound",
-      "visitaNombre": "Black Berets",
-      "fecha": 1,
-      "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-      "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-      "numero": 4
+    "74d3c4c0-facc-11eb-b93a-757cb2c53e5c": {
+      "id": "74d3c4c0-facc-11eb-b93a-757cb2c53e5c",
+      "name": "Sh369"
     },
-    "98953600-facc-11eb-827e-cffb00f230b3": {
-      "id": "98953600-facc-11eb-827e-cffb00f230b3",
-      "fecha": 2,
-      "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-      "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
-      "numero": 5,
-      "visitaNombre": "Frozthound",
-      "localNombre": "Los del Gulag"
+    "74dfaba0-facc-11eb-b93a-757cb2c53e5c": {
+      "id": "74dfaba0-facc-11eb-b93a-757cb2c53e5c",
+      "name": "SKF'"
     },
-    "98a98150-facc-11eb-827e-cffb00f230b3": {
-      "id": "98a98150-facc-11eb-827e-cffb00f230b3",
-      "numero": 6,
-      "localNombre": "Black Berets",
-      "fecha": 2,
-      "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-      "visitaNombre": "Wutang Lag",
-      "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "98b47dd0-facc-11eb-827e-cffb00f230b3": {
-      "id": "98b47dd0-facc-11eb-827e-cffb00f230b3",
-      "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
-      "numero": 7,
-      "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
-      "visitaNombre": "Zicariato de la Perra",
-      "fecha": 2,
-      "localNombre": "Mancoster United Reloaded"
-    },
-    "98bede10-facc-11eb-827e-cffb00f230b3": {
-      "id": "98bede10-facc-11eb-827e-cffb00f230b3",
-      "localNombre": "Disaster Groove",
-      "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-      "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-      "numero": 8,
-      "visitaNombre": "The ChupaHoyos",
-      "fecha": 2
-    },
-    "98cb1310-facc-11eb-827e-cffb00f230b3": {
-      "id": "98cb1310-facc-11eb-827e-cffb00f230b3",
-      "numero": 9,
-      "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-      "fecha": 3,
-      "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
-      "localNombre": "Frozthound",
-      "visitaNombre": "Mancoster United Reloaded"
-    },
-    "98d65db0-facc-11eb-827e-cffb00f230b3": {
-      "id": "98d65db0-facc-11eb-827e-cffb00f230b3",
-      "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
-      "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-      "localNombre": "Zicariato de la Perra",
-      "visitaNombre": "Disaster Groove",
-      "numero": 10,
-      "fecha": 3
-    },
-    "98e2e0d0-facc-11eb-827e-cffb00f230b3": {
-      "id": "98e2e0d0-facc-11eb-827e-cffb00f230b3",
-      "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
-      "fecha": 3,
-      "visitaNombre": "The ChupaHoyos",
-      "numero": 11,
-      "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-      "localNombre": "Wutang Lag"
-    },
-    "98ed4110-facc-11eb-827e-cffb00f230b3": {
-      "id": "98ed4110-facc-11eb-827e-cffb00f230b3",
-      "fecha": 3,
-      "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-      "numero": 12,
-      "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
-      "visitaNombre": "Los del Gulag",
-      "localNombre": "Black Berets"
-    },
-    "98f83d90-facc-11eb-827e-cffb00f230b3": {
-      "id": "98f83d90-facc-11eb-827e-cffb00f230b3",
-      "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-      "fecha": 4,
-      "visitaNombre": "Zicariato de la Perra",
-      "numero": 13,
-      "localNombre": "The ChupaHoyos",
-      "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "9902ebf0-facc-11eb-827e-cffb00f230b3": {
-      "id": "9902ebf0-facc-11eb-827e-cffb00f230b3",
-      "visitaNombre": "Black Berets",
-      "fecha": 4,
-      "numero": 14,
-      "localNombre": "Mancoster United Reloaded",
-      "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
-      "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0"
-    },
-    "990d7340-facc-11eb-827e-cffb00f230b3": {
-      "id": "990d7340-facc-11eb-827e-cffb00f230b3",
-      "visitaNombre": "Frozthound",
-      "localNombre": "Disaster Groove",
-      "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-      "fecha": 4,
-      "numero": 15,
-      "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "9917d380-facc-11eb-827e-cffb00f230b3": {
-      "id": "9917d380-facc-11eb-827e-cffb00f230b3",
-      "fecha": 4,
-      "localNombre": "Los del Gulag",
-      "numero": 16,
-      "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
-      "visitaNombre": "Wutang Lag",
-      "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "992233c0-facc-11eb-827e-cffb00f230b3": {
-      "id": "992233c0-facc-11eb-827e-cffb00f230b3",
-      "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
-      "numero": 17,
-      "fecha": 5,
-      "localNombre": "Los del Gulag",
-      "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
-      "visitaNombre": "Mancoster United Reloaded"
-    },
-    "992da570-facc-11eb-827e-cffb00f230b3": {
-      "id": "992da570-facc-11eb-827e-cffb00f230b3",
-      "fecha": 5,
-      "localNombre": "Frozthound",
-      "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-      "numero": 18,
-      "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-      "visitaNombre": "The ChupaHoyos"
-    },
-    "993bd640-facc-11eb-827e-cffb00f230b3": {
-      "id": "993bd640-facc-11eb-827e-cffb00f230b3",
-      "visitaNombre": "Disaster Groove",
-      "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-      "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-      "numero": 19,
-      "fecha": 5,
-      "localNombre": "Black Berets"
-    },
-    "994684a0-facc-11eb-827e-cffb00f230b3": {
-      "id": "994684a0-facc-11eb-827e-cffb00f230b3",
-      "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
-      "numero": 20,
-      "fecha": 5,
-      "visitaNombre": "Zicariato de la Perra",
-      "localNombre": "Wutang Lag",
-      "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "99513300-facc-11eb-827e-cffb00f230b3": {
-      "id": "99513300-facc-11eb-827e-cffb00f230b3",
-      "numero": 21,
-      "localNombre": "The ChupaHoyos",
-      "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-      "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-      "fecha": 6,
-      "visitaNombre": "Black Berets"
-    },
-    "995f15b0-facc-11eb-827e-cffb00f230b3": {
-      "id": "995f15b0-facc-11eb-827e-cffb00f230b3",
-      "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-      "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
-      "visitaNombre": "Los del Gulag",
-      "fecha": 6,
-      "numero": 22,
-      "localNombre": "Disaster Groove"
-    },
-    "996a1230-facc-11eb-827e-cffb00f230b3": {
-      "id": "996a1230-facc-11eb-827e-cffb00f230b3",
-      "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
-      "localNombre": "Mancoster United Reloaded",
-      "numero": 23,
-      "fecha": 6,
-      "visitaNombre": "Wutang Lag",
-      "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "99744b60-facc-11eb-827e-cffb00f230b3": {
-      "id": "99744b60-facc-11eb-827e-cffb00f230b3",
-      "fecha": 6,
-      "localNombre": "Zicariato de la Perra",
-      "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-      "visitaNombre": "Frozthound",
-      "numero": 24,
-      "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "997e8490-facc-11eb-827e-cffb00f230b3": {
-      "id": "997e8490-facc-11eb-827e-cffb00f230b3",
-      "fecha": 7,
-      "visitaNombre": "Zicariato de la Perra",
-      "numero": 25,
-      "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-      "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
-      "localNombre": "Black Berets"
-    },
-    "99890be0-facc-11eb-827e-cffb00f230b3": {
-      "id": "99890be0-facc-11eb-827e-cffb00f230b3",
-      "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
-      "localNombre": "Wutang Lag",
-      "fecha": 7,
-      "numero": 26,
-      "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-      "visitaNombre": "Frozthound"
-    },
-    "9994cbb0-facc-11eb-827e-cffb00f230b3": {
-      "id": "9994cbb0-facc-11eb-827e-cffb00f230b3",
-      "visitaNombre": "The ChupaHoyos",
-      "numero": 27,
-      "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
-      "localNombre": "Los del Gulag",
-      "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-      "fecha": 7
-    },
-    "999fa120-facc-11eb-827e-cffb00f230b3": {
-      "id": "999fa120-facc-11eb-827e-cffb00f230b3",
-      "fecha": 7,
-      "numero": 28,
-      "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-      "localNombre": "Mancoster United Reloaded",
-      "visitaNombre": "Disaster Groove",
-      "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "99aa4f80-facc-11eb-827e-cffb00f230b3": {
-      "id": "99aa4f80-facc-11eb-827e-cffb00f230b3",
-      "numero": 29,
-      "localNombre": "Disaster Groove",
-      "visitaNombre": "Wutang Lag",
-      "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-      "fecha": 8,
-      "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "99b6f9b0-facc-11eb-827e-cffb00f230b3": {
-      "id": "99b6f9b0-facc-11eb-827e-cffb00f230b3",
-      "localNombre": "Mancoster United Reloaded",
-      "visitaNombre": "The ChupaHoyos",
-      "fecha": 8,
-      "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-      "numero": 30,
-      "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "99c132e0-facc-11eb-827e-cffb00f230b3": {
-      "id": "99c132e0-facc-11eb-827e-cffb00f230b3",
-      "numero": 31,
-      "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
-      "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
-      "visitaNombre": "Zicariato de la Perra",
-      "localNombre": "Los del Gulag",
-      "fecha": 8
-    },
-    "99cc7d80-facc-11eb-827e-cffb00f230b3": {
-      "id": "99cc7d80-facc-11eb-827e-cffb00f230b3",
-      "localNombre": "Black Berets",
-      "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-      "fecha": 8,
-      "visitaNombre": "Frozthound",
-      "numero": 32,
-      "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0"
-    },
-    "99d900a0-facc-11eb-827e-cffb00f230b3": {
-      "id": "99d900a0-facc-11eb-827e-cffb00f230b3",
-      "localNombre": "Frozthound",
-      "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-      "numero": 33,
-      "visitaNombre": "Los del Gulag",
-      "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
-      "fecha": 9
-    },
-    "99e360e0-facc-11eb-827e-cffb00f230b3": {
-      "id": "99e360e0-facc-11eb-827e-cffb00f230b3",
-      "numero": 34,
-      "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-      "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
-      "fecha": 9,
-      "localNombre": "Wutang Lag",
-      "visitaNombre": "Black Berets"
-    },
-    "99ed9a10-facc-11eb-827e-cffb00f230b3": {
-      "id": "99ed9a10-facc-11eb-827e-cffb00f230b3",
-      "fecha": 9,
-      "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
-      "numero": 35,
-      "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
-      "localNombre": "Zicariato de la Perra",
-      "visitaNombre": "Mancoster United Reloaded"
-    },
-    "99f9cf10-facc-11eb-827e-cffb00f230b3": {
-      "id": "99f9cf10-facc-11eb-827e-cffb00f230b3",
-      "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-      "localNombre": "The ChupaHoyos",
-      "fecha": 9,
-      "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-      "visitaNombre": "Disaster Groove",
-      "numero": 36
-    },
-    "9a040840-facc-11eb-827e-cffb00f230b3": {
-      "id": "9a040840-facc-11eb-827e-cffb00f230b3",
-      "numero": 37,
-      "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
-      "visitaNombre": "Frozthound",
-      "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-      "localNombre": "Mancoster United Reloaded",
-      "fecha": 10
-    },
-    "9a0eb6a0-facc-11eb-827e-cffb00f230b3": {
-      "id": "9a0eb6a0-facc-11eb-827e-cffb00f230b3",
-      "localNombre": "Disaster Groove",
-      "fecha": 10,
-      "visitaNombre": "Zicariato de la Perra",
-      "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
-      "numero": 38,
-      "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "9a1a4f60-facc-11eb-827e-cffb00f230b3": {
-      "id": "9a1a4f60-facc-11eb-827e-cffb00f230b3",
-      "visitaNombre": "Wutang Lag",
-      "fecha": 10,
-      "numero": 39,
-      "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-      "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
-      "localNombre": "The ChupaHoyos"
-    },
-    "9a2572f0-facc-11eb-827e-cffb00f230b3": {
-      "id": "9a2572f0-facc-11eb-827e-cffb00f230b3",
-      "numero": 40,
-      "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-      "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
-      "visitaNombre": "Black Berets",
-      "fecha": 10,
-      "localNombre": "Los del Gulag"
-    },
-    "9a2f8510-facc-11eb-827e-cffb00f230b3": {
-      "id": "9a2f8510-facc-11eb-827e-cffb00f230b3",
-      "localNombre": "Zicariato de la Perra",
-      "fecha": 11,
-      "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-      "visitaNombre": "The ChupaHoyos",
-      "numero": 41,
-      "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "9a39e550-facc-11eb-827e-cffb00f230b3": {
-      "id": "9a39e550-facc-11eb-827e-cffb00f230b3",
-      "localNombre": "Black Berets",
-      "fecha": 11,
-      "visitaNombre": "Mancoster United Reloaded",
-      "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-      "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
-      "numero": 42
-    },
-    "9a44e1d0-facc-11eb-827e-cffb00f230b3": {
-      "id": "9a44e1d0-facc-11eb-827e-cffb00f230b3",
-      "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-      "numero": 43,
-      "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-      "localNombre": "Frozthound",
-      "visitaNombre": "Disaster Groove",
-      "fecha": 11
-    },
-    "9a4f6920-facc-11eb-827e-cffb00f230b3": {
-      "id": "9a4f6920-facc-11eb-827e-cffb00f230b3",
-      "localNombre": "Wutang Lag",
-      "visitaNombre": "Los del Gulag",
-      "fecha": 11,
-      "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
-      "numero": 44,
-      "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "9a5de810-facc-11eb-827e-cffb00f230b3": {
-      "id": "9a5de810-facc-11eb-827e-cffb00f230b3",
-      "localNombre": "Mancoster United Reloaded",
-      "visitaNombre": "Los del Gulag",
-      "numero": 45,
-      "fecha": 12,
-      "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
-      "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "9a684850-facc-11eb-827e-cffb00f230b3": {
-      "id": "9a684850-facc-11eb-827e-cffb00f230b3",
-      "localNombre": "The ChupaHoyos",
-      "visitaNombre": "Frozthound",
-      "numero": 46,
-      "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-      "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-      "fecha": 12
-    },
-    "9a725a70-facc-11eb-827e-cffb00f230b3": {
-      "id": "9a725a70-facc-11eb-827e-cffb00f230b3",
-      "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-      "localNombre": "Disaster Groove",
-      "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-      "numero": 47,
-      "visitaNombre": "Black Berets",
-      "fecha": 12
-    },
-    "9a7c93a0-facc-11eb-827e-cffb00f230b3": {
-      "id": "9a7c93a0-facc-11eb-827e-cffb00f230b3",
-      "fecha": 12,
-      "localNombre": "Zicariato de la Perra",
-      "visitaNombre": "Wutang Lag",
-      "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
-      "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
-      "numero": 48
-    },
-    "9a8657a0-facc-11eb-827e-cffb00f230b3": {
-      "id": "9a8657a0-facc-11eb-827e-cffb00f230b3",
-      "localNombre": "Black Berets",
-      "fecha": 13,
-      "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-      "numero": 49,
-      "visitaNombre": "The ChupaHoyos",
-      "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0"
-    },
-    "9a91a240-facc-11eb-827e-cffb00f230b3": {
-      "id": "9a91a240-facc-11eb-827e-cffb00f230b3",
-      "fecha": 13,
-      "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
-      "visitaNombre": "Disaster Groove",
-      "numero": 50,
-      "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-      "localNombre": "Los del Gulag"
-    },
-    "9a9bdb70-facc-11eb-827e-cffb00f230b3": {
-      "id": "9a9bdb70-facc-11eb-827e-cffb00f230b3",
-      "fecha": 13,
-      "numero": 51,
-      "localNombre": "Wutang Lag",
-      "visitaNombre": "Mancoster United Reloaded",
-      "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
-      "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "9aa689d0-facc-11eb-827e-cffb00f230b3": {
-      "id": "9aa689d0-facc-11eb-827e-cffb00f230b3",
-      "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
-      "fecha": 13,
-      "visitaNombre": "Zicariato de la Perra",
-      "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-      "numero": 52,
-      "localNombre": "Frozthound"
-    },
-    "9ab1d470-facc-11eb-827e-cffb00f230b3": {
-      "id": "9ab1d470-facc-11eb-827e-cffb00f230b3",
-      "numero": 53,
-      "fecha": 14,
-      "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-      "localNombre": "Zicariato de la Perra",
-      "visitaNombre": "Black Berets",
-      "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "9abc34b0-facc-11eb-827e-cffb00f230b3": {
-      "id": "9abc34b0-facc-11eb-827e-cffb00f230b3",
-      "numero": 54,
-      "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
-      "fecha": 14,
-      "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-      "localNombre": "Frozthound",
-      "visitaNombre": "Wutang Lag"
-    },
-    "9ac75840-facc-11eb-827e-cffb00f230b3": {
-      "id": "9ac75840-facc-11eb-827e-cffb00f230b3",
-      "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
-      "localNombre": "The ChupaHoyos",
-      "numero": 55,
-      "fecha": 14,
-      "visitaNombre": "Los del Gulag",
-      "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "9ad16a60-facc-11eb-827e-cffb00f230b3": {
-      "id": "9ad16a60-facc-11eb-827e-cffb00f230b3",
-      "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
-      "localNombre": "Disaster Groove",
-      "numero": 56,
-      "visitaNombre": "Mancoster United Reloaded",
-      "fecha": 14,
-      "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0"
+    "74f1fb20-facc-11eb-b93a-757cb2c53e5c": {
+      "id": "74f1fb20-facc-11eb-b93a-757cb2c53e5c",
+      "name": "P31M"
     }
   },
   "equipos": {
@@ -561,6 +81,362 @@
       "name": "Wu Tang Lag",
       "captain": "4b983460-f5f9-11eb-8c94-7b0e7f612e65",
       "initials": "WTL"
+    }
+  },
+  "soldados": {
+    "3f6d4680-f5f9-11eb-8c94-7b0e7f612e65": {
+      "equipo": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "id": "3f6d4680-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Chernobyl",
+      "regimiento": "749ab360-facc-11eb-b93a-757cb2c53e5c"
+    },
+    "402ee8d0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "Dr Elvis Tec",
+      "regimiento": "749ab360-facc-11eb-b93a-757cb2c53e5c",
+      "id": "402ee8d0-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "95c6d030-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "405d72e0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "405d72e0-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "MalditoRenacuajo",
+      "regimiento": "749ab360-facc-11eb-b93a-757cb2c53e5c",
+      "equipo": "95c6d030-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "40cb28d0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "40cb28d0-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": "749ab360-facc-11eb-b93a-757cb2c53e5c",
+      "nick": "EljefeReyes",
+      "capitan": false
+    },
+    "40f06410-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "40f06410-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null,
+      "nick": "Sheshe"
+    },
+    "415bf720-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "415bf720-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Batman",
+      "regimiento": null,
+      "equipo": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "4198b200-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "4198b200-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Anfeta",
+      "regimiento": null,
+      "capitan": false
+    },
+    "41edd6e0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "Mclovin",
+      "regimiento": null,
+      "id": "41edd6e0-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "4241c340-f5f9-11eb-8c94-7b0e7f612e65": {
+      "regimiento": null,
+      "id": "4241c340-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Zeke"
+    },
+    "42824eb0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "equipo": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Reaper",
+      "regimiento": null,
+      "id": "42824eb0-f5f9-11eb-8c94-7b0e7f612e65"
+    },
+    "42d50290-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "42d50290-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Huevito Principe",
+      "regimiento": null,
+      "capitan": true
+    },
+    "43169f70-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "Lexz",
+      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "id": "43169f70-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null
+    },
+    "4389fab0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "Hartaban",
+      "id": "4389fab0-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null
+    },
+    "43b8d2e0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "regimiento": null,
+      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "GodPeluka",
+      "id": "43b8d2e0-f5f9-11eb-8c94-7b0e7f612e65"
+    },
+    "441ee7b0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "regimiento": null,
+      "id": "441ee7b0-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "DonBasto"
+    },
+    "4454ebd0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "4454ebd0-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Vato",
+      "regimiento": null,
+      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "44c27ab0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null,
+      "id": "44c27ab0-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Laycan"
+    },
+    "44f12bd0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "regimiento": null,
+      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Sato",
+      "id": "44f12bd0-f5f9-11eb-8c94-7b0e7f612e65"
+    },
+    "4554a890-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "Dj Silverio",
+      "id": "4554a890-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": false
+    },
+    "458d44c0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null,
+      "nick": "Napo",
+      "id": "458d44c0-f5f9-11eb-8c94-7b0e7f612e65"
+    },
+    "45cbfb70-f5f9-11eb-8c94-7b0e7f612e65": {
+      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null,
+      "id": "45cbfb70-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "W4rlord"
+    },
+    "460a3cf0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "460a3cf0-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Sheep1",
+      "regimiento": null,
+      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "46393c30-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "46393c30-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null,
+      "nick": "yayan"
+    },
+    "46683b70-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "ChinoTuerto",
+      "id": "46683b70-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "equipo": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": true
+    },
+    "4696ec90-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "4696ec90-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Wuayo",
+      "regimiento": null
+    },
+    "46b7bb00-f5f9-11eb-8c94-7b0e7f612e65": {
+      "equipo": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "id": "46b7bb00-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Mleal",
+      "regimiento": null
+    },
+    "47939c10-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "NaxoUC",
+      "regimiento": null,
+      "equipo": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "id": "47939c10-f5f9-11eb-8c94-7b0e7f612e65"
+    },
+    "47c1ff10-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "47c1ff10-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Jpablo",
+      "regimiento": null,
+      "equipo": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "capitan": false
+    },
+    "483de5d0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "Leyzhar",
+      "regimiento": null,
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "id": "483de5d0-f5f9-11eb-8c94-7b0e7f612e65",
+      "capitan": true
+    },
+    "487b3cf0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "TheBlack",
+      "id": "487b3cf0-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "48e856a0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "48e856a0-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "NessO"
+    },
+    "4911feb0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null,
+      "nick": "Figo",
+      "id": "4911feb0-f5f9-11eb-8c94-7b0e7f612e65",
+      "capitan": false
+    },
+    "498532e0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "498532e0-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Gualala",
+      "regimiento": null
+    },
+    "4a1a6e00-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "Herca",
+      "id": "4a1a6e00-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "4a4ffcf0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "4a4ffcf0-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Kuro",
+      "regimiento": null,
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "4acd1c30-f5f9-11eb-8c94-7b0e7f612e65": {
+      "regimiento": null,
+      "id": "4acd1c30-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Kenshin",
+      "capitan": false
+    },
+    "4afc1b70-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "4afc1b70-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "nick": "Dante",
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "4b5f7120-f5f9-11eb-8c94-7b0e7f612e65": {
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "RonConShela",
+      "id": "4b5f7120-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "capitan": false
+    },
+    "4b983460-f5f9-11eb-8c94-7b0e7f612e65": {
+      "regimiento": null,
+      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Cocolisovandame",
+      "id": "4b983460-f5f9-11eb-8c94-7b0e7f612e65"
+    },
+    "4c061160-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "Ragnarok",
+      "regimiento": null,
+      "id": "4c061160-f5f9-11eb-8c94-7b0e7f612e65",
+      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "4c46eaf0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "nick": "Nicopro",
+      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null,
+      "id": "4c46eaf0-f5f9-11eb-8c94-7b0e7f612e65",
+      "capitan": false
+    },
+    "4c981830-f5f9-11eb-8c94-7b0e7f612e65": {
+      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "id": "4c981830-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "nick": "Jacontr"
+    },
+    "4cd74410-f5f9-11eb-8c94-7b0e7f612e65": {
+      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "regimiento": null,
+      "id": "4cd74410-f5f9-11eb-8c94-7b0e7f612e65",
+      "nick": "Franciscoaguayo"
+    },
+    "4d29d0e0-f5f9-11eb-8c94-7b0e7f612e65": {
+      "id": "4d29d0e0-f5f9-11eb-8c94-7b0e7f612e65",
+      "regimiento": null,
+      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "nick": "Tezzeret",
+      "capitan": false
+    },
+    "7866b540-f647-11eb-a77f-f56ba64fd3a0": {
+      "id": "7866b540-f647-11eb-a77f-f56ba64fd3a0",
+      "regimiento": null,
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Lamoni",
+      "capitan": false
+    },
+    "7943a7c0-f647-11eb-a77f-f56ba64fd3a0": {
+      "nick": "Rockman",
+      "regimiento": null,
+      "id": "7943a7c0-f647-11eb-a77f-f56ba64fd3a0",
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0"
+    },
+    "79708420-f647-11eb-a77f-f56ba64fd3a0": {
+      "id": "79708420-f647-11eb-a77f-f56ba64fd3a0",
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Hexen",
+      "regimiento": null,
+      "capitan": false
+    },
+    "79ddebf0-f647-11eb-a77f-f56ba64fd3a0": {
+      "id": "79ddebf0-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Sebastianh1",
+      "regimiento": null,
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0"
+    },
+    "7a0cc420-f647-11eb-a77f-f56ba64fd3a0": {
+      "id": "7a0cc420-f647-11eb-a77f-f56ba64fd3a0",
+      "regimiento": null,
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Joakosino",
+      "capitan": false
+    },
+    "7a7a7a10-f647-11eb-a77f-f56ba64fd3a0": {
+      "nick": "Apex",
+      "id": "7a7a7a10-f647-11eb-a77f-f56ba64fd3a0",
+      "regimiento": null,
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false
+    },
+    "7aa95240-f647-11eb-a77f-f56ba64fd3a0": {
+      "regimiento": null,
+      "nick": "Basti",
+      "id": "7aa95240-f647-11eb-a77f-f56ba64fd3a0",
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0"
+    },
+    "7b197930-f647-11eb-a77f-f56ba64fd3a0": {
+      "id": "7b197930-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Monoh",
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "regimiento": null
+    },
+    "7b3bf550-f647-11eb-a77f-f56ba64fd3a0": {
+      "id": "7b3bf550-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Xispa",
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "regimiento": null
+    },
+    "7bb91490-f647-11eb-a77f-f56ba64fd3a0": {
+      "id": "7bb91490-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "CaigPala",
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "regimiento": null
+    },
+    "7c44b2c0-f647-11eb-a77f-f56ba64fd3a0": {
+      "nick": "Winchi*",
+      "regimiento": null,
+      "id": "7c44b2c0-f647-11eb-a77f-f56ba64fd3a0",
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "capitan": false
+    },
+    "7c699fe0-f647-11eb-a77f-f56ba64fd3a0": {
+      "id": "7c699fe0-f647-11eb-a77f-f56ba64fd3a0",
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "nick": "Anger*",
+      "regimiento": null,
+      "capitan": false
     }
   },
   "mapas": {
@@ -1071,30 +947,510 @@
       "description": ""
     }
   },
-  "regimientos": {
-    "74340250-facc-11eb-b93a-757cb2c53e5c": {
-      "id": "74340250-facc-11eb-b93a-757cb2c53e5c",
-      "name": "FPMR."
+  "encuentros": {
+    "97bf4860-facc-11eb-827e-cffb00f230b3": {
+      "id": "97bf4860-facc-11eb-827e-cffb00f230b3",
+      "fecha": 1,
+      "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Wutang Lag",
+      "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 1,
+      "visitaNombre": "Disaster Groove"
     },
-    "749ab360-facc-11eb-b93a-757cb2c53e5c": {
-      "id": "749ab360-facc-11eb-b93a-757cb2c53e5c",
-      "name": "BP.C"
+    "9842d040-facc-11eb-827e-cffb00f230b3": {
+      "id": "9842d040-facc-11eb-827e-cffb00f230b3",
+      "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 2,
+      "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "The ChupaHoyos",
+      "visitaNombre": "Mancoster United Reloaded",
+      "fecha": 1
     },
-    "74a53ab0-facc-11eb-b93a-757cb2c53e5c": {
-      "id": "74a53ab0-facc-11eb-b93a-757cb2c53e5c",
-      "name": "CRK"
+    "984df3d0-facc-11eb-827e-cffb00f230b3": {
+      "id": "984df3d0-facc-11eb-827e-cffb00f230b3",
+      "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 1,
+      "localNombre": "Zicariato de la Perra",
+      "numero": 3,
+      "visitaNombre": "Los del Gulag"
     },
-    "74d3c4c0-facc-11eb-b93a-757cb2c53e5c": {
-      "id": "74d3c4c0-facc-11eb-b93a-757cb2c53e5c",
-      "name": "Sh369"
+    "988a87a0-facc-11eb-827e-cffb00f230b3": {
+      "id": "988a87a0-facc-11eb-827e-cffb00f230b3",
+      "localNombre": "Frozthound",
+      "visitaNombre": "Black Berets",
+      "fecha": 1,
+      "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "numero": 4
     },
-    "74dfaba0-facc-11eb-b93a-757cb2c53e5c": {
-      "id": "74dfaba0-facc-11eb-b93a-757cb2c53e5c",
-      "name": "SKF'"
+    "98953600-facc-11eb-827e-cffb00f230b3": {
+      "id": "98953600-facc-11eb-827e-cffb00f230b3",
+      "fecha": 2,
+      "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 5,
+      "visitaNombre": "Frozthound",
+      "localNombre": "Los del Gulag"
     },
-    "74f1fb20-facc-11eb-b93a-757cb2c53e5c": {
-      "id": "74f1fb20-facc-11eb-b93a-757cb2c53e5c",
-      "name": "P31M"
+    "98a98150-facc-11eb-827e-cffb00f230b3": {
+      "id": "98a98150-facc-11eb-827e-cffb00f230b3",
+      "numero": 6,
+      "localNombre": "Black Berets",
+      "fecha": 2,
+      "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "visitaNombre": "Wutang Lag",
+      "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "98b47dd0-facc-11eb-827e-cffb00f230b3": {
+      "id": "98b47dd0-facc-11eb-827e-cffb00f230b3",
+      "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 7,
+      "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "Zicariato de la Perra",
+      "fecha": 2,
+      "localNombre": "Mancoster United Reloaded"
+    },
+    "98bede10-facc-11eb-827e-cffb00f230b3": {
+      "id": "98bede10-facc-11eb-827e-cffb00f230b3",
+      "localNombre": "Disaster Groove",
+      "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 8,
+      "visitaNombre": "The ChupaHoyos",
+      "fecha": 2
+    },
+    "98cb1310-facc-11eb-827e-cffb00f230b3": {
+      "id": "98cb1310-facc-11eb-827e-cffb00f230b3",
+      "numero": 9,
+      "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 3,
+      "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Frozthound",
+      "visitaNombre": "Mancoster United Reloaded"
+    },
+    "98d65db0-facc-11eb-827e-cffb00f230b3": {
+      "id": "98d65db0-facc-11eb-827e-cffb00f230b3",
+      "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Zicariato de la Perra",
+      "visitaNombre": "Disaster Groove",
+      "numero": 10,
+      "fecha": 3
+    },
+    "98e2e0d0-facc-11eb-827e-cffb00f230b3": {
+      "id": "98e2e0d0-facc-11eb-827e-cffb00f230b3",
+      "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 3,
+      "visitaNombre": "The ChupaHoyos",
+      "numero": 11,
+      "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Wutang Lag"
+    },
+    "98ed4110-facc-11eb-827e-cffb00f230b3": {
+      "id": "98ed4110-facc-11eb-827e-cffb00f230b3",
+      "fecha": 3,
+      "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "numero": 12,
+      "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "Los del Gulag",
+      "localNombre": "Black Berets"
+    },
+    "98f83d90-facc-11eb-827e-cffb00f230b3": {
+      "id": "98f83d90-facc-11eb-827e-cffb00f230b3",
+      "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 4,
+      "visitaNombre": "Zicariato de la Perra",
+      "numero": 13,
+      "localNombre": "The ChupaHoyos",
+      "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "9902ebf0-facc-11eb-827e-cffb00f230b3": {
+      "id": "9902ebf0-facc-11eb-827e-cffb00f230b3",
+      "visitaNombre": "Black Berets",
+      "fecha": 4,
+      "numero": 14,
+      "localNombre": "Mancoster United Reloaded",
+      "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0"
+    },
+    "990d7340-facc-11eb-827e-cffb00f230b3": {
+      "id": "990d7340-facc-11eb-827e-cffb00f230b3",
+      "visitaNombre": "Frozthound",
+      "localNombre": "Disaster Groove",
+      "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 4,
+      "numero": 15,
+      "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "9917d380-facc-11eb-827e-cffb00f230b3": {
+      "id": "9917d380-facc-11eb-827e-cffb00f230b3",
+      "fecha": 4,
+      "localNombre": "Los del Gulag",
+      "numero": 16,
+      "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "Wutang Lag",
+      "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "992233c0-facc-11eb-827e-cffb00f230b3": {
+      "id": "992233c0-facc-11eb-827e-cffb00f230b3",
+      "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 17,
+      "fecha": 5,
+      "localNombre": "Los del Gulag",
+      "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "Mancoster United Reloaded"
+    },
+    "992da570-facc-11eb-827e-cffb00f230b3": {
+      "id": "992da570-facc-11eb-827e-cffb00f230b3",
+      "fecha": 5,
+      "localNombre": "Frozthound",
+      "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 18,
+      "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "The ChupaHoyos"
+    },
+    "993bd640-facc-11eb-827e-cffb00f230b3": {
+      "id": "993bd640-facc-11eb-827e-cffb00f230b3",
+      "visitaNombre": "Disaster Groove",
+      "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 19,
+      "fecha": 5,
+      "localNombre": "Black Berets"
+    },
+    "994684a0-facc-11eb-827e-cffb00f230b3": {
+      "id": "994684a0-facc-11eb-827e-cffb00f230b3",
+      "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 20,
+      "fecha": 5,
+      "visitaNombre": "Zicariato de la Perra",
+      "localNombre": "Wutang Lag",
+      "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "99513300-facc-11eb-827e-cffb00f230b3": {
+      "id": "99513300-facc-11eb-827e-cffb00f230b3",
+      "numero": 21,
+      "localNombre": "The ChupaHoyos",
+      "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "fecha": 6,
+      "visitaNombre": "Black Berets"
+    },
+    "995f15b0-facc-11eb-827e-cffb00f230b3": {
+      "id": "995f15b0-facc-11eb-827e-cffb00f230b3",
+      "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "Los del Gulag",
+      "fecha": 6,
+      "numero": 22,
+      "localNombre": "Disaster Groove"
+    },
+    "996a1230-facc-11eb-827e-cffb00f230b3": {
+      "id": "996a1230-facc-11eb-827e-cffb00f230b3",
+      "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Mancoster United Reloaded",
+      "numero": 23,
+      "fecha": 6,
+      "visitaNombre": "Wutang Lag",
+      "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "99744b60-facc-11eb-827e-cffb00f230b3": {
+      "id": "99744b60-facc-11eb-827e-cffb00f230b3",
+      "fecha": 6,
+      "localNombre": "Zicariato de la Perra",
+      "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "Frozthound",
+      "numero": 24,
+      "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "997e8490-facc-11eb-827e-cffb00f230b3": {
+      "id": "997e8490-facc-11eb-827e-cffb00f230b3",
+      "fecha": 7,
+      "visitaNombre": "Zicariato de la Perra",
+      "numero": 25,
+      "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Black Berets"
+    },
+    "99890be0-facc-11eb-827e-cffb00f230b3": {
+      "id": "99890be0-facc-11eb-827e-cffb00f230b3",
+      "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Wutang Lag",
+      "fecha": 7,
+      "numero": 26,
+      "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "Frozthound"
+    },
+    "9994cbb0-facc-11eb-827e-cffb00f230b3": {
+      "id": "9994cbb0-facc-11eb-827e-cffb00f230b3",
+      "visitaNombre": "The ChupaHoyos",
+      "numero": 27,
+      "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Los del Gulag",
+      "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 7
+    },
+    "999fa120-facc-11eb-827e-cffb00f230b3": {
+      "id": "999fa120-facc-11eb-827e-cffb00f230b3",
+      "fecha": 7,
+      "numero": 28,
+      "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Mancoster United Reloaded",
+      "visitaNombre": "Disaster Groove",
+      "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "99aa4f80-facc-11eb-827e-cffb00f230b3": {
+      "id": "99aa4f80-facc-11eb-827e-cffb00f230b3",
+      "numero": 29,
+      "localNombre": "Disaster Groove",
+      "visitaNombre": "Wutang Lag",
+      "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 8,
+      "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "99b6f9b0-facc-11eb-827e-cffb00f230b3": {
+      "id": "99b6f9b0-facc-11eb-827e-cffb00f230b3",
+      "localNombre": "Mancoster United Reloaded",
+      "visitaNombre": "The ChupaHoyos",
+      "fecha": 8,
+      "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 30,
+      "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "99c132e0-facc-11eb-827e-cffb00f230b3": {
+      "id": "99c132e0-facc-11eb-827e-cffb00f230b3",
+      "numero": 31,
+      "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "Zicariato de la Perra",
+      "localNombre": "Los del Gulag",
+      "fecha": 8
+    },
+    "99cc7d80-facc-11eb-827e-cffb00f230b3": {
+      "id": "99cc7d80-facc-11eb-827e-cffb00f230b3",
+      "localNombre": "Black Berets",
+      "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 8,
+      "visitaNombre": "Frozthound",
+      "numero": 32,
+      "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0"
+    },
+    "99d900a0-facc-11eb-827e-cffb00f230b3": {
+      "id": "99d900a0-facc-11eb-827e-cffb00f230b3",
+      "localNombre": "Frozthound",
+      "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 33,
+      "visitaNombre": "Los del Gulag",
+      "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 9
+    },
+    "99e360e0-facc-11eb-827e-cffb00f230b3": {
+      "id": "99e360e0-facc-11eb-827e-cffb00f230b3",
+      "numero": 34,
+      "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 9,
+      "localNombre": "Wutang Lag",
+      "visitaNombre": "Black Berets"
+    },
+    "99ed9a10-facc-11eb-827e-cffb00f230b3": {
+      "id": "99ed9a10-facc-11eb-827e-cffb00f230b3",
+      "fecha": 9,
+      "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 35,
+      "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Zicariato de la Perra",
+      "visitaNombre": "Mancoster United Reloaded"
+    },
+    "99f9cf10-facc-11eb-827e-cffb00f230b3": {
+      "id": "99f9cf10-facc-11eb-827e-cffb00f230b3",
+      "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "The ChupaHoyos",
+      "fecha": 9,
+      "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "Disaster Groove",
+      "numero": 36
+    },
+    "9a040840-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a040840-facc-11eb-827e-cffb00f230b3",
+      "numero": 37,
+      "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "Frozthound",
+      "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Mancoster United Reloaded",
+      "fecha": 10
+    },
+    "9a0eb6a0-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a0eb6a0-facc-11eb-827e-cffb00f230b3",
+      "localNombre": "Disaster Groove",
+      "fecha": 10,
+      "visitaNombre": "Zicariato de la Perra",
+      "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 38,
+      "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "9a1a4f60-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a1a4f60-facc-11eb-827e-cffb00f230b3",
+      "visitaNombre": "Wutang Lag",
+      "fecha": 10,
+      "numero": 39,
+      "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "The ChupaHoyos"
+    },
+    "9a2572f0-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a2572f0-facc-11eb-827e-cffb00f230b3",
+      "numero": 40,
+      "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "Black Berets",
+      "fecha": 10,
+      "localNombre": "Los del Gulag"
+    },
+    "9a2f8510-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a2f8510-facc-11eb-827e-cffb00f230b3",
+      "localNombre": "Zicariato de la Perra",
+      "fecha": 11,
+      "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "The ChupaHoyos",
+      "numero": 41,
+      "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "9a39e550-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a39e550-facc-11eb-827e-cffb00f230b3",
+      "localNombre": "Black Berets",
+      "fecha": 11,
+      "visitaNombre": "Mancoster United Reloaded",
+      "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 42
+    },
+    "9a44e1d0-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a44e1d0-facc-11eb-827e-cffb00f230b3",
+      "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 43,
+      "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Frozthound",
+      "visitaNombre": "Disaster Groove",
+      "fecha": 11
+    },
+    "9a4f6920-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a4f6920-facc-11eb-827e-cffb00f230b3",
+      "localNombre": "Wutang Lag",
+      "visitaNombre": "Los del Gulag",
+      "fecha": 11,
+      "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 44,
+      "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "9a5de810-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a5de810-facc-11eb-827e-cffb00f230b3",
+      "localNombre": "Mancoster United Reloaded",
+      "visitaNombre": "Los del Gulag",
+      "numero": 45,
+      "fecha": 12,
+      "local": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "9a684850-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a684850-facc-11eb-827e-cffb00f230b3",
+      "localNombre": "The ChupaHoyos",
+      "visitaNombre": "Frozthound",
+      "numero": 46,
+      "visita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 12
+    },
+    "9a725a70-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a725a70-facc-11eb-827e-cffb00f230b3",
+      "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Disaster Groove",
+      "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "numero": 47,
+      "visitaNombre": "Black Berets",
+      "fecha": 12
+    },
+    "9a7c93a0-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a7c93a0-facc-11eb-827e-cffb00f230b3",
+      "fecha": 12,
+      "localNombre": "Zicariato de la Perra",
+      "visitaNombre": "Wutang Lag",
+      "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 48
+    },
+    "9a8657a0-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a8657a0-facc-11eb-827e-cffb00f230b3",
+      "localNombre": "Black Berets",
+      "fecha": 13,
+      "visita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 49,
+      "visitaNombre": "The ChupaHoyos",
+      "local": "787d7190-f647-11eb-a77f-f56ba64fd3a0"
+    },
+    "9a91a240-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a91a240-facc-11eb-827e-cffb00f230b3",
+      "fecha": 13,
+      "local": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "visitaNombre": "Disaster Groove",
+      "numero": 50,
+      "visita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Los del Gulag"
+    },
+    "9a9bdb70-facc-11eb-827e-cffb00f230b3": {
+      "id": "9a9bdb70-facc-11eb-827e-cffb00f230b3",
+      "fecha": 13,
+      "numero": 51,
+      "localNombre": "Wutang Lag",
+      "visitaNombre": "Mancoster United Reloaded",
+      "local": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "9aa689d0-facc-11eb-827e-cffb00f230b3": {
+      "id": "9aa689d0-facc-11eb-827e-cffb00f230b3",
+      "visita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 13,
+      "visitaNombre": "Zicariato de la Perra",
+      "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "numero": 52,
+      "localNombre": "Frozthound"
+    },
+    "9ab1d470-facc-11eb-827e-cffb00f230b3": {
+      "id": "9ab1d470-facc-11eb-827e-cffb00f230b3",
+      "numero": 53,
+      "fecha": 14,
+      "visita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "localNombre": "Zicariato de la Perra",
+      "visitaNombre": "Black Berets",
+      "local": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "9abc34b0-facc-11eb-827e-cffb00f230b3": {
+      "id": "9abc34b0-facc-11eb-827e-cffb00f230b3",
+      "numero": 54,
+      "visita": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "fecha": 14,
+      "local": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Frozthound",
+      "visitaNombre": "Wutang Lag"
+    },
+    "9ac75840-facc-11eb-827e-cffb00f230b3": {
+      "id": "9ac75840-facc-11eb-827e-cffb00f230b3",
+      "visita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "The ChupaHoyos",
+      "numero": 55,
+      "fecha": 14,
+      "visitaNombre": "Los del Gulag",
+      "local": "979c2c70-f59c-11eb-842e-4f44b59e4ef0"
+    },
+    "9ad16a60-facc-11eb-827e-cffb00f230b3": {
+      "id": "9ad16a60-facc-11eb-827e-cffb00f230b3",
+      "visita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "localNombre": "Disaster Groove",
+      "numero": 56,
+      "visitaNombre": "Mancoster United Reloaded",
+      "fecha": 14,
+      "local": "97067c20-f59c-11eb-842e-4f44b59e4ef0"
     }
   },
   "resultados": {
@@ -1769,400 +2125,6 @@
         { "urlFoto": "", "mapa": "", "visita": 0, "local": 0 },
         { "mapa": "", "local": 0, "visita": 0, "urlFoto": "" }
       ]
-    }
-  },
-  "soldados": {
-    "3f6d4680-f5f9-11eb-8c94-7b0e7f612e65": {
-      "capitan": true,
-      "equipo": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
-      "id": "3f6d4680-f5f9-11eb-8c94-7b0e7f612e65",
-      "nick": "Chernobyl",
-      "regimiento": "749ab360-facc-11eb-b93a-757cb2c53e5c"
-    },
-    "402ee8d0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "nick": "Dr Elvis Tec",
-      "regimiento": "749ab360-facc-11eb-b93a-757cb2c53e5c",
-      "capitan": false,
-      "id": "402ee8d0-f5f9-11eb-8c94-7b0e7f612e65",
-      "equipo": "95c6d030-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "405d72e0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "capitan": false,
-      "id": "405d72e0-f5f9-11eb-8c94-7b0e7f612e65",
-      "nick": "MalditoRenacuajo",
-      "regimiento": "749ab360-facc-11eb-b93a-757cb2c53e5c",
-      "equipo": "95c6d030-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "40cb28d0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "id": "40cb28d0-f5f9-11eb-8c94-7b0e7f612e65",
-      "equipo": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
-      "regimiento": "749ab360-facc-11eb-b93a-757cb2c53e5c",
-      "nick": "EljefeReyes",
-      "capitan": false
-    },
-    "40f06410-f5f9-11eb-8c94-7b0e7f612e65": {
-      "id": "40f06410-f5f9-11eb-8c94-7b0e7f612e65",
-      "equipo": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
-      "regimiento": null,
-      "capitan": false,
-      "nick": "Sheshe"
-    },
-    "415bf720-f5f9-11eb-8c94-7b0e7f612e65": {
-      "id": "415bf720-f5f9-11eb-8c94-7b0e7f612e65",
-      "nick": "Batman",
-      "capitan": true,
-      "regimiento": null,
-      "equipo": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "4198b200-f5f9-11eb-8c94-7b0e7f612e65": {
-      "id": "4198b200-f5f9-11eb-8c94-7b0e7f612e65",
-      "equipo": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
-      "nick": "Anfeta",
-      "regimiento": null,
-      "capitan": false
-    },
-    "41edd6e0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "nick": "Mclovin",
-      "regimiento": null,
-      "capitan": false,
-      "id": "41edd6e0-f5f9-11eb-8c94-7b0e7f612e65",
-      "equipo": "9674c370-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "4241c340-f5f9-11eb-8c94-7b0e7f612e65": {
-      "regimiento": null,
-      "capitan": false,
-      "id": "4241c340-f5f9-11eb-8c94-7b0e7f612e65",
-      "equipo": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
-      "nick": "Zeke"
-    },
-    "42824eb0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "capitan": false,
-      "equipo": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
-      "nick": "Reaper",
-      "regimiento": null,
-      "id": "42824eb0-f5f9-11eb-8c94-7b0e7f612e65"
-    },
-    "42d50290-f5f9-11eb-8c94-7b0e7f612e65": {
-      "id": "42d50290-f5f9-11eb-8c94-7b0e7f612e65",
-      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-      "nick": "Huevito Principe",
-      "regimiento": null,
-      "capitan": true
-    },
-    "43169f70-f5f9-11eb-8c94-7b0e7f612e65": {
-      "nick": "Lexz",
-      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-      "capitan": false,
-      "id": "43169f70-f5f9-11eb-8c94-7b0e7f612e65",
-      "regimiento": null
-    },
-    "4389fab0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "nick": "Hartaban",
-      "capitan": false,
-      "id": "4389fab0-f5f9-11eb-8c94-7b0e7f612e65",
-      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-      "regimiento": null
-    },
-    "43b8d2e0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "regimiento": null,
-      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-      "nick": "GodPeluka",
-      "capitan": false,
-      "id": "43b8d2e0-f5f9-11eb-8c94-7b0e7f612e65"
-    },
-    "441ee7b0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "regimiento": null,
-      "id": "441ee7b0-f5f9-11eb-8c94-7b0e7f612e65",
-      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
-      "capitan": false,
-      "nick": "DonBasto"
-    },
-    "4454ebd0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "id": "4454ebd0-f5f9-11eb-8c94-7b0e7f612e65",
-      "nick": "Vato",
-      "capitan": false,
-      "regimiento": null,
-      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "44c27ab0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-      "capitan": false,
-      "regimiento": null,
-      "id": "44c27ab0-f5f9-11eb-8c94-7b0e7f612e65",
-      "nick": "Laycan"
-    },
-    "44f12bd0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "regimiento": null,
-      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-      "capitan": false,
-      "nick": "Sato",
-      "id": "44f12bd0-f5f9-11eb-8c94-7b0e7f612e65"
-    },
-    "4554a890-f5f9-11eb-8c94-7b0e7f612e65": {
-      "nick": "Dj Silverio",
-      "id": "4554a890-f5f9-11eb-8c94-7b0e7f612e65",
-      "regimiento": null,
-      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-      "capitan": false
-    },
-    "458d44c0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-      "regimiento": null,
-      "capitan": false,
-      "nick": "Napo",
-      "id": "458d44c0-f5f9-11eb-8c94-7b0e7f612e65"
-    },
-    "45cbfb70-f5f9-11eb-8c94-7b0e7f612e65": {
-      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-      "capitan": true,
-      "regimiento": null,
-      "id": "45cbfb70-f5f9-11eb-8c94-7b0e7f612e65",
-      "nick": "W4rlord"
-    },
-    "460a3cf0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "capitan": false,
-      "id": "460a3cf0-f5f9-11eb-8c94-7b0e7f612e65",
-      "nick": "Sheep1",
-      "regimiento": null,
-      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "46393c30-f5f9-11eb-8c94-7b0e7f612e65": {
-      "capitan": false,
-      "id": "46393c30-f5f9-11eb-8c94-7b0e7f612e65",
-      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
-      "regimiento": null,
-      "nick": "yayan"
-    },
-    "46683b70-f5f9-11eb-8c94-7b0e7f612e65": {
-      "nick": "ChinoTuerto",
-      "id": "46683b70-f5f9-11eb-8c94-7b0e7f612e65",
-      "regimiento": null,
-      "equipo": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
-      "capitan": true
-    },
-    "4696ec90-f5f9-11eb-8c94-7b0e7f612e65": {
-      "id": "4696ec90-f5f9-11eb-8c94-7b0e7f612e65",
-      "equipo": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
-      "capitan": false,
-      "nick": "Wuayo",
-      "regimiento": null
-    },
-    "46b7bb00-f5f9-11eb-8c94-7b0e7f612e65": {
-      "equipo": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
-      "capitan": false,
-      "id": "46b7bb00-f5f9-11eb-8c94-7b0e7f612e65",
-      "nick": "Mleal",
-      "regimiento": null
-    },
-    "47939c10-f5f9-11eb-8c94-7b0e7f612e65": {
-      "nick": "NaxoUC",
-      "regimiento": null,
-      "capitan": false,
-      "equipo": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
-      "id": "47939c10-f5f9-11eb-8c94-7b0e7f612e65"
-    },
-    "47c1ff10-f5f9-11eb-8c94-7b0e7f612e65": {
-      "id": "47c1ff10-f5f9-11eb-8c94-7b0e7f612e65",
-      "nick": "Jpablo",
-      "regimiento": null,
-      "equipo": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
-      "capitan": false
-    },
-    "483de5d0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "nick": "Leyzhar",
-      "regimiento": null,
-      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-      "id": "483de5d0-f5f9-11eb-8c94-7b0e7f612e65",
-      "capitan": true
-    },
-    "487b3cf0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "nick": "TheBlack",
-      "id": "487b3cf0-f5f9-11eb-8c94-7b0e7f612e65",
-      "capitan": false,
-      "regimiento": null,
-      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "48e856a0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "id": "48e856a0-f5f9-11eb-8c94-7b0e7f612e65",
-      "capitan": false,
-      "regimiento": null,
-      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-      "nick": "NessO"
-    },
-    "4911feb0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-      "regimiento": null,
-      "nick": "Figo",
-      "id": "4911feb0-f5f9-11eb-8c94-7b0e7f612e65",
-      "capitan": false
-    },
-    "498532e0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "id": "498532e0-f5f9-11eb-8c94-7b0e7f612e65",
-      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-      "capitan": false,
-      "nick": "Gualala",
-      "regimiento": null
-    },
-    "4a1a6e00-f5f9-11eb-8c94-7b0e7f612e65": {
-      "nick": "Herca",
-      "id": "4a1a6e00-f5f9-11eb-8c94-7b0e7f612e65",
-      "regimiento": null,
-      "capitan": false,
-      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "4a4ffcf0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "id": "4a4ffcf0-f5f9-11eb-8c94-7b0e7f612e65",
-      "capitan": false,
-      "nick": "Kuro",
-      "regimiento": null,
-      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "4acd1c30-f5f9-11eb-8c94-7b0e7f612e65": {
-      "regimiento": null,
-      "id": "4acd1c30-f5f9-11eb-8c94-7b0e7f612e65",
-      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-      "nick": "Kenshin",
-      "capitan": false
-    },
-    "4afc1b70-f5f9-11eb-8c94-7b0e7f612e65": {
-      "id": "4afc1b70-f5f9-11eb-8c94-7b0e7f612e65",
-      "regimiento": null,
-      "nick": "Dante",
-      "capitan": false,
-      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "4b5f7120-f5f9-11eb-8c94-7b0e7f612e65": {
-      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
-      "nick": "RonConShela",
-      "id": "4b5f7120-f5f9-11eb-8c94-7b0e7f612e65",
-      "regimiento": null,
-      "capitan": false
-    },
-    "4b983460-f5f9-11eb-8c94-7b0e7f612e65": {
-      "capitan": true,
-      "regimiento": null,
-      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
-      "nick": "Cocolisovandame",
-      "id": "4b983460-f5f9-11eb-8c94-7b0e7f612e65"
-    },
-    "4c061160-f5f9-11eb-8c94-7b0e7f612e65": {
-      "nick": "Ragnarok",
-      "regimiento": null,
-      "capitan": false,
-      "id": "4c061160-f5f9-11eb-8c94-7b0e7f612e65",
-      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0"
-    },
-    "4c46eaf0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "nick": "Nicopro",
-      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
-      "regimiento": null,
-      "id": "4c46eaf0-f5f9-11eb-8c94-7b0e7f612e65",
-      "capitan": false
-    },
-    "4c981830-f5f9-11eb-8c94-7b0e7f612e65": {
-      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
-      "capitan": false,
-      "id": "4c981830-f5f9-11eb-8c94-7b0e7f612e65",
-      "regimiento": null,
-      "nick": "Jacontr"
-    },
-    "4cd74410-f5f9-11eb-8c94-7b0e7f612e65": {
-      "capitan": false,
-      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
-      "regimiento": null,
-      "id": "4cd74410-f5f9-11eb-8c94-7b0e7f612e65",
-      "nick": "Franciscoaguayo"
-    },
-    "4d29d0e0-f5f9-11eb-8c94-7b0e7f612e65": {
-      "id": "4d29d0e0-f5f9-11eb-8c94-7b0e7f612e65",
-      "regimiento": null,
-      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
-      "nick": "Tezzeret",
-      "capitan": false
-    },
-    "7866b540-f647-11eb-a77f-f56ba64fd3a0": {
-      "id": "7866b540-f647-11eb-a77f-f56ba64fd3a0",
-      "regimiento": null,
-      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-      "nick": "Lamoni",
-      "capitan": false
-    },
-    "7943a7c0-f647-11eb-a77f-f56ba64fd3a0": {
-      "nick": "Rockman",
-      "regimiento": null,
-      "id": "7943a7c0-f647-11eb-a77f-f56ba64fd3a0",
-      "capitan": true,
-      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0"
-    },
-    "79708420-f647-11eb-a77f-f56ba64fd3a0": {
-      "id": "79708420-f647-11eb-a77f-f56ba64fd3a0",
-      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-      "nick": "Hexen",
-      "regimiento": null,
-      "capitan": false
-    },
-    "79ddebf0-f647-11eb-a77f-f56ba64fd3a0": {
-      "id": "79ddebf0-f647-11eb-a77f-f56ba64fd3a0",
-      "nick": "Sebastianh1",
-      "regimiento": null,
-      "capitan": false,
-      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0"
-    },
-    "7a0cc420-f647-11eb-a77f-f56ba64fd3a0": {
-      "id": "7a0cc420-f647-11eb-a77f-f56ba64fd3a0",
-      "regimiento": null,
-      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-      "nick": "Joakosino",
-      "capitan": false
-    },
-    "7a7a7a10-f647-11eb-a77f-f56ba64fd3a0": {
-      "nick": "Apex",
-      "id": "7a7a7a10-f647-11eb-a77f-f56ba64fd3a0",
-      "regimiento": null,
-      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-      "capitan": false
-    },
-    "7aa95240-f647-11eb-a77f-f56ba64fd3a0": {
-      "regimiento": null,
-      "nick": "Basti",
-      "capitan": false,
-      "id": "7aa95240-f647-11eb-a77f-f56ba64fd3a0",
-      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0"
-    },
-    "7b197930-f647-11eb-a77f-f56ba64fd3a0": {
-      "id": "7b197930-f647-11eb-a77f-f56ba64fd3a0",
-      "nick": "Monoh",
-      "capitan": false,
-      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-      "regimiento": null
-    },
-    "7b3bf550-f647-11eb-a77f-f56ba64fd3a0": {
-      "id": "7b3bf550-f647-11eb-a77f-f56ba64fd3a0",
-      "nick": "Xispa",
-      "capitan": false,
-      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-      "regimiento": null
-    },
-    "7bb91490-f647-11eb-a77f-f56ba64fd3a0": {
-      "id": "7bb91490-f647-11eb-a77f-f56ba64fd3a0",
-      "nick": "CaigPala",
-      "capitan": false,
-      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-      "regimiento": null
-    },
-    "7c44b2c0-f647-11eb-a77f-f56ba64fd3a0": {
-      "nick": "Winchi*",
-      "regimiento": null,
-      "id": "7c44b2c0-f647-11eb-a77f-f56ba64fd3a0",
-      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-      "capitan": false
-    },
-    "7c699fe0-f647-11eb-a77f-f56ba64fd3a0": {
-      "id": "7c699fe0-f647-11eb-a77f-f56ba64fd3a0",
-      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
-      "nick": "Anger*",
-      "regimiento": null,
-      "capitan": false
     }
   }
 }
