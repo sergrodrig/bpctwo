@@ -1,1 +1,100 @@
-[]
+{
+  "posiciones": [
+    {
+      "equipo": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "puntos": 0,
+      "jugados": 0,
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "roundsGanados": 0,
+      "roundsPerdidos": 0,
+      "ratioRounds": 0,
+      "movimiento": 0
+    },
+    {
+      "equipo": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "puntos": 0,
+      "jugados": 0,
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "roundsGanados": 0,
+      "roundsPerdidos": 0,
+      "ratioRounds": 0,
+      "movimiento": 0
+    },
+    {
+      "equipo": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "puntos": 0,
+      "jugados": 0,
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "roundsGanados": 0,
+      "roundsPerdidos": 0,
+      "ratioRounds": 0,
+      "movimiento": 0
+    },
+    {
+      "equipo": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "puntos": 0,
+      "jugados": 0,
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "roundsGanados": 0,
+      "roundsPerdidos": 0,
+      "ratioRounds": 0,
+      "movimiento": 0
+    },
+    {
+      "equipo": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "puntos": 0,
+      "jugados": 0,
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "roundsGanados": 0,
+      "roundsPerdidos": 0,
+      "ratioRounds": 0,
+      "movimiento": 0
+    },
+    {
+      "equipo": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "puntos": 0,
+      "jugados": 0,
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "roundsGanados": 0,
+      "roundsPerdidos": 0,
+      "ratioRounds": 0,
+      "movimiento": 0
+    },
+    {
+      "equipo": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "puntos": 0,
+      "jugados": 0,
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "roundsGanados": 0,
+      "roundsPerdidos": 0,
+      "ratioRounds": 0,
+      "movimiento": 0
+    },
+    {
+      "equipo": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "puntos": 0,
+      "jugados": 0,
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 0,
+      "roundsGanados": 0,
+      "roundsPerdidos": 0,
+      "ratioRounds": 0,
+      "movimiento": 0
+    }
+  ]
+}

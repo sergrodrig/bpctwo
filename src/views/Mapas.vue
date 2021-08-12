@@ -26,8 +26,9 @@
 </template>
 
 <script>
-import asyncDataStatus from "@/mixins/asyncDataStatus";
 import { mapActions } from "vuex";
+import asyncDataStatus from "@/mixins/asyncDataStatus";
+
 import TituloPagina from "@/components/TituloPagina";
 
 export default {

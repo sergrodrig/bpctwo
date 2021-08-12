@@ -59,7 +59,7 @@
 </template>
 
 <script>
-import { mapState } from "vuex";
+import { mapState, mapActions } from "vuex";
 
 import TituloPagina from "@/components/TituloPagina";
 import asyncDataStatus from "@/mixins/asyncDataStatus";
@@ -80,6 +80,9 @@ export default {
     return {};
   },
   async created() {
+    await this.fetchAllItems("encuentros");
+    await this.fetchAllItems("equipos");
+    await this.fetchAllItems("resultados");
     this.asyncDataStatus_fetch();
   },
   computed: {
@@ -108,6 +111,9 @@ export default {
       );
       return { ...equipo };
     },
+  },
+  methods: {
+    ...mapActions(["fetchAllItems"]),
   },
 };
 </script>

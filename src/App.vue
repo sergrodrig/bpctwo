@@ -31,12 +31,6 @@ export default {
     };
   },
   created() {
-    this.fetchAllItems("encuentros");
-    this.fetchAllItems("equipos");
-    this.fetchAllItems("mapas");
-    this.fetchAllItems("regimientos");
-    this.fetchAllItems("resultados");
-    this.fetchAllItems("soldados");
     NProgress.configure({
       easing: "ease",
       speed: 500,

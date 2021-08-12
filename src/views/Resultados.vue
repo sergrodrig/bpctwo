@@ -13,6 +13,7 @@
 </template>
 
 <script>
+import { mapActions } from "vuex";
 import asyncDataStatus from "@/mixins/asyncDataStatus";
 
 import TituloPagina from "@/components/TituloPagina";
@@ -29,7 +30,13 @@ export default {
   mixins: [asyncDataStatus],
   emits: ["ready"],
   async created() {
+    await this.fetchAllItems("encuentros");
+    await this.fetchAllItems("equipos");
+    await this.fetchAllItems("resultados");
     this.asyncDataStatus_fetch();
+  },
+  methods: {
+    ...mapActions(["fetchAllItems"]),
   },
 };
 </script>

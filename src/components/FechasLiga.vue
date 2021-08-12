@@ -18,9 +18,9 @@
             class="grid grid-cols-12 text-center divide-x-2 divide-black"
           >
             <div class="col-span-4">{{ encuentro.localNombre }}</div>
-            <div>0</div>
+            <div>{{ resultadosDetalle(encuentro.numero).local }}</div>
             <div class="col-span-2">vs</div>
-            <div>0</div>
+            <div>{{ resultadosDetalle(encuentro.numero).visita }}</div>
             <div class="col-span-4">{{ encuentro.visitaNombre }}</div>
           </div>
         </router-link>
@@ -39,7 +39,7 @@ export default {
     };
   },
   computed: {
-    ...mapState(["encuentros", "equipos"]),
+    ...mapState(["encuentros", "equipos", "resultados"]),
   },
   methods: {
     nombreEquipo(id) {
@@ -48,6 +48,19 @@ export default {
       });
       return name;
       // return "";
+    },
+    resultadosDetalle(encuentroId) {
+      const resultados = this.resultados.find(
+        (r) => r.encuentro == encuentroId
+      );
+      if (resultados) {
+        return {
+          local: resultados.mapasLocal || 0,
+          visita: resultados.mapasVisita || 0,
+        };
+      } else {
+        return { local: 0, visita: 0 };
+      }
     },
   },
 };

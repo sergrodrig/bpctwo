@@ -11,8 +11,8 @@
 </template>
 
 <script>
+import { mapState, mapActions } from "vuex";
 import asyncDataStatus from "@/mixins/asyncDataStatus";
-import { mapState } from "vuex";
 
 import EquiposList from "@/components/EquiposList";
 import TituloPagina from "@/components/TituloPagina";
@@ -28,7 +28,13 @@ export default {
     ...mapState(["equipos"]),
   },
   async created() {
+    await this.fetchAllItems("equipos");
+    await this.fetchAllItems("regimientos");
+    await this.fetchAllItems("soldados");
     this.asyncDataStatus_fetch();
+  },
+  methods: {
+    ...mapActions(["fetchAllItems"]),
   },
 };
 </script>

@@ -29,3 +29,19 @@ exports.actualizarResultado = functions.firestore
         { merge: true }
       );
   });
+
+exports.actualizarPosiciones = functions.firestore
+  .document("resultados/{resultadoId}")
+  .onUpdate((change, context) => {
+    const documentoAfter = change.after.data();
+    const partidas = documentoAfter.partidas;
+
+    const trinfosLocal = partidas.filter((p) => p.local == 6).length;
+    const trinfosVisita = partidas.filter((p) => p.visita == 6).length;
+    const derrotasLocal = partidas.filter((p) => p.local < 6).length;
+    const derrotasVisita = partidas.filter((p) => p.visita < 6).length;
+    let empatesLocal, empatesVisita;
+    empatesLocal = empatesVisita = partidas.filter(
+      (p) => (p.local != 0) == (p.visita != 0)
+    ).length;
+  });
