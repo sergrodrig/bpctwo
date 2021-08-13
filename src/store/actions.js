@@ -1,6 +1,7 @@
 import firebase from "firebase/app";
 import "firebase/firestore";
 import "firebase/auth";
+import "firebase/functions";
 import { docToResource } from "@/helpers";
 
 export default {
@@ -126,6 +127,36 @@ export default {
         });
     });
   },
+  async fetchFreshDocument({ commit }, { documentRef, collection }) {
+    const newDocument = await documentRef.get();
+    commit("setItem", { resource: collection, item: newDocument });
+  },
   // fetchItems: ({ dispatch }, { ids, resource }) =>
   //   Promise.all(ids.map((id) => dispatch("fetchItem", { id, resource }))),
+
+  // CREATE DOCUMENT
+  async createItem({ dispatch }, { item, collection }) {
+    const documentRef = firebase.firestore().collection(collection).doc();
+    const document = { id: documentRef.id, ...item };
+    await documentRef.set(document);
+    dispatch("fetchFreshDocument", { documentRef, collection });
+  },
+
+  // UPDATE DOCUMENT
+  updateItem({ dispatch }, { resource, id, newData }) {
+    return new Promise((resolve) => {
+      const documentRef = firebase.firestore().collection(resource).doc(id);
+      documentRef.set(newData, { merge: true });
+      dispatch("fetchFreshDocument", { documentRef, collection: resource });
+      resolve(documentRef);
+    });
+  },
+
+  // FUNCTIONS
+  actualizarResultado(context, id) {
+    const calcularResultadosEncuentro = firebase
+      .functions()
+      .httpsCallable("calcularResultadosEncuentro");
+    calcularResultadosEncuentro(id);
+  },
 };

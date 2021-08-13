@@ -3,49 +3,14 @@
     <!-- titulo pagina -->
     <titulo-pagina texto="Admin" />
 
+    <!-- content -->
     <div
       class="max-w-5xl p-4 mx-auto space-y-4  sm:max-w-2xl md:max-w-3xl lg:max-w-4xl"
     >
-      <!-- resultados -->
-      <div class="p-4 border border-black">
-        <h1 class="text-2xl font-bold">Ingresar resultado</h1>
-        <div>
-          <select v-model="encuentroSeleccionado">
-            <option
-              v-for="encuentro in encuentros"
-              :key="encuentro"
-              :value="encuentro.id"
-            >
-              {{ encuentro }}
-            </option>
-          </select>
-          <p>{{ encuentroSeleccionado }}</p>
-        </div>
-      </div>
-
-      <!-- soldados -->
-      <div class="p-4 border border-black">
-        <h1 class="text-2xl font-bold">Soldados</h1>
-        <div v-for="soldado in soldados" :key="soldado.id">
-          {{ soldado.nick }}
-        </div>
-      </div>
-
-      <!-- equipos -->
-      <div class="p-4 border border-black">
-        <h1 class="text-2xl font-bold">Equipos</h1>
-        <div v-for="equipo in equipos" :key="equipo.id">
-          {{ equipo.name }}
-        </div>
-      </div>
-
-      <!-- regimientos -->
-      <div class="p-4 border border-black">
-        <h1 class="text-2xl font-bold">Regimientos</h1>
-        <div v-for="regimiento in regimientos" :key="regimiento.id">
-          {{ regimiento.name }}
-        </div>
-      </div>
+      <!-- <AdminUpdateResult /> -->
+      <AdminRegimientosList />
+      <AdminEquiposList />
+      <AdminSoldadosList />
     </div>
   </div>
 </template>
@@ -55,9 +20,19 @@ import { mapState, mapActions } from "vuex";
 import asyncDataStatus from "@/mixins/asyncDataStatus";
 
 import TituloPagina from "@/components/TituloPagina";
+import AdminUpdateResult from "@/components/admin/AdminUpdateResult";
+import AdminSoldadosList from "@/components/admin/AdminSoldadosList";
+import AdminEquiposList from "@/components/admin/AdminEquiposList";
+import AdminRegimientosList from "@/components/admin/AdminRegimientosList";
 
 export default {
-  components: { TituloPagina },
+  components: {
+    TituloPagina,
+    AdminUpdateResult,
+    AdminSoldadosList,
+    AdminEquiposList,
+    AdminRegimientosList,
+  },
   emits: ["ready"],
   mixins: [asyncDataStatus],
   data() {
@@ -84,9 +59,6 @@ export default {
   },
   methods: {
     ...mapActions(["fetchAllItems"]),
-    encuentroDetalle(id) {
-      return this.encuentros.find((e) => e.id === id) || {};
-    },
   },
 };
 </script>

@@ -24,7 +24,7 @@ module.exports = {
   },
   variants: {
     extend: {
-      backgroundColor: ["checked", "disabled"],
+      backgroundColor: ["checked", "disabled", "active"],
       cursor: ["disabled"],
       borderColor: ["checked"],
       ringWidth: ["hover", "active"],
