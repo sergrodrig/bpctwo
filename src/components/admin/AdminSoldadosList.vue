@@ -130,8 +130,8 @@ export default {
       this.editando = false;
       this.soldadoEnEdicion = {};
     },
-    actualizar(soldado) {
-      this["admin/actualizarSoldado"](soldado);
+    async actualizar(soldado) {
+      await this["admin/actualizarSoldado"](soldado);
       this.cancelarEdicion();
     },
   },
