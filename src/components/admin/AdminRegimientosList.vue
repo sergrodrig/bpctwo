@@ -14,14 +14,11 @@
           :key="regimiento.id"
           class="mb-2 mr-2"
         >
-          <div
-            class="flex items-center px-3 py-2 space-x-4 text-black bg-green-100 border border-black  rounded-xl"
+          <button
+            class="flex items-center px-3 py-2 space-x-4 text-black border border-black rounded-sm  bg-green-50 hover:bg-green-100"
           >
             <span>{{ regimiento.name }}</span>
-            <button>
-              <SvgTrash class="w-6 p-1 text-white bg-red-500 rounded-full" />
-            </button>
-          </div>
+          </button>
         </li>
       </ul>
 

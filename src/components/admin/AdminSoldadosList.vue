@@ -10,14 +10,11 @@
       <!-- soldados existentes -->
       <ul class="flex flex-wrap">
         <li v-for="soldado in soldados" :key="soldado.id" class="mb-2 mr-2">
-          <div
-            class="flex items-center px-3 py-2 space-x-4 text-black bg-green-100 border border-black  rounded-xl"
+          <button
+            class="flex items-center px-3 py-2 space-x-4 text-black border border-black rounded-sm  bg-yellow-50 hover:bg-yellow-100"
           >
             <span>{{ soldado.nick }}</span>
-            <button>
-              <SvgTrash class="w-6 p-1 text-white bg-red-500 rounded-full" />
-            </button>
-          </div>
+          </button>
         </li>
       </ul>
 
