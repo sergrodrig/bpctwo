@@ -1,8 +1,42 @@
 <template>
-  <div class="p-4 border border-black">
-    <h1 class="text-2xl font-bold">Ingresar resultado</h1>
-    {{ detalleMiPerfil?.nick }}
-    {{ equipoDetalle() }}
+  <div class="border-4 border-black">
+    <!-- titulo -->
+    <div class="p-4 text-white bg-black">
+      <h1 class="text-2xl font-bold">Encuentros</h1>
+    </div>
+
+    <!-- main -->
+    <!-- encuentros -->
+    <ul class="flex flex-wrap p-4">
+      <li
+        v-for="encuentro in encuentros"
+        :key="encuentro.id"
+        class="w-full mb-2 mr-2"
+      >
+        <div
+          class="flex flex-col space-x-4 text-black border border-black rounded-sm "
+        >
+          <button
+            class="grid justify-between grid-cols-3 p-2"
+            :class="encuentro.fecha % 2 === 0 ? 'bg-gray-100' : 'bg-gray-300'"
+          >
+            <span class="text-left"
+              >Fecha {{ encuentro.fecha }} ({{ encuentro.numero }})</span
+            >
+            <span class="grid grid-cols-3 col-span-2">
+              <span>{{ equipoDetalle(encuentro.local)?.name }}</span>
+              <span>vs</span>
+              <span>{{ equipoDetalle(encuentro.visita)?.name }}</span>
+            </span>
+          </button>
+          <div class="hidden">
+            <div>
+              <input type="text" />
+            </div>
+          </div>
+        </div>
+      </li>
+    </ul>
   </div>
 </template>
 
@@ -31,15 +65,8 @@ export default {
   created() {},
   methods: {
     ...mapActions(["updateItem", "fetchAllItems"]),
-    encuentroDetalle(id) {
-      return this.encuentros.find((e) => e.id === id) || {};
-    },
     equipoDetalle(id) {
-      return (
-        this.equipos.find(
-          (e) => e.id === "95c6d030-f59c-11eb-842e-4f44b59e4ef0"
-        ) || {}
-      );
+      return this.equipos.find((e) => e.id === id);
     },
   },
 };
