@@ -22,6 +22,17 @@ export default {
     crearSoldado({ dispatch }, { item }) {
       dispatch("createItem", { item, collection: "soldados" }, { root: true });
     },
+    actualizarSoldado({ dispatch }, { id, nick, equipo, regimiento }) {
+      dispatch(
+        "updateItem",
+        {
+          resource: "soldados",
+          id: id,
+          newData: { id, nick, equipo, regimiento },
+        },
+        { root: true }
+      );
+    },
   },
   mutations: {},
 };
