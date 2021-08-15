@@ -70,14 +70,12 @@
         <div class="space-x-2" v-if="editando">
           <button
             @click="cancelarEdicion"
-            type="submit"
             class="px-3 py-2 text-white bg-red-500 hover:bg-red-600"
           >
             Cancelar
           </button>
           <button
             @click.stop="actualizar"
-            type="submit"
             class="px-3 py-2 text-white bg-green-500 hover:bg-green-600"
           >
             Actualizar soldado
@@ -86,7 +84,6 @@
         <button
           @click.stop="add"
           v-if="!editando"
-          type="submit"
           class="px-3 py-2 text-white bg-green-500 hover:bg-green-600"
         >
           Crear soldado

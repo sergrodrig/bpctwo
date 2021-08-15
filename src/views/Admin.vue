@@ -8,9 +8,9 @@
       class="max-w-5xl p-8 mx-auto space-y-8  sm:max-w-2xl md:max-w-3xl lg:max-w-4xl"
     >
       <!-- <AdminUpdateResult /> -->
+      <AdminSoldadosList />
       <AdminEquiposList />
       <AdminRegimientosList />
-      <AdminSoldadosList />
     </div>
   </div>
 </template>

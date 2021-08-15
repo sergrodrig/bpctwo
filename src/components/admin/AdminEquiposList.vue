@@ -47,8 +47,56 @@
               v-model="equipoFormulario.initials"
             />
           </label>
+          <div>
+            <label v-if="editando" class="flex flex-col">
+              <span>Capitan</span>
+              <select v-model="equipoFormulario.captain">
+                <option selected disabled>Selecciona un soldado:</option>
+                <option
+                  :value="soldadoEquipo.id"
+                  v-for="soldadoEquipo in soldadosEquipoEnEdicion"
+                  :key="soldadoEquipo"
+                >
+                  {{ soldadoEquipo.nick }}
+                </option>
+                <option value="">( Sin capitan )</option>
+              </select>
+            </label>
+            <label v-if="!editando" class="flex flex-col">
+              <span>Capitan</span>
+              <select v-model="equipoFormulario.captain">
+                <option selected disabled>Selecciona un soldado:</option>
+                <option
+                  :value="soldadoLibre.id"
+                  v-for="soldadoLibre in soldadosLibres"
+                  :key="soldadoLibre"
+                >
+                  {{ soldadoLibre.nick }}
+                </option>
+                <option value="">( Sin capitan )</option>
+              </select>
+            </label>
+          </div>
         </div>
-        <button type="submit" class="px-3 py-2 text-white bg-green-500">
+        <div class="space-x-2" v-if="editando">
+          <button
+            @click="cancelarEdicion"
+            class="px-3 py-2 text-white bg-red-500 hover:bg-red-600"
+          >
+            Cancelar
+          </button>
+          <button
+            @click.stop="actualizar"
+            class="px-3 py-2 text-white bg-green-500 hover:bg-green-600"
+          >
+            Actualizar equipo
+          </button>
+        </div>
+        <button
+          @click.stop="add"
+          v-if="!editando"
+          class="px-3 py-2 text-white bg-green-500 hover:bg-green-600"
+        >
           Crear equipo
         </button>
       </div>
@@ -65,7 +113,7 @@ export default {
   components: { SvgTrash },
   data() {
     return {
-      equipoFormulario: {},
+      equipoFormulario: { name: "", initials: "", captain: "" },
       editando: false,
     };
   },
@@ -75,7 +123,8 @@ export default {
       return this.soldados.filter((s) => s.equipo === this.equipoFormulario.id);
     },
     soldadosLibres() {
-      return this.soldados.filter((s) => s.equipo === null);
+      const capitanes = this.equipos.map((e) => e.captain);
+      return this.soldados.filter((s) => !capitanes.includes(s.id));
     },
   },
   methods: {
@@ -86,7 +135,6 @@ export default {
     },
     editar(equipo) {
       this.editando = true;
-      this.equipoFormulario = {};
       this.equipoFormulario.id = equipo.id || "";
       this.equipoFormulario.name = equipo.name || "";
       this.equipoFormulario.initials = equipo.initials || "";
@@ -96,8 +144,8 @@ export default {
       this.editando = false;
       this.equipoFormulario = {};
     },
-    async actualizar(equipo) {
-      await this["admin/actualizarEquipo"](equipo);
+    async actualizar() {
+      await this["admin/actualizarEquipo"](this.equipoFormulario);
       this.cancelarEdicion();
     },
   },

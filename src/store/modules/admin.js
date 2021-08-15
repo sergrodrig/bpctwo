@@ -1,9 +1,3 @@
-import firebase from "firebase/app";
-import "firebase/firestore";
-import "firebase/auth";
-import "firebase/functions";
-import { docToResource, findById } from "@/helpers";
-
 export default {
   namespaced: true,
   state: {},
@@ -29,6 +23,17 @@ export default {
           resource: "soldados",
           id: id,
           newData: { nick, equipo, regimiento },
+        },
+        { root: true }
+      );
+    },
+    actualizarEquipo({ dispatch }, { id, name, initials, captain }) {
+      dispatch(
+        "updateItem",
+        {
+          resource: "equipos",
+          id: id,
+          newData: { name, initials, captain },
         },
         { root: true }
       );
