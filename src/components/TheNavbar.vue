@@ -36,7 +36,7 @@
           :class="currentRoute === 'Equipos' ? 'bg-indigo-600' : 'bg-black'"
           @click.stop="isOpen = !isOpen"
         >
-          Equipos 👮🏽‍♂️🥷🏻🍪👨🏻‍✈️
+          Equipos 🍪
         </router-link>
         <router-link
           :to="{ name: 'Mapas' }"
@@ -52,7 +52,7 @@
           :class="currentRoute === 'Resultados' ? 'bg-indigo-600' : 'bg-black'"
           @click.stop="isOpen = !isOpen"
         >
-          Resultados 🥇🥈🥉
+          Resultados 🥇
         </router-link>
 
         <!-- avatar -->

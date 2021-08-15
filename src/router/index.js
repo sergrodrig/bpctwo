@@ -38,7 +38,7 @@ const routes = [
     path: "/admin",
     name: "Admin",
     component: Admin,
-    meta: { toTop: true, smoothScroll: true, requiresAuth: true },
+    meta: { toTop: true, smoothScroll: true, requiresAuth: false },
   },
   {
     path: "/configuracionpartida",

@@ -125,8 +125,8 @@ export default {
   data() {
     return {
       equipoFormulario: { name: "", initials: "", captain: "" },
-      editando: false,
       expanded: false,
+      editando: false,
     };
   },
   computed: {

@@ -51,6 +51,7 @@ export default {
   },
   async created() {
     await this.fetchAllItems("equipos");
+    await this.fetchAllItems("mapas");
     await this.fetchAllItems("regimientos");
     await this.fetchAllItems("soldados");
     await this.fetchAllItems("encuentros");
