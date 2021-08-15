@@ -28,7 +28,7 @@ export default {
         {
           resource: "soldados",
           id: id,
-          newData: { id, nick, equipo, regimiento },
+          newData: { nick, equipo, regimiento },
         },
         { root: true }
       );

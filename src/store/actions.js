@@ -127,8 +127,9 @@ export default {
         });
     });
   },
-  async fetchFreshDocument({ commit }, { documentRef, collection }) {
-    const newDocument = await documentRef.get();
+  async fetchFreshDocument({ commit }, { documentId, collection }) {
+    const docRef = firebase.firestore().collection(collection).doc(documentId);
+    const newDocument = await docRef.get();
     commit("setItem", { resource: collection, item: newDocument });
   },
   // fetchItems: ({ dispatch }, { ids, resource }) =>
@@ -137,9 +138,10 @@ export default {
   // CREATE DOCUMENT
   async createItem({ dispatch }, { item, collection }) {
     const documentRef = firebase.firestore().collection(collection).doc();
-    const document = { id: documentRef.id, ...item };
+    const createdAt = firebase.firestore.FieldValue.serverTimestamp();
+    const document = { id: documentRef.id, ...item, createdAt };
     await documentRef.set(document);
-    dispatch("fetchFreshDocument", { documentRef, collection });
+    dispatch("fetchFreshDocument", { documentId: documentRef.id, collection });
   },
 
   // UPDATE DOCUMENT
@@ -147,7 +149,10 @@ export default {
     return new Promise((resolve) => {
       const documentRef = firebase.firestore().collection(resource).doc(id);
       documentRef.set(newData, { merge: true });
-      dispatch("fetchFreshDocument", { documentRef, collection: resource });
+      dispatch("fetchFreshDocument", {
+        documentId: documentRef.id,
+        collection: resource,
+      });
       resolve(documentRef);
     });
   },
