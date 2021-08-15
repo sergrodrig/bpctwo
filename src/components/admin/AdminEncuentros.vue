@@ -40,7 +40,7 @@
 
           <!-- encuentro expanded: resultados -->
           <div
-            v-show="encuentroExpanded === encuentro.numero"
+            v-show="resultadosEncuentroForm.encuentro === encuentro.numero"
             class="p-4 space-y-2"
           >
             <div
@@ -114,7 +114,6 @@ export default {
     return {
       encuentroSeleccionado: null,
       expanded: true,
-      encuentroExpanded: 0,
       resultadosEncuentroForm: {
         encuentro: 0,
         resultados: {
@@ -148,16 +147,16 @@ export default {
     equipoDetalle(id) {
       return this.equipos.find((e) => e.id === id);
     },
-    save() {
-      // await this["admin/crearSoldado"]({ item: this.soldadoFormulario });
+    async save() {
+      await this["admin/actualizarResultado"]({ item: this.soldadoFormulario });
       console.log(this.resultadosEncuentroForm);
     },
     cancelarEdicion() {
-      this.encuentroExpanded = 0;
+      this.resultadosEncuentroForm.encuentro = 0;
       this.limpiarFormulario();
     },
     setEncuentroId(id) {
-      this.encuentroExpanded = id;
+      this.resultadosEncuentroForm.encuentro = id;
       this.limpiarFormulario();
     },
     limpiarFormulario() {
