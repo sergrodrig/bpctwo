@@ -38,6 +38,21 @@ export default {
         { root: true }
       );
     },
+    actualizarResultado({ dispatch }, { resource, id, newData }) {
+      dispatch(
+        "updateItem",
+        { resource, id, newData: { partidas: newData } },
+        { root: true }
+      );
+    },
+    actualizarResultadoPrueba({ dispatch }, { resource, id, newData }) {
+      console.log("Admin -> actualizarResultadoPrueba");
+      dispatch(
+        "updateItemPrueba",
+        { resource, id, newData: { partidas: newData } },
+        { root: true }
+      );
+    },
   },
   mutations: {},
 };

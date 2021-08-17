@@ -148,6 +148,7 @@ export default {
   updateItem({ dispatch }, { resource, id, newData }) {
     return new Promise((resolve) => {
       const documentRef = firebase.firestore().collection(resource).doc(id);
+      const document = { ...newData };
       documentRef.set(newData, { merge: true });
       dispatch("fetchFreshDocument", {
         documentId: documentRef.id,
@@ -156,12 +157,16 @@ export default {
       resolve(documentRef);
     });
   },
-
-  // FUNCTIONS
-  actualizarResultado(context, id) {
-    const calcularResultadosEncuentro = firebase
-      .functions()
-      .httpsCallable("calcularResultadosEncuentro");
-    calcularResultadosEncuentro(id);
+  updateItemPrueba({ dispatch }, { resource, id, newData }) {
+    console.log("Actions -> updateItemPrueba");
+    return new Promise((resolve) => {
+      const documentRef = firebase.firestore().collection(resource).doc(id);
+      documentRef.set(newData, { merge: true });
+      // dispatch("fetchFreshDocument", {
+      //   documentId: documentRef.id,
+      //   collection: resource,
+      // });
+      resolve;
+    });
   },
 };
