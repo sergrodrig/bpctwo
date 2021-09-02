@@ -158,7 +158,7 @@ export default {
     });
   },
   updateItemPrueba({ dispatch }, { resource, id, newData }) {
-    console.log("Actions -> updateItemPrueba");
+    // console.log("Actions -> updateItemPrueba");
     return new Promise((resolve) => {
       const documentRef = firebase.firestore().collection(resource).doc(id);
       documentRef.set(newData, { merge: true });

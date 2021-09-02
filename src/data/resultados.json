@@ -2,6 +2,13 @@
   "resultados": [
     {
       "encuentro": "1",
+      "fecha": 1,
+      "equipoLocal": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -43,6 +50,13 @@
     },
     {
       "encuentro": "2",
+      "fecha": 1,
+      "equipoLocal": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -84,6 +98,13 @@
     },
     {
       "encuentro": "3",
+      "fecha": 1,
+      "equipoLocal": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -125,6 +146,13 @@
     },
     {
       "encuentro": "4",
+      "fecha": 1,
+      "equipoLocal": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -166,6 +194,13 @@
     },
     {
       "encuentro": "5",
+      "fecha": 2,
+      "equipoLocal": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -207,6 +242,13 @@
     },
     {
       "encuentro": "6",
+      "fecha": 2,
+      "equipoLocal": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "equipoVisita": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -248,6 +290,13 @@
     },
     {
       "encuentro": "7",
+      "fecha": 2,
+      "equipoLocal": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -289,6 +338,13 @@
     },
     {
       "encuentro": "8",
+      "fecha": 2,
+      "equipoLocal": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -330,6 +386,13 @@
     },
     {
       "encuentro": "9",
+      "fecha": 3,
+      "equipoLocal": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -371,6 +434,13 @@
     },
     {
       "encuentro": "10",
+      "fecha": 3,
+      "equipoLocal": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -412,6 +482,13 @@
     },
     {
       "encuentro": "11",
+      "fecha": 3,
+      "equipoLocal": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -453,6 +530,13 @@
     },
     {
       "encuentro": "12",
+      "fecha": 3,
+      "equipoLocal": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "equipoVisita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -494,6 +578,13 @@
     },
     {
       "encuentro": "13",
+      "fecha": 4,
+      "equipoLocal": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -535,6 +626,13 @@
     },
     {
       "encuentro": "14",
+      "fecha": 4,
+      "equipoLocal": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -576,6 +674,13 @@
     },
     {
       "encuentro": "15",
+      "fecha": 4,
+      "equipoLocal": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -617,6 +722,13 @@
     },
     {
       "encuentro": "16",
+      "fecha": 4,
+      "equipoLocal": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -658,6 +770,13 @@
     },
     {
       "encuentro": "17",
+      "fecha": 5,
+      "equipoLocal": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -699,6 +818,13 @@
     },
     {
       "encuentro": "18",
+      "fecha": 5,
+      "equipoLocal": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -740,6 +866,13 @@
     },
     {
       "encuentro": "19",
+      "fecha": 5,
+      "equipoLocal": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "equipoVisita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -781,6 +914,13 @@
     },
     {
       "encuentro": "20",
+      "fecha": 5,
+      "equipoLocal": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -822,6 +962,13 @@
     },
     {
       "encuentro": "21",
+      "fecha": 6,
+      "equipoLocal": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -863,6 +1010,13 @@
     },
     {
       "encuentro": "22",
+      "fecha": 6,
+      "equipoLocal": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -904,6 +1058,13 @@
     },
     {
       "encuentro": "23",
+      "fecha": 6,
+      "equipoLocal": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -945,6 +1106,13 @@
     },
     {
       "encuentro": "24",
+      "fecha": 6,
+      "equipoLocal": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -986,6 +1154,13 @@
     },
     {
       "encuentro": "25",
+      "fecha": 7,
+      "equipoLocal": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "equipoVisita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -1027,6 +1202,13 @@
     },
     {
       "encuentro": "26",
+      "fecha": 7,
+      "equipoLocal": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -1068,6 +1250,13 @@
     },
     {
       "encuentro": "27",
+      "fecha": 7,
+      "equipoLocal": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -1109,6 +1298,13 @@
     },
     {
       "encuentro": "28",
+      "fecha": 7,
+      "equipoLocal": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -1150,6 +1346,13 @@
     },
     {
       "encuentro": "29",
+      "fecha": 8,
+      "equipoLocal": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -1191,6 +1394,13 @@
     },
     {
       "encuentro": "30",
+      "fecha": 8,
+      "equipoLocal": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -1232,6 +1442,13 @@
     },
     {
       "encuentro": "31",
+      "fecha": 8,
+      "equipoLocal": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -1273,6 +1490,13 @@
     },
     {
       "encuentro": "32",
+      "fecha": 8,
+      "equipoLocal": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "equipoVisita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -1314,6 +1538,13 @@
     },
     {
       "encuentro": "33",
+      "fecha": 9,
+      "equipoLocal": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -1355,6 +1586,13 @@
     },
     {
       "encuentro": "34",
+      "fecha": 9,
+      "equipoLocal": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -1396,6 +1634,13 @@
     },
     {
       "encuentro": "35",
+      "fecha": 9,
+      "equipoLocal": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -1437,6 +1682,13 @@
     },
     {
       "encuentro": "36",
+      "fecha": 9,
+      "equipoLocal": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -1478,6 +1730,13 @@
     },
     {
       "encuentro": "37",
+      "fecha": 10,
+      "equipoLocal": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -1519,6 +1778,13 @@
     },
     {
       "encuentro": "38",
+      "fecha": 10,
+      "equipoLocal": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -1560,6 +1826,13 @@
     },
     {
       "encuentro": "39",
+      "fecha": 10,
+      "equipoLocal": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -1601,6 +1874,13 @@
     },
     {
       "encuentro": "40",
+      "fecha": 10,
+      "equipoLocal": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -1642,6 +1922,13 @@
     },
     {
       "encuentro": "41",
+      "fecha": 11,
+      "equipoLocal": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -1683,6 +1970,13 @@
     },
     {
       "encuentro": "42",
+      "fecha": 11,
+      "equipoLocal": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "equipoVisita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -1724,6 +2018,13 @@
     },
     {
       "encuentro": "43",
+      "fecha": 11,
+      "equipoLocal": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -1765,6 +2066,13 @@
     },
     {
       "encuentro": "44",
+      "fecha": 11,
+      "equipoLocal": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -1806,6 +2114,13 @@
     },
     {
       "encuentro": "45",
+      "fecha": 12,
+      "equipoLocal": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -1847,6 +2162,13 @@
     },
     {
       "encuentro": "46",
+      "fecha": 12,
+      "equipoLocal": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -1888,6 +2210,13 @@
     },
     {
       "encuentro": "47",
+      "fecha": 12,
+      "equipoLocal": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -1929,6 +2258,13 @@
     },
     {
       "encuentro": "48",
+      "fecha": 12,
+      "equipoLocal": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -1970,6 +2306,13 @@
     },
     {
       "encuentro": "49",
+      "fecha": 13,
+      "equipoLocal": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "equipoVisita": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -2011,6 +2354,13 @@
     },
     {
       "encuentro": "50",
+      "fecha": 13,
+      "equipoLocal": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -2052,6 +2402,13 @@
     },
     {
       "encuentro": "51",
+      "fecha": 13,
+      "equipoLocal": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -2093,6 +2450,13 @@
     },
     {
       "encuentro": "52",
+      "fecha": 13,
+      "equipoLocal": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -2134,6 +2498,13 @@
     },
     {
       "encuentro": "53",
+      "fecha": 14,
+      "equipoLocal": "97cc8b40-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "787d7190-f647-11eb-a77f-f56ba64fd3a0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -2175,6 +2546,13 @@
     },
     {
       "encuentro": "54",
+      "fecha": 14,
+      "equipoLocal": "97f2ff00-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "981a8430-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -2216,6 +2594,13 @@
     },
     {
       "encuentro": "55",
+      "fecha": 14,
+      "equipoLocal": "979c2c70-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "95c6d030-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",
@@ -2257,6 +2642,13 @@
     },
     {
       "encuentro": "56",
+      "fecha": 14,
+      "equipoLocal": "97067c20-f59c-11eb-842e-4f44b59e4ef0",
+      "equipoVisita": "9674c370-f59c-11eb-842e-4f44b59e4ef0",
+      "mapasLocal": 0,
+      "mapasVisita": 0,
+      "rondasLocal": 0,
+      "rondasVisita": 0,
       "partidas": [
         {
           "mapa": "",

@@ -46,7 +46,7 @@ export default {
       );
     },
     actualizarResultadoPrueba({ dispatch }, { resource, id, newData }) {
-      console.log("Admin -> actualizarResultadoPrueba");
+      // console.log("Admin -> actualizarResultadoPrueba");
       dispatch(
         "updateItemPrueba",
         { resource, id, newData: { partidas: newData } },

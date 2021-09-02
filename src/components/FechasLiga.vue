@@ -5,7 +5,7 @@
       <div class="mb-8 border-2 border-black">
         <h1 class="text-center text-white bg-black">Fecha {{ index + 1 }}</h1>
         <!-- duelo x -->
-        <router-link
+        <!-- <router-link
           v-for="encuentro in encuentros"
           :key="encuentro"
           :to="{
@@ -22,6 +22,29 @@
             <div class="col-span-2">vs</div>
             <div>{{ resultadosDetalle(encuentro.numero).visita }}</div>
             <div class="col-span-4">{{ encuentro.visitaNombre }}</div>
+          </div>
+        </router-link> -->
+        <router-link
+          v-for="resultado in resultados"
+          :key="resultado"
+          :to="{
+            name: 'ResultadosDetalle',
+            params: { encuentroId: resultado.encuentro },
+          }"
+        >
+          <div
+            v-if="index + 1 === resultado.fecha"
+            class="grid grid-cols-12 text-center divide-x-2 divide-black"
+          >
+            <div class="col-span-4">
+              {{ nombreEquipo(resultado.equipoLocal) }}
+            </div>
+            <div>{{ resultado.mapasLocal }}</div>
+            <div class="col-span-2">vs</div>
+            <div>{{ resultado.mapasVisita }}</div>
+            <div class="col-span-4">
+              {{ nombreEquipo(resultado.equipoVisita) }}
+            </div>
           </div>
         </router-link>
       </div>
@@ -43,12 +66,7 @@ export default {
   },
   methods: {
     nombreEquipo(id) {
-      const { name } =
-        this.equipos.find((e) => {
-          e.id == id;
-        }) || {};
-      return name;
-      // return "";
+      return this.equipos.find((e) => e.id === id).name;
     },
     resultadosDetalle(encuentroId) {
       const resultados =

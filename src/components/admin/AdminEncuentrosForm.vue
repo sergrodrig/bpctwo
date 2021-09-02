@@ -66,28 +66,28 @@ export default {
         },
         {
           mapa: this.partidas[1]?.mapa || "",
-          local: this.partidas[1]?.local.local || 0,
-          visita: this.partidas[1]?.local || 0,
+          local: this.partidas[1]?.local || 0,
+          visita: this.partidas[1]?.visita || 0,
         },
         {
           mapa: this.partidas[2]?.mapa || "",
           local: this.partidas[2]?.local || 0,
-          visita: this.partidas[2]?.local || 0,
+          visita: this.partidas[2]?.visita || 0,
         },
         {
           mapa: this.partidas[3]?.mapa || "",
           local: this.partidas[3]?.local || 0,
-          visita: this.partidas[3]?.local || 0,
+          visita: this.partidas[3]?.visita || 0,
         },
         {
           mapa: this.partidas[4]?.mapa || "",
           local: this.partidas[4]?.local || 0,
-          visita: this.partidas[4]?.local || 0,
+          visita: this.partidas[4]?.visita || 0,
         },
         {
           mapa: this.partidas[5]?.mapa || "",
           local: this.partidas[5]?.local || 0,
-          visita: this.partidas[5]?.local || 0,
+          visita: this.partidas[5]?.visita || 0,
         },
       ],
     };
@@ -101,7 +101,7 @@ export default {
       "admin/actualizarResultadoPrueba",
     ]),
     async save() {
-      console.log("AdminEncuentrosForm -> save");
+      // console.log("AdminEncuentrosForm -> save");
       await this["admin/actualizarResultadoPrueba"]({
         resource: "resultados",
         id: this.encuentroFirebaseId,

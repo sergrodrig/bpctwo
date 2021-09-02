@@ -82,6 +82,7 @@ export default {
   async created() {
     await this.fetchAllItems("encuentros");
     await this.fetchAllItems("equipos");
+    await this.fetchAllItems("mapas");
     await this.fetchAllItems("resultados");
     this.asyncDataStatus_fetch();
   },

@@ -14,8 +14,8 @@ const db = admin.firestore();
 exports.actualizarResultado = functions.firestore
   .document("resultados/{resultadoId}")
   .onUpdate(async (change, context) => {
-    const documentoAfter = change.after.data();
-    const partidas = documentoAfter.partidas;
+    const documentoActualizado = change.after.data();
+    const partidas = documentoActualizado.partidas;
     const mapasLocal = partidas.filter((p) => p.local == 6).length;
     const mapasVisita = partidas.filter((p) => p.visita == 6).length;
     const rondasLocal = partidas.reduce((t, p) => t + Number(p.local), 0);

@@ -9,11 +9,11 @@
     <!-- resultados -->
     <div class="w-full border-4 border-black divide-y-2 divide-black">
       <div
-        class="grid px-2 py-2 text-sm text-white bg-black border-t border-gray-600  grid-cols-16"
+        class="grid grid-cols-12 px-2 py-2 text-sm text-white bg-black border-t border-gray-600 "
       >
-        <div class="col-span-2 text-center">Mov</div>
+        <!-- <div class="col-span-2 text-center">Mov</div> -->
         <div class="col-span-2 text-center md:col-span-1">Pos.</div>
-        <div class="col-span-10 md:col-span-5">Clan</div>
+        <div class="col-span-8 md:col-span-3">Clan</div>
         <div class="text-center">J</div>
         <div class="hidden text-center md:block">G</div>
         <div class="hidden text-center md:block">E</div>
@@ -24,56 +24,40 @@
         <div class="text-center">Pts</div>
       </div>
       <div
-        v-for="(posicion, index) in posiciones"
-        :key="posicion"
-        class="grid px-2 py-2 grid-cols-16"
+        v-for="(equipo, index) in equiposOrdenados"
+        :key="equipo"
+        class="grid grid-cols-12 px-2 py-2"
       >
-        <div class="flex items-center justify-center col-span-2">
-          <component class="w-4" :is="movimiento(posicion)"></component>
-        </div>
+        <!-- <div class="flex items-center justify-center col-span-2">
+          <component class="w-4" :is="equipo"></component>
+        </div> -->
         <div class="col-span-2 text-center md:col-span-1">{{ index + 1 }}</div>
-        <div class="col-span-10 md:col-span-5">{{ posicion.clan }}</div>
-        <div class="text-center">
-          {{ fechasJugadas(posicion.estadisticas) }}
+        <div class="col-span-8 md:col-span-3">{{ equipo.name }}</div>
+        <div class="text-center">{{ equipo.fechasJugadas }}</div>
+        <div class="hidden text-center md:block">
+          {{ equipo.fechasGanadas }}
         </div>
         <div class="hidden text-center md:block">
-          {{ fechasGanadas(posicion.estadisticas) }}
+          {{ equipo.fechasEmpatadas }}
         </div>
         <div class="hidden text-center md:block">
-          {{ fechasEmpatadas(posicion.estadisticas) }}
+          {{ equipo.fechasPerdidas }}
         </div>
         <div class="hidden text-center md:block">
-          {{ fechasPerdidas(posicion.estadisticas) }}
+          {{ equipo.roundsGanados }}
         </div>
         <div class="hidden text-center md:block">
-          {{ roundsGanados(posicion.estadisticas) }}
+          {{ equipo.roundsPerdidos }}
         </div>
-        <div class="hidden text-center md:block">
-          {{ roundsPerdidos(posicion.estadisticas) }}
-        </div>
-        <div class="hidden text-center md:block">
-          {{
-            ratio(
-              roundsGanados(posicion.estadisticas),
-              roundsPerdidos(posicion.estadisticas)
-            )
-          }}
-        </div>
-        <div class="text-center">
-          {{
-            puntos(
-              fechasGanadas(posicion.estadisticas),
-              fechasEmpatadas(posicion.estadisticas)
-            )
-          }}
-        </div>
+        <div class="hidden text-center md:block">{{ equipo.ratioRounds }}</div>
+        <div class="text-center">{{ equipo.puntos }}</div>
       </div>
     </div>
     <div class="px-3 py-4 text-xs text-gray-500">
-      <p>
+      <!-- <p>
         <span class="font-bold">Mov: </span> Movimiento en la tabla respecto
         fecha anterior
-      </p>
+      </p> -->
       <p><span class="font-bold">Pos: </span> Posicion en la tabla</p>
       <p><span class="font-bold">J: </span> Fechas Jugadas</p>
       <p><span class="font-bold">G: </span> Fechas Ganadas</p>
@@ -88,16 +72,29 @@
 </template>
 
 <script>
+import { mapState } from "vuex";
+
 import SvgArrowSmUp from "@/components/SvgArrowSmUp";
 import SvgArrowSmDown from "@/components/SvgArrowSmDown";
 import SvgMinus from "@/components/SvgMinus";
 
 export default {
   name: "TablaPosiciones",
+  data() {
+    return {
+      // [].sort(this.ordenar(["", ""], "pts", "w_l"));
+    };
+  },
   components: {
     SvgArrowSmUp,
     SvgArrowSmDown,
     SvgMinus,
+  },
+  computed: {
+    ...mapState(["equipos", "resultados"]),
+    equiposOrdenados() {
+      return this.ordenar(this.equipos, "puntos", "ratioRounds");
+    },
   },
   methods: {
     ordenar(arr, prop1, prop2) {
@@ -109,62 +106,8 @@ export default {
           return a[prop1] > b[prop1] ? -1 : 1;
         }
       });
+      return arr;
     },
-    fechasJugadas(estadisticas) {
-      return estadisticas.filter((fecha) => fecha.resultado !== null).length;
-    },
-    fechasGanadas(estadisticas) {
-      return estadisticas.filter((x) => x.resultado === 1).length;
-    },
-    fechasEmpatadas(estadisticas) {
-      return estadisticas.filter((x) => x.resultado === 0).length;
-    },
-    fechasPerdidas(estadisticas) {
-      return estadisticas.filter((x) => x.resultado === -1).length;
-    },
-    puntos(triunfos, empates) {
-      return triunfos * 3 + empates * 1;
-    },
-    roundsGanados(estadisticas) {
-      const rounds = Object.values(estadisticas).reduce(
-        (total, { roundsGanados }) => total + roundsGanados,
-        0
-      );
-      return rounds;
-    },
-    roundsPerdidos(estadisticas) {
-      const rounds = Object.values(estadisticas).reduce(
-        (total, { roundsPerdidos }) => total + roundsPerdidos,
-        0
-      );
-      return rounds;
-    },
-    ratio(roundsGanados, roundsPerdidos) {
-      if (roundsPerdidos === 0) return roundsGanados;
-      else if (roundsPerdidos === 0 && roundsGanados === 0) return 0;
-      const ratio = roundsGanados / roundsPerdidos;
-      return ratio;
-    },
-    movimiento(posicion) {
-      const fechasJugadas = this.fechasJugadas(posicion.estadisticas);
-      if (fechasJugadas === 0) if (fechasJugadas === 0) return "SvgMinus";
-      const ultimaPosicion = posicion.estadisticas.find(
-        (fecha) => fecha.fecha === fechasJugadas
-      );
-      const penultimaPosicion = posicion.estadisticas.find(
-        (fecha) => fecha.fecha === fechasJugadas - 1
-      );
-      if (ultimaPosicion.posicion < penultimaPosicion.posicion)
-        return "SvgArrowSmUp";
-      else if (ultimaPosicion.posicion === penultimaPosicion.posicion)
-        return "SvgMinus";
-      else if (ultimaPosicion.posicion > penultimaPosicion.posicion)
-        return "SvgArrowSmDown";
-    },
-  },
-  mounted() {
-    // this.posiciones.sort(this.ordenar(this.posiciones, "pts", "w_l"));
-    [].sort(this.ordenar(["", ""], "pts", "w_l"));
   },
 };
 </script>

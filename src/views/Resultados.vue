@@ -6,7 +6,7 @@
     <!-- tabla de posiciones -->
     <div class="max-w-3xl p-4 mx-auto space-y-8 lg:py-8">
       <!-- tabla -->
-      <!-- <TablaPosiciones /> -->
+      <TablaPosiciones />
       <FechasLiga />
     </div>
   </div>
