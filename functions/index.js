@@ -45,65 +45,65 @@ exports.actualizarResultado = functions.firestore
     );
 
     // referencias del nuevo resultado y de los equipos
-    const nuevoResultado = resultadoRef.get();
-    const equipoLocalRef = db.collection("equipos").doc(equipoLocalId);
-    const equipoVisitaRef = db.collection("equipos").doc(equipoVisitaId);
-    const infoEquipoLocal = await equipoLocalRef.get();
-    const infoEquipoVisita = await equipoVisitaRef.get();
+    // const nuevoResultado = resultadoRef.get();
+    // const equipoLocalRef = db.collection("equipos").doc(equipoLocalId);
+    // const equipoVisitaRef = db.collection("equipos").doc(equipoVisitaId);
+    // const infoEquipoLocal = await equipoLocalRef.get();
+    // const infoEquipoVisita = await equipoVisitaRef.get();
 
     // determinar ganador
-    const ganador = localEmpateVisita(mapasLocal, mapasVisita);
-    const ratio
+    // const ganador = localEmpateVisita(mapasLocal, mapasVisita);
+    // const ratio
 
     // actualizacion del documento del equipo local
-    if (ganador === "local") {
-      console.log("entrando al if local");
-      await equipoLocalRef.set({
-        puntos: admin.firestore.FieldValue.increment(3),
-        fechasGanadas: admin.firestore.FieldValue.increment(1),
-        roundsGanados: admin.firestore.FieldValue.increment(roundsLocal),
-        roundsPerdidos: admin.firestore.FieldValue.increment(roundsVisita),
-      });
-      await equipoVisitaRef.set({
-        fechasPerdidas: admin.firestore.FieldValue.increment(1),
-        roundsGanados: admin.firestore.FieldValue.increment(roundsVisita),
-        roundsPerdidos: admin.firestore.FieldValue.increment(roundsLocal),
-      });
-    }
+    // if (ganador === "local") {
+    //   console.log("entrando al if local");
+    //   await equipoLocalRef.set({
+    //     puntos: admin.firestore.FieldValue.increment(3),
+    //     fechasGanadas: admin.firestore.FieldValue.increment(1),
+    //     roundsGanados: admin.firestore.FieldValue.increment(roundsLocal),
+    //     roundsPerdidos: admin.firestore.FieldValue.increment(roundsVisita),
+    //   });
+    //   await equipoVisitaRef.set({
+    //     fechasPerdidas: admin.firestore.FieldValue.increment(1),
+    //     roundsGanados: admin.firestore.FieldValue.increment(roundsVisita),
+    //     roundsPerdidos: admin.firestore.FieldValue.increment(roundsLocal),
+    //   });
+    // }
 
-    if (ganador === "visita") {
-      console.log("entrando al if visita");
-      await equipoLocalRef.set({
-        puntos: admin.firestore.FieldValue.increment(3),
-        fechasPerdidas: admin.firestore.FieldValue.increment(1),
-        roundsGanados: admin.firestore.FieldValue.increment(roundsLocal),
-        roundsPerdidos: admin.firestore.FieldValue.increment(roundsVisita),
-      });
-      await equipoVisitaRef.set({
-        puntos: admin.firestore.FieldValue.increment(3),
-        fechasGanadas: admin.firestore.FieldValue.increment(1),
-        roundsGanados: admin.firestore.FieldValue.increment(roundsVisita),
-        roundsPerdidos: admin.firestore.FieldValue.increment(roundsLocal),
-      });
-    }
+    // if (ganador === "visita") {
+    //   console.log("entrando al if visita");
+    //   await equipoLocalRef.set({
+    //     puntos: admin.firestore.FieldValue.increment(3),
+    //     fechasPerdidas: admin.firestore.FieldValue.increment(1),
+    //     roundsGanados: admin.firestore.FieldValue.increment(roundsLocal),
+    //     roundsPerdidos: admin.firestore.FieldValue.increment(roundsVisita),
+    //   });
+    //   await equipoVisitaRef.set({
+    //     puntos: admin.firestore.FieldValue.increment(3),
+    //     fechasGanadas: admin.firestore.FieldValue.increment(1),
+    //     roundsGanados: admin.firestore.FieldValue.increment(roundsVisita),
+    //     roundsPerdidos: admin.firestore.FieldValue.increment(roundsLocal),
+    //   });
+    // }
 
-    if (ganador === "empate") {
-      console.log("entrando al if empate");
-      console.log(`actualizando al equipo ${equipoLocalId}`);
-      await equipoLocalRef.update({
-        puntos: admin.firestore.FieldValue.increment(1),
-        fechasEmpatadas: admin.firestore.FieldValue.increment(1),
-        roundsGanados: admin.firestore.FieldValue.increment(roundsLocal),
-        roundsPerdidos: admin.firestore.FieldValue.increment(roundsVisita),
-      });
-      console.log(`actualizando al visita ${equipoVisitaId}`);
-      await equipoVisitaRef.update({
-        puntos: admin.firestore.FieldValue.increment(1),
-        fechasEmpatadas: admin.firestore.FieldValue.increment(1),
-        roundsGanados: admin.firestore.FieldValue.increment(roundsVisita),
-        roundsPerdidos: admin.firestore.FieldValue.increment(roundsLocal),
-      });
-    }
+    // if (ganador === "empate") {
+    //   console.log("entrando al if empate");
+    //   console.log(`actualizando al equipo ${equipoLocalId}`);
+    //   await equipoLocalRef.update({
+    //     puntos: admin.firestore.FieldValue.increment(1),
+    //     fechasEmpatadas: admin.firestore.FieldValue.increment(1),
+    //     roundsGanados: admin.firestore.FieldValue.increment(roundsLocal),
+    //     roundsPerdidos: admin.firestore.FieldValue.increment(roundsVisita),
+    //   });
+    //   console.log(`actualizando al visita ${equipoVisitaId}`);
+    //   await equipoVisitaRef.update({
+    //     puntos: admin.firestore.FieldValue.increment(1),
+    //     fechasEmpatadas: admin.firestore.FieldValue.increment(1),
+    //     roundsGanados: admin.firestore.FieldValue.increment(roundsVisita),
+    //     roundsPerdidos: admin.firestore.FieldValue.increment(roundsLocal),
+    //   });
+    // }
   });
 
 const localEmpateVisita = (ml, mv) => {
