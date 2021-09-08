@@ -47,7 +47,7 @@
           v-for="mapa in resultadosDetalle.partidas"
           :key="mapa"
         >
-          <p class="font-bold">{{ mapa.mapa }}</p>
+          <p class="font-bold">{{ nombreMapa(mapa.mapa).name }}</p>
           <div class="grid grid-cols-2 divide-x">
             <p class="text-2xl">{{ mapa.local }}</p>
             <p class="text-2xl">{{ mapa.visita }}</p>
@@ -113,6 +113,9 @@ export default {
   },
   methods: {
     ...mapActions(["fetchAllItems"]),
+    nombreMapa(id) {
+      return this.mapas.find((m) => m.id === id) || { name: "Walkover" };
+    },
   },
 };
 </script>

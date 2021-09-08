@@ -74,7 +74,7 @@ export default {
         },
         {
           fechasJugadas: "5",
-          fechasGanadas: "5",
+          fechasGanadas: "4",
           fechasEmpatadas: "0",
           fechasPerdidas: "1",
           puntos: "12",

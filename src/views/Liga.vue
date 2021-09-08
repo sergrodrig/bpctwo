@@ -26,6 +26,9 @@
                 >Jueves a las 22:00 hrs.</span
               >
               a menos que se coordine un cambio consensuado entre los equipos.
+              El plazo maximo para reprogramar el duelo es hasta la fecha
+              siguiente. Si no se llega a acuerdo el equipo que no pueda jugar
+              pierde 6-0 por walkover y se le dan los 3 puntos al otro equipo.
             </li>
             <li>
               La fecha consta de
@@ -103,8 +106,10 @@
               reinicar.
             </li>
             <li>
-              Cada equipo tendra un lider que representa al equipo para las
-              votaciones, acuerdos, etc...
+              Cada equipo tendra un capitan que representa al equipo para las
+              votaciones, acuerdos, etc... Solo el capitan del equipo local
+              subira las fotos del duelo al grupo de whatsapp indicando el
+              resultado final. <span>Ej. Equipo XXX gano 6-0 a XXX.</span>
             </li>
             <li>
               Los equipos deben enviar una captura de pantalla o una foto del

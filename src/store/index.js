@@ -25,7 +25,7 @@ export default createStore({
     users: [],
 
     //
-    mantencion: true,
+    mantencion: false,
   },
   mutations,
   actions,
