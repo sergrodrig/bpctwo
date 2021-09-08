@@ -7,6 +7,7 @@
     <div
       class="max-w-5xl p-8 mx-auto space-y-8  sm:max-w-2xl md:max-w-3xl lg:max-w-4xl"
     >
+      <!-- <AdminMantencion /> -->
       <AdminEncuentros />
       <AdminSoldadosList />
       <AdminEquiposList />
@@ -20,6 +21,7 @@ import { mapState, mapActions } from "vuex";
 import asyncDataStatus from "@/mixins/asyncDataStatus";
 
 import TituloPagina from "@/components/TituloPagina";
+import AdminMantencion from "@/components/admin/AdminMantencion";
 import AdminEncuentros from "@/components/admin/AdminEncuentros";
 import AdminSoldadosList from "@/components/admin/AdminSoldadosList";
 import AdminEquiposList from "@/components/admin/AdminEquiposList";
@@ -32,6 +34,7 @@ export default {
     AdminSoldadosList,
     AdminEquiposList,
     AdminRegimientosList,
+    AdminMantencion,
   },
   emits: ["ready"],
   mixins: [asyncDataStatus],

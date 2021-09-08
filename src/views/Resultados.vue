@@ -6,7 +6,8 @@
     <!-- tabla de posiciones -->
     <div class="max-w-3xl p-4 mx-auto space-y-8 lg:py-8">
       <!-- tabla -->
-      <TablaPosiciones />
+      <TablaPosicionesEnDuro />
+      <!-- <TablaPosiciones /> -->
       <FechasLiga />
     </div>
   </div>
@@ -18,6 +19,7 @@ import asyncDataStatus from "@/mixins/asyncDataStatus";
 
 import TituloPagina from "@/components/TituloPagina";
 import TablaPosiciones from "@/components/TablaPosiciones";
+import TablaPosicionesEnDuro from "@/components/TablaPosicionesEnDuro";
 import FechasLiga from "@/components/FechasLiga";
 
 export default {
@@ -25,6 +27,7 @@ export default {
   components: {
     TituloPagina,
     TablaPosiciones,
+    TablaPosicionesEnDuro,
     FechasLiga,
   },
   mixins: [asyncDataStatus],

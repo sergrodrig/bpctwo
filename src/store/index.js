@@ -15,6 +15,7 @@ export default createStore({
     regimientos: [],
     resultados: [],
     soldados: [],
+    tablaEnDuro: [],
 
     //
     authId: null,
@@ -22,6 +23,9 @@ export default createStore({
     authUserUnsubscribe: null,
     authObserverUnsubscribe: null,
     users: [],
+
+    //
+    mantencion: true,
   },
   mutations,
   actions,

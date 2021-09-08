@@ -4,6 +4,7 @@ import store from "@/store";
 // const UserDetails = () => import("./views/UserDetails");
 
 const Home = () => import("../views/Home.vue");
+const Mantencion = () => import("../views/Mantencion.vue");
 const SignIn = () => import("../views/SignIn.vue");
 const SignUp = () => import("../views/SignUp.vue");
 const Admin = () => import("../views/Admin.vue");
@@ -20,6 +21,12 @@ const routes = [
     path: "/",
     name: "Home",
     component: Home,
+    meta: { toTop: true, smoothScroll: true },
+  },
+  {
+    path: "/mantencion",
+    name: "Mantencion",
+    component: Mantencion,
     meta: { toTop: true, smoothScroll: true },
   },
   {
@@ -105,7 +112,13 @@ const router = createRouter({
 
 router.beforeEach(async (to, from) => {
   await store.dispatch("initAuthentication");
-  if (to.meta.requiresAuth && !store.state.authId) {
+  if (
+    store.state.mantencion &&
+    !store.state.authId &&
+    !["Mantencion", "Home", "SignIn"].includes(to.name)
+  ) {
+    return "Mantencion";
+  } else if (to.meta.requiresAuth && !store.state.authId) {
     return { name: "SignIn", query: { redirectTo: to.path } };
   }
 });
