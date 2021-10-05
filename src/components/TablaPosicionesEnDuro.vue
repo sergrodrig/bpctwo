@@ -9,7 +9,7 @@
     <!-- resultados -->
     <div class="w-full border-4 border-black divide-y-2 divide-black">
       <div
-        class="grid grid-cols-12 px-2 py-2 text-sm text-white bg-black border-t border-gray-600 md:grid-cols-9"
+        class="grid grid-cols-12 px-2 py-2 text-sm text-white bg-black border-t border-gray-600  md:grid-cols-9"
       >
         <!-- <div class="col-span-2 text-center">Mov</div> -->
         <div class="col-span-2 text-center md:col-span-1">Pos.</div>
@@ -113,32 +113,18 @@ export default {
           name: "Zicariato de la Perra",
         },
         {
-<<<<<<< HEAD
           fechasJugadas: "7",
           fechasGanadas: "1",
           fechasEmpatadas: "1",
           fechasPerdidas: "5",
-=======
-          fechasJugadas: "5",
-          fechasGanadas: "1",
-          fechasEmpatadas: "1",
-          fechasPerdidas: "3",
->>>>>>> 8aae0530cc2efdbdeff08c1d7ff04db3966f0e15
           puntos: "4",
           name: "Wutang lag",
         },
         {
-<<<<<<< HEAD
           fechasJugadas: "8",
           fechasGanadas: "0",
           fechasEmpatadas: "0",
           fechasPerdidas: "8",
-=======
-          fechasJugadas: "6",
-          fechasGanadas: "0",
-          fechasEmpatadas: "0",
-          fechasPerdidas: "6",
->>>>>>> 8aae0530cc2efdbdeff08c1d7ff04db3966f0e15
           puntos: "0",
           name: "Mancoster United Reloaded",
         },
